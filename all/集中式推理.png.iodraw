@@ -20,7 +20,7 @@
           <mxGeometry x="55.5" y="490" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-51" value="推理计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="275" y="305" width="124" height="49" as="geometry" />
+          <mxGeometry x="275" y="307" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-52" value="推理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="275" y="380" width="124" height="49" as="geometry" />
@@ -63,7 +63,7 @@
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.65;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-52" target="JxkF-b0hrZkTUUCf5Vr6-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="480" />
+              <mxPoint x="290" y="460" />
               <mxPoint x="260" y="490" />
               <mxPoint x="190" y="460" />
             </Array>
