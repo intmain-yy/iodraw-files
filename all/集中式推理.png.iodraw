@@ -7,7 +7,7 @@
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-46" value="云端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="194" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-47" value="客户端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-47" value="客户端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="194" height="540" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-48" value="数据上传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
