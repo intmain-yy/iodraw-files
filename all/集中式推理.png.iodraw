@@ -17,7 +17,7 @@
           <mxGeometry x="61" y="154" width="113" height="113" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-50" value="结果回传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="564" width="124" height="49" as="geometry" />
+          <mxGeometry x="55" y="560" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-51" value="推理计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="275" y="305" width="124" height="49" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="156" y="291" />
-              <mxPoint x="156" y="316" />
+              <mxPoint x="190" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
