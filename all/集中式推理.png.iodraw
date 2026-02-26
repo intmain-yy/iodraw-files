@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-1" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="175" width="124" height="49" as="geometry" />
+          <mxGeometry x="380" y="160" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-2" value="数据预处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="316" y="274" width="129" height="129" as="geometry" />
