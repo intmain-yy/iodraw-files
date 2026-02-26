@@ -13,7 +13,7 @@
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-3" value="特征提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="318" y="452" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-4" value="上传至云端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-4" value="上传中心推理节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="551" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-5" value="集中式推理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
