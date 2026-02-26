@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-46" value="云端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="230" y="280" width="170" height="170" as="geometry" />
+          <mxGeometry x="230" y="240" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-47" value="客户端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="20" y="30" width="194" height="540" as="geometry" />
@@ -20,10 +20,10 @@
           <mxGeometry x="55.5" y="490" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-51" value="推理计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255" y="307" width="124" height="49" as="geometry" />
+          <mxGeometry x="255" y="267" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-52" value="推理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="255" y="380" width="124" height="49" as="geometry" />
+          <mxGeometry x="255" y="340" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=0.99;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-48" target="JxkF-b0hrZkTUUCf5Vr6-49">
           <mxGeometry relative="1" as="geometry">
