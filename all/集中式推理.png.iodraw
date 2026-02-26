@@ -19,10 +19,10 @@
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-50" value="结果回传" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="55" y="430" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-51" value="推理计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-51" value="推理计算" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="255" y="267" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-52" value="推理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-52" value="推理结果" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="255" y="340" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=0.99;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-48" target="JxkF-b0hrZkTUUCf5Vr6-49">
