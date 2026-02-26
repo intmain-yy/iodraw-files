@@ -4,6 +4,70 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-46" value="云端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="234" y="316" width="194" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-47" value="客户端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="30" width="194" height="607" as="geometry" />
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-48" value="数据上传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="55" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-49" value="云端推理" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="61" y="154" width="113" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-50" value="结果回传" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="564" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-51" value="推理计算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="269" y="341" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-52" value="推理结果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="269" y="440" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-53" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.35;exitY=0.99;entryX=0.26;entryY=0;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-48" target="JxkF-b0hrZkTUUCf5Vr6-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="79" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-54" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=0.99;entryX=0.35;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-49" target="JxkF-b0hrZkTUUCf5Vr6-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="79" y="291" />
+              <mxPoint x="79" y="539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=0.99;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-49" target="JxkF-b0hrZkTUUCf5Vr6-51">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="156" y="291" />
+              <mxPoint x="156" y="316" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-51" target="JxkF-b0hrZkTUUCf5Vr6-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.65;exitY=0.99;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-48" target="JxkF-b0hrZkTUUCf5Vr6-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="156" y="129" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JxkF-b0hrZkTUUCf5Vr6-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.65;entryY=-0.01;rounded=0;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-52" target="JxkF-b0hrZkTUUCf5Vr6-50">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="331" y="514" />
+              <mxPoint x="156" y="539" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
