@@ -5,33 +5,33 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-1" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="371" y="175" width="124" height="49" as="geometry" />
+          <mxGeometry x="370" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-2" value="数据预处理" style="rhombus;strokeWidth=2;whiteSpace=wrap;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="316" y="274" width="129" height="129" as="geometry" />
+          <mxGeometry x="320" y="270" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-3" value="特征提取" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="318" y="452" width="124" height="49" as="geometry" />
+          <mxGeometry x="320" y="450" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-4" value="上传中心推理节点" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="551" width="140" height="49" as="geometry" />
+          <mxGeometry x="310" y="550" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-5" value="集中式推理" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="310" y="650" width="140" height="49" as="geometry" />
+          <mxGeometry x="310" y="650" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-6" value="结果生成" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="318" y="748" width="124" height="49" as="geometry" />
+          <mxGeometry x="320" y="750" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-7" value="回传结果" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="318" y="847" width="124" height="49" as="geometry" />
+          <mxGeometry x="320" y="850" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-8" value="用户/应用" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="366" y="946" width="132" height="49" as="geometry" />
+          <mxGeometry x="370" y="950" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=0.99;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-1" target="JxkF-b0hrZkTUUCf5Vr6-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="249" />
+              <mxPoint x="380" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -63,15 +63,15 @@
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.31;entryY=-0.01;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-7" target="JxkF-b0hrZkTUUCf5Vr6-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="380" y="921" />
+              <mxPoint x="380" y="920" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="JxkF-b0hrZkTUUCf5Vr6-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=-0.01;entryX=0.7;entryY=0.99;rounded=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="JxkF-b0hrZkTUUCf5Vr6-8" target="JxkF-b0hrZkTUUCf5Vr6-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="921" />
-              <mxPoint x="485" y="249" />
+              <mxPoint x="490" y="920" />
+              <mxPoint x="490" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
