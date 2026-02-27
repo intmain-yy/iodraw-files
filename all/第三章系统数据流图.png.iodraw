@@ -23,7 +23,7 @@
           <mxGeometry x="73" y="370" width="217" height="67" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-8" value="重新计算新切分点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="500" width="253" height="49" as="geometry" />
+          <mxGeometry x="55" y="460" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="95" y="590" width="173" height="49" as="geometry" />
