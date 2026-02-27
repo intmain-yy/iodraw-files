@@ -89,7 +89,7 @@
             <mxPoint x="182" y="263" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-29" value="是：队列积压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dIaZUhYWe7wx_FGZW1NM-28">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-29" value="是：队列积压" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="dIaZUhYWe7wx_FGZW1NM-28">
           <mxGeometry x="-0.8012" relative="1" as="geometry">
             <mxPoint x="-44" as="offset" />
           </mxGeometry>
