@@ -14,7 +14,7 @@
           <mxGeometry x="620" y="40" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-4" value="检测积压?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="520" y="227.5" width="154.75" height="123" as="geometry" />
+          <mxGeometry x="520" y="227.5" width="130" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-5" value="继续当前切分策略处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="120" width="127" height="49" as="geometry" />
