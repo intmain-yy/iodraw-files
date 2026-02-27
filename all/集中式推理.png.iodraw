@@ -10,7 +10,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-2" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="1015" width="420" height="411" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-3" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-3" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="114" y="669" width="345" height="248" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-4" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
