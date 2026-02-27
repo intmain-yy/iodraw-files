@@ -35,7 +35,7 @@
           <mxGeometry x="915" y="95" width="156" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-11" value="compute_queue: 计算队列" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="890" y="289" width="145" height="79" as="geometry" />
+          <mxGeometry x="920.5" y="251.5" width="145" height="79" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-12" value="T_compute: 计算线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="873" y="446" width="188" height="34" as="geometry" />
@@ -108,9 +108,8 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-26" value="8. 反序列化" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-10" target="bsaImPFtkGP7xesvfBqz-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-27" value="9. 推入队列" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-17" target="bsaImPFtkGP7xesvfBqz-11">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-27" value="9. 推入队列" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-17" target="bsaImPFtkGP7xesvfBqz-11">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
             <mxPoint x="988" y="214" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
