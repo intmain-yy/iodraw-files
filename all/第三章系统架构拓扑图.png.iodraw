@@ -11,7 +11,7 @@
           <mxGeometry x="520" y="250" width="220" height="156" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="400" height="690" as="geometry" />
+          <mxGeometry x="100" y="40" width="400" height="700" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-4" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="233.63" y="98" width="109" height="49" as="geometry" />
