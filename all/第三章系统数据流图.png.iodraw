@@ -29,7 +29,7 @@
           <mxGeometry x="95" y="540" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="640" y="328.5" width="160" height="49" as="geometry" />
+          <mxGeometry x="640" y="390" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-12" value="轻量级同步屏障 Synchronization Barrier" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="889.5" y="400" width="209" height="52" as="geometry" />
@@ -65,7 +65,7 @@
             <Array as="points">
               <mxPoint x="182" y="599" />
               <mxPoint x="444" y="599" />
-              <mxPoint x="444" y="353" />
+              <mxPoint x="444" y="415" />
             </Array>
             <mxPoint x="182" y="858" as="sourcePoint" />
           </mxGeometry>
@@ -73,8 +73,8 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-23" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-11" target="dIaZUhYWe7wx_FGZW1NM-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="800" y="350" />
-              <mxPoint x="994" y="350" />
+              <mxPoint x="800" y="410" />
+              <mxPoint x="994" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
