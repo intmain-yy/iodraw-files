@@ -8,7 +8,7 @@
           <mxGeometry y="250" width="460" height="883" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="659" width="420" height="428" as="geometry" />
+          <mxGeometry x="100" y="659" width="340" height="428" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="490" y="499" width="263" height="243" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="998" y="604" width="211" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="525" y="524" width="193" height="193" as="geometry" />
+          <mxGeometry x="540" y="542" width="157" height="157" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="174" y="693" width="210" height="49" as="geometry" />
