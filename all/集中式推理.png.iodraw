@@ -17,7 +17,7 @@
           <mxGeometry x="784" y="200" width="783" height="710" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="804" y="570" width="743" height="256" as="geometry" />
+          <mxGeometry x="804" y="570" width="636" height="256" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-35" value="传感器数据采集 RGB/IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1070" y="250" width="242" height="49" as="geometry" />
