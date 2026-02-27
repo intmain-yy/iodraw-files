@@ -8,7 +8,7 @@
           <mxGeometry x="610" y="190" width="510" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="345" width="323" height="315" as="geometry" />
+          <mxGeometry x="20" y="345" width="323" height="275" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="439" y="20" width="137" height="34" as="geometry" />
@@ -17,7 +17,7 @@
           <mxGeometry x="97.5" y="97" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-5" value="继续当前切分策略处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="343" y="265" width="222" height="49" as="geometry" />
+          <mxGeometry x="343" y="265" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-6" value="发送重评估请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="88" y="369.5" width="187" height="60" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="55" y="460" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="590" width="173" height="49" as="geometry" />
+          <mxGeometry x="95" y="540" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="328.5" width="238" height="49" as="geometry" />
