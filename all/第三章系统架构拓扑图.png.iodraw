@@ -32,7 +32,7 @@
           <mxGeometry x="582" y="285" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-10" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="915" y="95" width="156" height="34" as="geometry" />
+          <mxGeometry x="890.5" y="95" width="205" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-11" value="compute_queue: 计算队列" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="920.5" y="251.5" width="145" height="79" as="geometry" />
