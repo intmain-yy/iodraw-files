@@ -26,7 +26,7 @@
           <mxGeometry x="55" y="500" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="685" width="173" height="49" as="geometry" />
+          <mxGeometry x="95" y="590" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-10" value="边缘端接收新指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="87" y="809" width="190" height="49" as="geometry" />
