@@ -50,7 +50,7 @@
           <mxGeometry x="115.5" y="318" width="273" height="62" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-45" value="模型柔性切分器" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="165" y="411" width="174" height="49" as="geometry" />
+          <mxGeometry x="160" y="411" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-35" target="E8ASV8FCEGFRi4fyUCNn-36">
           <mxGeometry relative="1" as="geometry">
