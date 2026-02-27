@@ -144,7 +144,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-32" value="14. 结果接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.17;exitY=1;entryX=1;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-8">
           <mxGeometry x="-0.0007" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="500" />
+              <mxPoint x="620" y="540" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
