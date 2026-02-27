@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-52" value="序列化张量流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.088;exitY=0.785;entryX=1;entryY=0.5;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#A8201A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-40" target="E8ASV8FCEGFRi4fyUCNn-41">
-          <mxGeometry x="0.1786" y="-14" relative="1" as="geometry">
+          <mxGeometry x="-0.0133" y="-19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="660" />
             </Array>
