@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-27" value="控制通道" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="341" y="316.25" width="110" height="40" as="geometry" />
+          <mxGeometry x="330" y="316.25" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
