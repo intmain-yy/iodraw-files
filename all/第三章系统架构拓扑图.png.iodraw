@@ -99,7 +99,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="549" y="705" />
+              <mxPoint x="800" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
