@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-1" value="边缘端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-1" value="边缘端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="180" width="410" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="270" height="275" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
