@@ -55,11 +55,10 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="170" />
-              <mxPoint x="530" y="90" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-17" value="是: 队列积压" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-4" target="dIaZUhYWe7wx_FGZW1NM-6">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-17" value="是: 队列积压" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-4" target="dIaZUhYWe7wx_FGZW1NM-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="182" y="309" />
