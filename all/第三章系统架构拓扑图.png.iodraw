@@ -8,7 +8,7 @@
           <mxGeometry x="790" y="40" width="340" height="570" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-2" value="网络传输" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="520" y="260" width="220" height="146" as="geometry" />
+          <mxGeometry x="520" y="250" width="220" height="156" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="100" y="40" width="400" height="650" as="geometry" />
@@ -28,8 +28,8 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-8" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="156.5" y="550" width="223.5" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-9" value="TCP Socket" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="582" y="285" width="96" height="96" as="geometry" />
+        <mxCell id="bsaImPFtkGP7xesvfBqz-9" value="TCP Socket" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="582" y="300" width="96" height="96" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-10" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="857.5" y="95" width="205" height="34" as="geometry" />
