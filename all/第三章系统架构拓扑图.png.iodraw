@@ -44,7 +44,7 @@
           <mxGeometry x="814" y="584" width="232" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-14" value="输出推理结果" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="183.13" y="650" width="173" height="49" as="geometry" />
+          <mxGeometry x="198.88" y="670" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-15" value="中间特征张量 H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="200" height="40" as="geometry" />
@@ -152,6 +152,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-33" value="15. 触发逻辑" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;fontSize=20;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-8" target="bsaImPFtkGP7xesvfBqz-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
