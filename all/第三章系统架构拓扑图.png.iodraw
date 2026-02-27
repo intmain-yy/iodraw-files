@@ -44,7 +44,7 @@
           <mxGeometry x="981" y="637" width="158" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-14" value="输出推理结果" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="148" y="680" width="190" height="49" as="geometry" />
+          <mxGeometry x="156" y="588" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-15" value="中间特征张量 H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="280" y="220" width="138" height="49" as="geometry" />
