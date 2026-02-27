@@ -14,7 +14,7 @@
           <mxGeometry x="630" y="120" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-4" value="检测积压?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="510" y="280" width="130" height="112.5" as="geometry" />
+          <mxGeometry x="510" y="286.25" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-5" value="继续当前切分策略处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="635" y="250" width="127" height="49" as="geometry" />
@@ -65,7 +65,8 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-22" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-9" target="dIaZUhYWe7wx_FGZW1NM-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="440" />
+              <mxPoint x="510" y="480" />
+              <mxPoint x="510" y="439" />
             </Array>
             <mxPoint x="182" y="858" as="sourcePoint" />
           </mxGeometry>
