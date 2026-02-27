@@ -119,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-55" value="全局带宽与算力视图" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-44" target="E8ASV8FCEGFRi4fyUCNn-36">
-          <mxGeometry x="0.0309" y="-21" relative="1" as="geometry">
+          <mxGeometry x="-0.0251" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="330" />
             </Array>
@@ -142,7 +142,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="970" />
-              <mxPoint x="138" y="972" />
               <mxPoint x="566" y="935" />
             </Array>
           </mxGeometry>
