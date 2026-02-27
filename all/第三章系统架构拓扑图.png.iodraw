@@ -89,7 +89,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=0.99;entryX=0;entryY=0.39;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="bsaImPFtkGP7xesvfBqz-9">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.39;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitDx=0;exitDy=0;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="bsaImPFtkGP7xesvfBqz-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="243" y="559" />
