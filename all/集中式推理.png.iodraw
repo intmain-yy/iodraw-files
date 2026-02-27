@@ -34,7 +34,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-39" value="结果接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#0F8B8D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="894" y="623" width="211" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#0F8B8D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#143642;fillColor=#FAE5C7;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#ae4132;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#fad9d5;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="530" y="524" width="157" height="157" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#0F8B8D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="1">
