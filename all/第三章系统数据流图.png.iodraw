@@ -7,17 +7,17 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-1" value="边缘端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="420" y="180" width="410" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="270" height="275" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="20" width="137" height="34" as="geometry" />
+          <mxGeometry x="365" y="20" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-4" value="边缘端检测积压?" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="115.25" y="97" width="132.5" height="93" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-5" value="继续当前切分策略处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="325" y="120" width="127" height="49" as="geometry" />
+          <mxGeometry x="370" y="119" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-6" value="发送重评估请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="90.5" y="263" width="182" height="40" as="geometry" />
