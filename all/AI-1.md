@@ -40,7 +40,7 @@ graph TD
     N1 ==>|结果回传| A6
     
     A2 -.->|心跳与状态同步| C4
-    C4 -.->|全局带宽与算力视图| A2
+    %% C4 -.->|全局带宽与算力视图| A2
 
     classDef edge fill:#e1f5fe,stroke:#333,stroke-width:2px;
     classDef cloud fill:#fff3e0,stroke:#333,stroke-width:2px;
