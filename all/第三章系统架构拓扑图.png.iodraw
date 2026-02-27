@@ -32,7 +32,7 @@
           <mxGeometry x="900" y="660" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-39" value="结果接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="889" y="574" width="221" height="66" as="geometry" />
+          <mxGeometry x="889" y="577" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#f9f7ed;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="540" y="533.5" width="157" height="157" as="geometry" />
@@ -79,7 +79,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-50" value="" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.42;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeWidth=3;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-36" target="E8ASV8FCEGFRi4fyUCNn-45">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-50" value="" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.42;rounded=0;exitX=0.398;exitY=0.976;exitDx=0;exitDy=0;dashed=1;strokeWidth=3;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;exitPerimeter=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-36" target="E8ASV8FCEGFRi4fyUCNn-45">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="450" />
