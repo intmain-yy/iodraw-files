@@ -8,7 +8,7 @@
           <mxGeometry x="490" y="190" width="480" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="70" y="267" width="230" height="243" as="geometry" />
+          <mxGeometry x="70" y="247" width="230" height="243" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="137" height="34" as="geometry" />
@@ -17,16 +17,16 @@
           <mxGeometry x="510" y="267" width="130" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-5" value="继续当前切分策略处理" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="635" y="250" width="127" height="49" as="geometry" />
+          <mxGeometry x="635" y="240" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-6" value="发送重评估请求" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="90.5" y="317" width="182" height="40" as="geometry" />
+          <mxGeometry x="90.5" y="297" width="182" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-8" value="重新计算新切分点" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="104" y="387" width="155" height="49" as="geometry" />
+          <mxGeometry x="104" y="367" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="113.5" y="454" width="136" height="45" as="geometry" />
+          <mxGeometry x="113.5" y="434" width="136" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="530" y="408" width="150" height="62" as="geometry" />
@@ -54,7 +54,7 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-19" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-6" target="dIaZUhYWe7wx_FGZW1NM-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="182" y="458" as="sourcePoint" />
+            <mxPoint x="182" y="438" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-8" target="dIaZUhYWe7wx_FGZW1NM-9">
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-27" value="控制通道" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="330" y="316.25" width="110" height="40" as="geometry" />
+          <mxGeometry x="330" y="297" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
