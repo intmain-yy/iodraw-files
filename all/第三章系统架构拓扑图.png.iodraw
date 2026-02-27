@@ -53,7 +53,7 @@
           <mxGeometry x="210" y="230" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-17" value="H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="497" y="880" width="88" height="49" as="geometry" />
+          <mxGeometry x="720.5" y="848" width="88" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-18" value="最终结果 Y_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="740" y="1180" width="155" height="49" as="geometry" />
@@ -132,7 +132,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-30" value="12. 发送回传" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.19;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-18" target="bsaImPFtkGP7xesvfBqz-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1000" y="1220" />
+              <mxPoint x="970" y="1250" />
             </Array>
           </mxGeometry>
         </mxCell>
