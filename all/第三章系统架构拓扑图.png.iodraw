@@ -43,7 +43,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-42" value="Stage 2: 云端前向推理线程 T_compute" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="143" y="720" width="252" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#d5e8d4;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="146" y="850" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-44" value="全局资源调度与状态监控" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -119,7 +119,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-55" value="全局带宽与算力视图" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.25;rounded=0;entryDx=0;entryDy=0;fontSize=15;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-44" target="E8ASV8FCEGFRi4fyUCNn-36">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-55" value="全局带宽与算力视图" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.25;rounded=0;entryDx=0;entryDy=0;fontSize=18;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-44" target="E8ASV8FCEGFRi4fyUCNn-36">
           <mxGeometry x="-0.0468" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="270" />
