@@ -95,7 +95,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-10">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-10">
           <mxGeometry x="0.0436" y="-29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="130" />
@@ -109,14 +109,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-27" value="9. 推入队列" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-17" target="bsaImPFtkGP7xesvfBqz-11">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-27" value="9. 推入队列" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-17" target="bsaImPFtkGP7xesvfBqz-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="958" y="217" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-28" value="10. 获取 H_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-11" target="bsaImPFtkGP7xesvfBqz-12">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.0139" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-29" value="11. 执行模型后半部分" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-12" target="bsaImPFtkGP7xesvfBqz-18">
