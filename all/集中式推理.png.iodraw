@@ -41,7 +41,7 @@
           <mxGeometry x="164" y="614" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-42" value="Stage 2: 云端前向推理线程 T_compute" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#0F8B8D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="143" y="735" width="252" height="67" as="geometry" />
+          <mxGeometry x="143" y="720" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#0F8B8D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="146" y="860" width="212" height="49" as="geometry" />
