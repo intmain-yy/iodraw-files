@@ -35,7 +35,7 @@
           <mxGeometry x="650" y="303" width="210" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-13" value="应用新切分点策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="220" width="190" height="49" as="geometry" />
+          <mxGeometry x="660" y="220" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-3" target="dIaZUhYWe7wx_FGZW1NM-4">
           <mxGeometry relative="1" as="geometry" />
@@ -65,8 +65,7 @@
             <Array as="points">
               <mxPoint x="182" y="480" />
               <mxPoint x="360" y="480" />
-              <mxPoint x="360" y="335" />
-              <mxPoint x="440" y="335" />
+              <mxPoint x="360" y="325" />
             </Array>
             <mxPoint x="182" y="858" as="sourcePoint" />
           </mxGeometry>
