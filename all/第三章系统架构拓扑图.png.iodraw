@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=#fad9d5;fillStyle=auto;strokeColor=#ae4132;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=#fad9d5;fillStyle=auto;strokeColor=#ae4132;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="250" width="390" height="700" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;strokeColor=#10739e;align=center;fontFamily=Helvetica;fillColor=#b1ddf0;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -13,7 +13,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillStyle=auto;align=center;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="490" y="452" width="270" height="243" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=21;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fillStyle=auto;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fillStyle=auto;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="784" y="220" width="686" height="580" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=none;" vertex="1" parent="1">
