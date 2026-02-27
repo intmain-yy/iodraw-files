@@ -53,7 +53,7 @@
           <mxGeometry x="120" y="280" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-17" value="H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="890.62" y="183" width="78.75" height="40" as="geometry" />
+          <mxGeometry x="890.61" y="192" width="78.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-18" value="最终结果 Y_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="842.49" y="490" width="175" height="36" as="geometry" />
@@ -132,7 +132,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-31" value="13. 结果流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0;exitY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-13" target="bsaImPFtkGP7xesvfBqz-9">
-          <mxGeometry x="0.1371" y="-58" relative="1" as="geometry">
+          <mxGeometry x="0.0863" y="-25" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="530" />
             </Array>
