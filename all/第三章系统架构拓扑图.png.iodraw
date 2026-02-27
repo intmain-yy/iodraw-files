@@ -11,7 +11,7 @@
           <mxGeometry x="85" y="570" width="340" height="350" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillStyle=auto;align=center;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="480" y="456" width="300" height="243" as="geometry" />
+          <mxGeometry x="480" y="456" width="300" height="254" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fillStyle=auto;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="784" y="220" width="686" height="580" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="889" y="574" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#f9f7ed;dashed=1;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="540" y="525.5" width="157" height="157" as="geometry" />
+          <mxGeometry x="540" y="533.5" width="157" height="157" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="135" y="614" width="234" height="49" as="geometry" />
