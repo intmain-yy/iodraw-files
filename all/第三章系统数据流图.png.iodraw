@@ -26,13 +26,13 @@
           <mxGeometry x="54" y="346" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="64" y="421" width="135" height="49" as="geometry" />
+          <mxGeometry x="64" y="421" width="136" height="39" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="524.75" y="418" width="150" height="49" as="geometry" />
+          <mxGeometry x="524.75" y="416" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-12" value="轻量级同步屏障 Synchronization Barrier" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="715" y="418" width="160" height="43" as="geometry" />
+          <mxGeometry x="715" y="419" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-13" value="应用新切分点策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="725" y="280" width="140" height="49" as="geometry" />
