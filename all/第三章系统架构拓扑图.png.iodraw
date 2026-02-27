@@ -83,7 +83,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-23" value="5. 弹出并序列化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;fontSize=17;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-6" target="bsaImPFtkGP7xesvfBqz-7">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-23" value="5. 弹出并序列化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;fontSize=20;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-6" target="bsaImPFtkGP7xesvfBqz-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -104,8 +104,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-26" value="8. 反序列化" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-10" target="bsaImPFtkGP7xesvfBqz-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="bsaImPFtkGP7xesvfBqz-26" value="8. 反序列化" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=19;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-10" target="bsaImPFtkGP7xesvfBqz-17">
+          <mxGeometry x="0.0196" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-27" value="9. 推入队列" style="startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitX=0.5;exitY=1;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-17" target="bsaImPFtkGP7xesvfBqz-11">
           <mxGeometry relative="1" as="geometry">
