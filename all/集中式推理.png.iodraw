@@ -5,71 +5,71 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端/协同节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="15.05" y="236.5" width="460" height="870" as="geometry" />
+          <mxGeometry x="20" y="430" width="460" height="870" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="35.05" y="520" width="420" height="428" as="geometry" />
+          <mxGeometry x="40" y="826" width="420" height="428" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="263" height="243" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="871" y="200" width="783" height="790" as="geometry" />
+          <mxGeometry x="784" y="200" width="783" height="790" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="891" y="570" width="743" height="256" as="geometry" />
+          <mxGeometry x="804" y="570" width="743" height="256" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-35" value="传感器数据采集 RGB/IMU" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1157" y="250" width="242" height="49" as="geometry" />
+          <mxGeometry x="1070" y="250" width="242" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-36" value="动态上下文感知模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="987" y="330" width="205" height="49" as="geometry" />
+          <mxGeometry x="900" y="330" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-37" value="Stage 0: 边缘前向推理线程 T_infer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1346" y="595" width="252" height="67" as="geometry" />
+          <mxGeometry x="1259" y="595" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-38" value="Stage 1: 张量发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1125" y="735" width="220" height="67" as="geometry" />
+          <mxGeometry x="1038" y="735" width="220" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-39" value="结果接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1085" y="604" width="211" height="49" as="geometry" />
+          <mxGeometry x="998" y="604" width="211" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="545" y="575" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="189.05" y="554" width="210" height="49" as="geometry" />
+          <mxGeometry x="194" y="860" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-42" value="Stage 2: 云端前向推理线程 T_compute" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="168.05" y="685" width="252" height="67" as="geometry" />
+          <mxGeometry x="173" y="991" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="107.05" y="875" width="212" height="49" as="geometry" />
+          <mxGeometry x="112" y="1181" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-44" value="全局资源调度与状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="148.05" y="277.5" width="238" height="49" as="geometry" />
+          <mxGeometry x="153" y="471" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-45" value="模型柔性切分器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180.05" y="376.5" width="174" height="49" as="geometry" />
+          <mxGeometry x="185" y="570" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-35" target="E8ASV8FCEGFRi4fyUCNn-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1298" y="299" />
+              <mxPoint x="1211" y="299" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.66;entryY=0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-35" target="E8ASV8FCEGFRi4fyUCNn-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1543" y="299" />
+              <mxPoint x="1456" y="299" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-48" value="中间特征张量" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-37" target="E8ASV8FCEGFRi4fyUCNn-38">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1472" y="699" />
+              <mxPoint x="1385" y="699" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -94,21 +94,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-52" value="序列化张量流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.31;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" target="E8ASV8FCEGFRi4fyUCNn-41">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-52" value="序列化张量流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.31;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-40" target="E8ASV8FCEGFRi4fyUCNn-41">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="586" y="822.5" />
-              <mxPoint x="299" y="859.5" />
+              <mxPoint x="586" y="935" />
+              <mxPoint x="299" y="972" />
             </Array>
-            <mxPoint x="607.7645148464339" y="649.411100211558" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-53" value="下发切分策略" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-45">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-53" value="下发切分策略" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-45" target="E8ASV8FCEGFRi4fyUCNn-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="267.05" y="498.5" />
+              <mxPoint x="272" y="692" />
             </Array>
-            <mxPoint x="545.0020617381199" y="447.48402057937346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-54" value="下发切分策略" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.81;exitY=1;entryX=0.3;entryY=0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-40" target="E8ASV8FCEGFRi4fyUCNn-37">
@@ -136,7 +134,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-57" value="推理结果/分类概率" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.66;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-42" target="E8ASV8FCEGFRi4fyUCNn-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="294.05" y="838" />
+              <mxPoint x="299" y="1144" />
             </Array>
           </mxGeometry>
         </mxCell>
