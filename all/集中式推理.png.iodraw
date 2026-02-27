@@ -87,11 +87,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-51" value="序列化张量流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0;exitY=0.5;entryX=0.5;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-38" target="E8ASV8FCEGFRi4fyUCNn-40">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0986" y="-50" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="840" y="900" />
-              <mxPoint x="770" y="900" />
+              <mxPoint x="780" y="840" />
             </Array>
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-52" value="序列化张量流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.31;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-40" target="E8ASV8FCEGFRi4fyUCNn-41">
