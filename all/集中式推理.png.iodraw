@@ -140,7 +140,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-58" value="结果回传" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0.23;entryY=1;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-43" target="E8ASV8FCEGFRi4fyUCNn-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="200" y="970" />
+              <mxPoint x="420" y="1039" />
               <mxPoint x="566" y="935" />
             </Array>
           </mxGeometry>
