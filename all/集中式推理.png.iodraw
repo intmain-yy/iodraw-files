@@ -17,7 +17,7 @@
           <mxGeometry x="784" y="200" width="686" height="670" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="809" y="530" width="636" height="256" as="geometry" />
+          <mxGeometry x="800" y="530" width="636" height="256" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-35" value="传感器数据采集 RGB/IMU" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#0F8B8D;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#143642;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="1070" y="250" width="242" height="49" as="geometry" />
@@ -115,7 +115,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="920" y="470" />
-              <mxPoint x="1210" y="520" />
+              <mxPoint x="1210" y="510" />
             </Array>
           </mxGeometry>
         </mxCell>
