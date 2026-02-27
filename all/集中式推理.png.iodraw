@@ -109,11 +109,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-54" value="下发切分策略" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.81;exitY=1;entryX=0.3;entryY=0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-40" target="E8ASV8FCEGFRi4fyUCNn-37">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-54" value="下发切分策略" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0;entryX=0.3;entryY=0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-40" target="E8ASV8FCEGFRi4fyUCNn-37">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="820" y="480" />
-              <mxPoint x="1080" y="530" />
+              <mxPoint x="920" y="470" />
+              <mxPoint x="1090" y="500" />
               <mxPoint x="1230" y="570" />
             </Array>
           </mxGeometry>
