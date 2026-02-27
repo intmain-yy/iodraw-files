@@ -7,7 +7,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=#331A00;fillStyle=auto;strokeColor=#6D1F00;align=center;fontFamily=Helvetica;fontColor=#ffffff;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="75" y="250" width="390" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;strokeColor=#432D57;align=center;fontFamily=Helvetica;fontColor=#ffffff;fillColor=#001933;" vertex="1" parent="1">
           <mxGeometry x="90" y="570" width="340" height="428" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
