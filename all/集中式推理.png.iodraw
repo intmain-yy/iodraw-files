@@ -149,8 +149,6 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-59" value="结果回传" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.73;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-40" target="E8ASV8FCEGFRi4fyUCNn-39">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="688" y="935" />
-              <mxPoint x="870" y="790" />
               <mxPoint x="1030" y="799" />
             </Array>
           </mxGeometry>
