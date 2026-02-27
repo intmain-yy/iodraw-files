@@ -29,7 +29,7 @@
           <mxGeometry x="95" y="590" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="645" y="215" width="238" height="49" as="geometry" />
+          <mxGeometry x="644.5" y="230" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-12" value="轻量级同步屏障 Synchronization Barrier" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="659" y="314" width="209" height="52" as="geometry" />
