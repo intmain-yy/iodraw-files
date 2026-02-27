@@ -11,7 +11,7 @@
           <mxGeometry x="70" y="230" width="250" height="275" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="620" y="150" width="137" height="34" as="geometry" />
+          <mxGeometry x="620" y="120" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-4" value="检测积压?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="130" height="112.5" as="geometry" />
