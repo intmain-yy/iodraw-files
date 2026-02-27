@@ -28,16 +28,16 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-37" value="Stage 0: 边缘前向推理线程 T_infer" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#E1F5FE;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#003366;" vertex="1" parent="1">
           <mxGeometry x="1160" y="614" width="252" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-38" value="Stage 1: 张量发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#003366;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-38" value="Stage 1: 张量发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#E1F5FE;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#003366;" vertex="1" parent="1">
           <mxGeometry x="920" y="700" width="220" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-39" value="结果接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#001DBC;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#003366;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-39" value="结果接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#E1F5FE;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#003366;" vertex="1" parent="1">
           <mxGeometry x="894" y="623" width="211" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#6F0000;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#a20025;" vertex="1" parent="1">
           <mxGeometry x="530" y="524" width="157" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#432D57;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#76608a;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#E1F5FE;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#76608a;" vertex="1" parent="1">
           <mxGeometry x="164" y="614" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-42" value="Stage 2: 云端前向推理线程 T_compute" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#432D57;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#76608a;" vertex="1" parent="1">
