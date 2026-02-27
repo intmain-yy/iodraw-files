@@ -64,8 +64,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="182" y="480" />
-              <mxPoint x="360" y="480" />
-              <mxPoint x="360" y="325" />
+              <mxPoint x="510" y="480" />
             </Array>
             <mxPoint x="182" y="858" as="sourcePoint" />
           </mxGeometry>
@@ -87,7 +86,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-27" value="控制通道" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="310" y="540" width="182" height="40" as="geometry" />
+          <mxGeometry x="340" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
