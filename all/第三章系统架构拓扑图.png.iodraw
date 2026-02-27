@@ -1,191 +1,160 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="t7NzhDeyLSStr3CaNuQk">
-    <mxGraphModel dx="2253" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bsaImPFtkGP7xesvfBqz-1" value="云端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="452" width="345" height="626" as="geometry" />
+          <mxGeometry x="524" y="759" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-2" value="网络传输" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="857" width="246" height="146" as="geometry" />
+          <mxGeometry x="556" y="617" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1163" width="245" height="823" as="geometry" />
+          <mxGeometry x="204" y="20" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-4" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="144.16666666666666" width="109" height="49" as="geometry" />
+          <mxGeometry x="214" y="55" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-5" value="T_infer: 推理线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="118.66666666666666" y="149" width="160" height="34" as="geometry" />
+          <mxGeometry x="184" y="150" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-6" value="send_queue: 内存队列" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="61.457763671875" y="432" width="175" height="78" as="geometry" />
+          <mxGeometry x="174" y="363" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-7" value="T_send: 发送线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="124.41552734375" y="610" width="158" height="34" as="geometry" />
+          <mxGeometry x="183" y="473" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-8" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="196" y="940" width="156" height="34" as="geometry" />
+          <mxGeometry x="198" y="786" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-9" value="TCP Socket" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="208.8603515625" y="744" width="96" height="96" as="geometry" />
+          <mxGeometry x="533" y="587" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-10" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="10" y="940" width="156" height="34" as="geometry" />
+          <mxGeometry x="494" y="786" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-11" value="compute_queue: 计算队列" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="6.8125" y="1223" width="204" height="81" as="geometry" />
+          <mxGeometry x="443" y="1026" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-12" value="T_compute: 计算线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="50.90625" y="1404" width="188" height="34" as="geometry" />
+          <mxGeometry x="453" y="1137" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-13" value="T_send: 发送线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="155.75" y="1687" width="158" height="34" as="geometry" />
+          <mxGeometry x="556" y="1328" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-14" value="输出推理结果" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="145" y="1074" width="190" height="49" as="geometry" />
+          <mxGeometry x="203" y="907" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-15" value="中间特征张量 H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry y="283" width="189" height="49" as="geometry" />
+          <mxGeometry x="659" y="246" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-16" value="第 k+1 帧 X_k+1" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="219" y="283" width="173" height="49" as="geometry" />
+          <mxGeometry x="433" y="246" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-17" value="H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="27" y="1074" width="88" height="49" as="geometry" />
+          <mxGeometry x="44" y="907" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-18" value="最终结果 Y_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="103.5" y="1538" width="155" height="49" as="geometry" />
+          <mxGeometry x="224" y="1233" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-19" value="1. 捕获第 k 帧图像 X_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-4" target="bsaImPFtkGP7xesvfBqz-5">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-19" value="1. 捕获第 k 帧图像 X_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-4" target="bsaImPFtkGP7xesvfBqz-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsaImPFtkGP7xesvfBqz-20" value="2. 执行前半部分模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0;entryY=0.27;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="198.66666666666666" y="61" />
-              <mxPoint x="198.66666666666663" y="137" />
+              <mxPoint x="290" y="209" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-20" value="2. 执行前半部分模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1;entryX=0;entryY=0.27;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-15">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-21" value="3. 推入队列" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-15" target="bsaImPFtkGP7xesvfBqz-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="161.16666666666666" y="195" />
-              <mxPoint x="94.5" y="271" />
+              <mxPoint x="243" y="312" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-21" value="3. 推入队列" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-15" target="bsaImPFtkGP7xesvfBqz-6">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-22" value="4. 立即处理" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=0;entryY=0.19;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="94.5" y="344" />
-              <mxPoint x="148.957763671875" y="420" />
+              <mxPoint x="197" y="209" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-22" value="4. 立即处理" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=0;entryY=0.19;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-16">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-23" value="5. 弹出并序列化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-6" target="bsaImPFtkGP7xesvfBqz-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=0.99;entryX=0;entryY=0.39;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="bsaImPFtkGP7xesvfBqz-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="236.16666666666663" y="195" />
-              <mxPoint x="305.5" y="271" />
+              <mxPoint x="243" y="559" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-23" value="5. 弹出并序列化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-6" target="bsaImPFtkGP7xesvfBqz-7">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="148.957763671875" y="522" />
-              <mxPoint x="203.41552734375" y="598" />
+              <mxPoint x="549" y="705" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=0.99;entryX=0;entryY=0.39;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="bsaImPFtkGP7xesvfBqz-9">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-26" value="8. 反序列化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.41;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-10" target="bsaImPFtkGP7xesvfBqz-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="203.41552734375" y="656" />
-              <mxPoint x="256.8603515625" y="732" />
+              <mxPoint x="549" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.3;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-10">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-27" value="9. 推入队列" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-17" target="bsaImPFtkGP7xesvfBqz-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="228.19368489583334" y="852" />
-              <mxPoint x="88" y="928" />
+              <mxPoint x="523" y="973" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-26" value="8. 反序列化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.41;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-10" target="bsaImPFtkGP7xesvfBqz-17">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-28" value="10. 获取 H_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-11" target="bsaImPFtkGP7xesvfBqz-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bsaImPFtkGP7xesvfBqz-29" value="11. 执行模型后半部分" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.16;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-12" target="bsaImPFtkGP7xesvfBqz-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="88" y="986" />
-              <mxPoint x="71" y="1062" />
+              <mxPoint x="523" y="1196" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-27" value="9. 推入队列" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.6;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-17" target="bsaImPFtkGP7xesvfBqz-11">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-30" value="12. 发送回传" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.19;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-18" target="bsaImPFtkGP7xesvfBqz-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="71" y="1135" />
-              <mxPoint x="108.8125" y="1211" />
+              <mxPoint x="489" y="1299" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-28" value="10. 获取 H_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-11" target="bsaImPFtkGP7xesvfBqz-12">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-31" value="13. 结果流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.61;exitY=-0.01;entryX=1;entryY=0.93;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-13" target="bsaImPFtkGP7xesvfBqz-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="108.8125" y="1316" />
-              <mxPoint x="144.90625" y="1392" />
+              <mxPoint x="662" y="1299" />
+              <mxPoint x="662" y="705" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-29" value="11. 执行模型后半部分" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.16;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-12" target="bsaImPFtkGP7xesvfBqz-18">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-32" value="14. 结果接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="144.90625" y="1450" />
-              <mxPoint x="181" y="1526" />
+              <mxPoint x="529" y="705" />
+              <mxPoint x="253" y="732" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-30" value="12. 发送回传" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.19;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-18" target="bsaImPFtkGP7xesvfBqz-13">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-33" value="15. 触发逻辑" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-8" target="bsaImPFtkGP7xesvfBqz-14">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="181" y="1599" />
-              <mxPoint x="197.75" y="1675" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-31" value="13. 结果流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.61;exitY=-0.01;entryX=1;entryY=0.93;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-13" target="bsaImPFtkGP7xesvfBqz-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="271.75" y="1675" />
-              <mxPoint x="382" y="1637" />
-              <mxPoint x="382" y="1488" />
-              <mxPoint x="382" y="1488" />
-              <mxPoint x="382" y="1354" />
-              <mxPoint x="382" y="1354" />
-              <mxPoint x="382" y="1173" />
-              <mxPoint x="382" y="1173" />
-              <mxPoint x="382" y="1024" />
-              <mxPoint x="382" y="1024" />
-              <mxPoint x="382" y="890" />
-              <mxPoint x="285.5270182291667" y="852" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-32" value="14. 结果接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.17;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-9" target="bsaImPFtkGP7xesvfBqz-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="256.8603515625" y="854" />
-              <mxPoint x="274" y="928" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-33" value="15. 触发逻辑" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-8" target="bsaImPFtkGP7xesvfBqz-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="274" y="986" />
-              <mxPoint x="240" y="1062" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
