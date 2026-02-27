@@ -14,7 +14,7 @@
           <mxGeometry x="510" y="590" width="263" height="243" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="784" y="200" width="783" height="870" as="geometry" />
+          <mxGeometry x="784" y="200" width="783" height="790" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="804" y="617" width="743" height="256" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1210" y="225" width="242" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-36" value="动态上下文感知模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1108" y="324" width="205" height="49" as="geometry" />
+          <mxGeometry x="900" y="330" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-37" value="Stage 0: 边缘前向推理线程 T_infer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1259" y="642" width="252" height="67" as="geometry" />
