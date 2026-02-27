@@ -7,7 +7,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-1" value="云端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="790" y="40" width="340" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-2" value="网络传输" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-2" value="网络传输" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;align=center;fontFamily=Helvetica;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="520" y="260" width="220" height="146" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
