@@ -11,7 +11,7 @@
           <mxGeometry x="520" y="260" width="220" height="146" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="340" height="650" as="geometry" />
+          <mxGeometry x="100" y="40" width="400" height="650" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-4" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="215.5" y="95" width="109" height="49" as="geometry" />
@@ -66,7 +66,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-20" value="2. 执行前半部分模型" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-15">
           <mxGeometry x="-0.0037" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="250" />
+              <mxPoint x="410" y="240" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
