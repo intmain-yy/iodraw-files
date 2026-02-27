@@ -41,7 +41,7 @@
           <mxGeometry x="800" y="375" width="257" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-13" value="T_send: 发送线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="814" y="543" width="232" height="34" as="geometry" />
+          <mxGeometry x="814" y="560" width="232" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-14" value="输出推理结果" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="184.5" y="620" width="173" height="49" as="geometry" />
