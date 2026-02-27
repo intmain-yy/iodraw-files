@@ -7,7 +7,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端/协同节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="75" y="250" width="390" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="90" y="570" width="340" height="428" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
@@ -16,7 +16,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="784" y="200" width="686" height="670" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="804" y="570" width="636" height="256" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-35" value="传感器数据采集 RGB/IMU" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
