@@ -103,7 +103,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-53" value="下发切分策略" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0;entryY=0.33;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#FFFFFF;labelBackgroundColor=none;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-45" target="E8ASV8FCEGFRi4fyUCNn-40">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-53" value="下发切分策略" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0;entryY=0.33;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-45" target="E8ASV8FCEGFRi4fyUCNn-40">
           <mxGeometry x="-0.1549" y="28" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="570" />
