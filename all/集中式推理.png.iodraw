@@ -119,11 +119,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-55" value="全局带宽与算力视图" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-44" target="E8ASV8FCEGFRi4fyUCNn-36">
-          <mxGeometry x="-0.0251" y="19" relative="1" as="geometry">
+          <mxGeometry x="-0.0512" y="-10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="330" />
+              <mxPoint x="690" y="270" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-56" value="反序列化张量" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-41" target="E8ASV8FCEGFRi4fyUCNn-42">
@@ -157,7 +157,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-60" value="心跳与状态同步" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.54;exitY=1;entryX=1;entryY=0.37;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-36" target="E8ASV8FCEGFRi4fyUCNn-44">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="970" y="420" />
+              <mxPoint x="680" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
