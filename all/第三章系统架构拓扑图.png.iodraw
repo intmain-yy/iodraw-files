@@ -43,8 +43,8 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-42" value="Stage 2: 云端前向推理线程 T_compute" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="120" y="720" width="275" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="146" y="850" width="212" height="49" as="geometry" />
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="120" y="850" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-44" value="全局资源调度与状态监控" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="115.5" y="318" width="273" height="62" as="geometry" />
