@@ -17,7 +17,7 @@
           <mxGeometry x="97.5" y="97" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-5" value="继续当前切分策略处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="325" y="250" width="127" height="49" as="geometry" />
+          <mxGeometry x="343" y="170" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-6" value="发送重评估请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="88" y="369.5" width="187" height="60" as="geometry" />
