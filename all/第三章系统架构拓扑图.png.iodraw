@@ -19,8 +19,8 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-34" value="边缘端流水线 Edge Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="802" y="521.5" width="650" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-35" value="传感器数据采集 RGB/IMU" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#cce5ff;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="270" width="242" height="49" as="geometry" />
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-35" value="传感器数据采集 RGB/IMU" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="270" width="259" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-36" value="动态上下文感知模块" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fillColor=#cce5ff;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="865" y="342" width="205" height="49" as="geometry" />
