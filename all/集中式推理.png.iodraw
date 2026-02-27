@@ -1,14 +1,14 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="LArUMWbxTy2vSlnU-Gz8">
-    <mxGraphModel dx="2037" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2864" dy="1059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端/协同节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="20" y="430" width="460" height="870" as="geometry" />
+          <mxGeometry y="190" width="460" height="870" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="40" y="826" width="420" height="428" as="geometry" />
+          <mxGeometry x="20" y="586" width="420" height="428" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="510" y="550" width="263" height="243" as="geometry" />
@@ -38,19 +38,19 @@
           <mxGeometry x="545" y="575" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="194" y="860" width="210" height="49" as="geometry" />
+          <mxGeometry x="174" y="620" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-42" value="Stage 2: 云端前向推理线程 T_compute" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="173" y="991" width="252" height="67" as="geometry" />
+          <mxGeometry x="153" y="751" width="252" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="112" y="1181" width="212" height="49" as="geometry" />
+          <mxGeometry x="92" y="941" width="212" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-44" value="全局资源调度与状态监控" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="153" y="471" width="238" height="49" as="geometry" />
+          <mxGeometry x="133" y="231" width="238" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-45" value="模型柔性切分器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="185" y="570" width="174" height="49" as="geometry" />
+          <mxGeometry x="165" y="330" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-35" target="E8ASV8FCEGFRi4fyUCNn-36">
           <mxGeometry relative="1" as="geometry">
@@ -134,7 +134,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-57" value="推理结果/分类概率" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.66;entryY=-0.01;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-42" target="E8ASV8FCEGFRi4fyUCNn-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="299" y="1144" />
+              <mxPoint x="279" y="904" />
             </Array>
           </mxGeometry>
         </mxCell>
