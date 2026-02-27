@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-1" value="平滑切换机制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-1" value="边缘端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="28" y="908" width="683" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
@@ -27,9 +27,6 @@
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="95" y="590" width="173" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-10" value="边缘端接收新指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="87" y="809" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="63" y="933" width="238" height="49" as="geometry" />
@@ -81,14 +78,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-9" target="dIaZUhYWe7wx_FGZW1NM-10">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="182" y="809" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-10" target="dIaZUhYWe7wx_FGZW1NM-11">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="dIaZUhYWe7wx_FGZW1NM-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="182" y="858" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-11" target="dIaZUhYWe7wx_FGZW1NM-12">
