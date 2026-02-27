@@ -10,7 +10,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;strokeColor=#9673a6;align=center;fontFamily=Helvetica;fillColor=#e1d5e7;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="90" y="570" width="340" height="350" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillStyle=auto;align=center;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillStyle=auto;align=center;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="452" width="280" height="243" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fillStyle=auto;labelBackgroundColor=none;" vertex="1" parent="1">
@@ -28,7 +28,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-37" value="Stage 0: 边缘前向推理线程 T_infer" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="1140" y="574" width="290" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-38" value="Stage 1: 张量发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fillColor=#cce5ff;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-38" value="Stage 1: 张量发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="900" y="660" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-39" value="结果接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
