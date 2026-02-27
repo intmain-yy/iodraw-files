@@ -47,8 +47,8 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-15" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.89;entryX=0.38;entryY=0;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-4" target="dIaZUhYWe7wx_FGZW1NM-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="426" y="309" />
-              <mxPoint x="426" y="345" />
+              <mxPoint x="330" y="250" />
+              <mxPoint x="320" y="250" />
             </Array>
           </mxGeometry>
         </mxCell>
