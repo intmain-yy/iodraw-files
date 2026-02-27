@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-1" value="边缘端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=20;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="480" y="240" width="410" height="200" as="geometry" />
+          <mxGeometry x="480" y="240" width="410" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="50" y="220" width="270" height="275" as="geometry" />
@@ -29,10 +29,10 @@
           <mxGeometry x="114" y="415" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="500" y="360" width="150" height="49" as="geometry" />
+          <mxGeometry x="510" y="440" width="150" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-12" value="轻量级同步屏障 Synchronization Barrier" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="715" y="363" width="160" height="43" as="geometry" />
+          <mxGeometry x="725" y="443" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-13" value="应用新切分点策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="725" y="280" width="140" height="49" as="geometry" />
@@ -73,8 +73,8 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-23" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-11" target="dIaZUhYWe7wx_FGZW1NM-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="385" />
-              <mxPoint x="700" y="385" />
+              <mxPoint x="710" y="465" />
+              <mxPoint x="710" y="465" />
             </Array>
           </mxGeometry>
         </mxCell>
