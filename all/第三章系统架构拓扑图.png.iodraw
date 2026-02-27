@@ -11,7 +11,7 @@
           <mxGeometry x="520" y="260" width="220" height="146" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="10" width="360" height="750" as="geometry" />
+          <mxGeometry x="120" y="10" width="360" height="650" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-4" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="188" y="35" width="109" height="49" as="geometry" />
@@ -93,7 +93,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.39;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitDx=0;exitDy=0;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="bsaImPFtkGP7xesvfBqz-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="470" />
+              <mxPoint x="420" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
