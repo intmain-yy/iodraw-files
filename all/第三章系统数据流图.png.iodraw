@@ -8,7 +8,7 @@
           <mxGeometry x="490" y="190" width="480" height="300" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="70" y="230" width="250" height="260" as="geometry" />
+          <mxGeometry x="70" y="230" width="230" height="260" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="630" y="120" width="137" height="34" as="geometry" />
