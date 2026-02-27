@@ -47,10 +47,10 @@
           <mxGeometry x="68" y="690" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-15" value="中间特征张量 H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="280" y="201" width="138" height="49" as="geometry" />
+          <mxGeometry x="241" y="190" width="138" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-16" value="第 k+1 帧 X_k+1" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="75" y="250" width="173" height="49" as="geometry" />
+          <mxGeometry x="70" y="247" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-17" value="H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="836.5" y="198" width="88" height="49" as="geometry" />
@@ -66,7 +66,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-20" value="2. 执行前半部分模型" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="290" y="209" />
+              <mxPoint x="350" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
