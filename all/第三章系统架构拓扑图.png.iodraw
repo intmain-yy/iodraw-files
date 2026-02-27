@@ -26,7 +26,7 @@
           <mxGeometry x="164" y="440" width="158" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-8" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="165" y="567" width="156" height="34" as="geometry" />
+          <mxGeometry x="164" y="510" width="156" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-9" value="TCP Socket" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="582" y="285" width="96" height="96" as="geometry" />
