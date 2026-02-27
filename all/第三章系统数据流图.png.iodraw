@@ -14,7 +14,7 @@
           <mxGeometry x="620" y="40" width="137" height="34" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-4" value="检测积压?" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="544.75" y="280" width="130" height="112.5" as="geometry" />
+          <mxGeometry x="520" y="280" width="130" height="112.5" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-5" value="继续当前切分策略处理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="625" y="250" width="127" height="49" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="715" y="419" width="160" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-13" value="应用新切分点策略" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="725" y="280" width="140" height="49" as="geometry" />
+          <mxGeometry x="725" y="320.5" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-3" target="dIaZUhYWe7wx_FGZW1NM-4">
           <mxGeometry relative="1" as="geometry" />
