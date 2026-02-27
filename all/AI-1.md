@@ -2,7 +2,7 @@
 graph TD
     subgraph "边缘端节点 Edge Node"
         A1["传感器数据采集 RGB/IMU"] --> A2[动态上下文感知模块]
-        A2 --> A3[DADS 模型柔性切分器]
+        A2 --> A3[模型柔性切分器]
         
         subgraph "边缘端流水线 Edge Pipeline"
             A4[Stage 0: 边缘前向推理线程 T_infer]
