@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="9oaatehIoAgqF54wWmxT">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2595" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="480" y="240" width="410" height="280" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="50" y="220" width="270" height="275" as="geometry" />
+          <mxGeometry y="226" width="270" height="275" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="365" y="20" width="137" height="34" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry x="180" y="90" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-6" value="发送重评估请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90.5" y="263" width="182" height="40" as="geometry" />
+          <mxGeometry x="40.5" y="269" width="182" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-8" value="重新计算新切分点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="104" y="340" width="155" height="49" as="geometry" />
+          <mxGeometry x="54" y="346" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="114" y="415" width="135" height="49" as="geometry" />
+          <mxGeometry x="64" y="421" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="524.75" y="415" width="150" height="49" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-19" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-6" target="dIaZUhYWe7wx_FGZW1NM-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="182" y="411" as="sourcePoint" />
+            <mxPoint x="132" y="417" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-8" target="dIaZUhYWe7wx_FGZW1NM-9">
