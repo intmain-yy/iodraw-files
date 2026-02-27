@@ -26,7 +26,7 @@
           <mxGeometry x="884" y="144" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-8" value="模型柔性切分器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="950" y="243" width="215" height="49" as="geometry" />
+          <mxGeometry x="956" y="230" width="215" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-9" value="Stage 0: 边缘前向推理线程 T_infer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1003" y="390" width="252" height="67" as="geometry" />
