@@ -50,7 +50,7 @@
           <mxGeometry x="590" y="200" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-16" value="第 k+1 帧 X_k+1" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="348" y="236" width="173" height="49" as="geometry" />
+          <mxGeometry x="210" y="230" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-17" value="H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="497" y="880" width="88" height="49" as="geometry" />
@@ -77,7 +77,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-22" value="4. 立即处理" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=0;entryY=0.19;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-16">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-22" value="4. 立即处理" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.38;exitY=1;entryX=0.439;entryY=0.02;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="197" y="209" />
