@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillColor=#fad9d5;fillStyle=auto;strokeColor=#ae4132;align=center;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="75" y="250" width="390" height="700" as="geometry" />
+          <mxGeometry x="70" y="250" width="390" height="700" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=26;strokeColor=#9673a6;align=center;fontFamily=Helvetica;fillColor=#e1d5e7;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="570" width="340" height="350" as="geometry" />
+          <mxGeometry x="85" y="570" width="340" height="350" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillStyle=auto;align=center;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="480" y="452" width="280" height="243" as="geometry" />
@@ -38,19 +38,19 @@
           <mxGeometry x="540" y="521.5" width="157" height="157" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="140" y="614" width="234" height="49" as="geometry" />
+          <mxGeometry x="135" y="614" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-42" value="Stage 2: 云端前向推理线程 T_compute" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="120" y="720" width="275" height="67" as="geometry" />
+          <mxGeometry x="115" y="720" width="275" height="67" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-43" value="结果发送线程 T_send" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="132" y="850" width="250" height="49" as="geometry" />
+          <mxGeometry x="127" y="850" width="250" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-44" value="全局资源调度与状态监控" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115.5" y="318" width="273" height="62" as="geometry" />
+          <mxGeometry x="110.5" y="318" width="273" height="62" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-45" value="模型柔性切分器" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="157" y="430" width="190" height="49" as="geometry" />
+          <mxGeometry x="152" y="430" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-46" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-35" target="E8ASV8FCEGFRi4fyUCNn-36">
           <mxGeometry relative="1" as="geometry">
@@ -134,7 +134,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-57" value="推理结果" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;strokeColor=#A8201A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-42" target="E8ASV8FCEGFRi4fyUCNn-43">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-57" value="推理结果" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;strokeColor=#A8201A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fontColor=default;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-42" target="E8ASV8FCEGFRi4fyUCNn-43">
           <mxGeometry x="0.0065" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
