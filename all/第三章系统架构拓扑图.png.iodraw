@@ -11,7 +11,7 @@
           <mxGeometry x="520" y="250" width="220" height="156" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="100" y="40" width="400" height="650" as="geometry" />
+          <mxGeometry x="100" y="40" width="400" height="670" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-4" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="233.63" y="98" width="109" height="49" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="206.26" y="382" width="163.75" height="82" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-7" value="T_send: 发送线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="156.5" y="490" width="229" height="34" as="geometry" />
+          <mxGeometry x="173.63" y="516" width="229" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-8" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="156.5" y="550" width="223.5" height="34" as="geometry" />
@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.5;entryX=0;entryY=0.39;rounded=0;labelBackgroundColor=none;strokeColor=#457B9D;fontColor=default;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="bsaImPFtkGP7xesvfBqz-9">
-          <mxGeometry x="0.1919" y="-25" relative="1" as="geometry">
+          <mxGeometry x="0.129" y="-24" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="420" y="360" />
             </Array>
