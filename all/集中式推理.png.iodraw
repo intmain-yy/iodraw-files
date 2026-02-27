@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-30" value="云端/协同节点 Cloud Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry y="263" width="460" height="870" as="geometry" />
+          <mxGeometry y="250" width="460" height="883" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="659" width="420" height="428" as="geometry" />
@@ -141,7 +141,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-58" value="结果回传" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.35;exitY=-0.01;entryX=0.23;entryY=1;rounded=0;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-43" target="E8ASV8FCEGFRi4fyUCNn-40">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="138" y="1326" />
+              <mxPoint x="200" y="970" />
               <mxPoint x="138" y="972" />
               <mxPoint x="566" y="935" />
             </Array>
