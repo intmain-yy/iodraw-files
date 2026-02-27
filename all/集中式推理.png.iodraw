@@ -8,7 +8,7 @@
           <mxGeometry x="75" y="250" width="390" height="770" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-31" value="云端流水线 Cloud Pipeline" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;strokeColor=#10739e;align=center;fontFamily=Helvetica;fillColor=#b1ddf0;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="90" y="570" width="340" height="428" as="geometry" />
+          <mxGeometry x="90" y="570" width="340" height="380" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillStyle=auto;align=center;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="490" y="452" width="270" height="243" as="geometry" />
@@ -135,9 +135,7 @@
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-57" value="推理结果/分类概率" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.578;entryY=0.041;rounded=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#A8201A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;" edge="1" parent="1" source="E8ASV8FCEGFRi4fyUCNn-42" target="E8ASV8FCEGFRi4fyUCNn-43">
           <mxGeometry x="0.0097" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="269" y="888" />
-            </Array>
+            <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
