@@ -29,7 +29,7 @@
           <mxGeometry x="113.5" y="417" width="136" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="530" y="410" width="150" height="62" as="geometry" />
+          <mxGeometry x="520" y="408" width="150" height="62" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-12" value="轻量级同步屏障 Synchronization Barrier" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="715" y="409" width="225" height="61" as="geometry" />
@@ -40,9 +40,9 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-14" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-3" target="dIaZUhYWe7wx_FGZW1NM-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-15" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-4" target="dIaZUhYWe7wx_FGZW1NM-5">
-          <mxGeometry x="0.5364" y="9" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-15" value="否" style="startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=13;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-4" target="dIaZUhYWe7wx_FGZW1NM-5">
+          <mxGeometry x="0.5303" y="8" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.5;entryY=1;rounded=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-5" target="dIaZUhYWe7wx_FGZW1NM-3">
