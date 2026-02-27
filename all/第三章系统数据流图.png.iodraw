@@ -26,7 +26,7 @@
           <mxGeometry x="104" y="340" width="155" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="415" width="135" height="49" as="geometry" />
+          <mxGeometry x="114" y="415" width="135" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="160" height="49" as="geometry" />
@@ -63,9 +63,10 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-22" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryDx=0;entryDy=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-9" target="dIaZUhYWe7wx_FGZW1NM-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="182" y="599" />
-              <mxPoint x="444" y="599" />
-              <mxPoint x="444" y="335" />
+              <mxPoint x="182" y="480" />
+              <mxPoint x="380" y="480" />
+              <mxPoint x="380" y="335" />
+              <mxPoint x="440" y="335" />
             </Array>
             <mxPoint x="182" y="858" as="sourcePoint" />
           </mxGeometry>
