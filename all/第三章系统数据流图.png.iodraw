@@ -22,9 +22,6 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-6" value="发送重评估请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="73" y="370" width="217" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-7" value="结合最新带宽探测数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="71" y="487" width="222" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-8" value="重新运行算法计算新切分点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="586" width="253" height="49" as="geometry" />
         </mxCell>
@@ -73,14 +70,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-6" target="dIaZUhYWe7wx_FGZW1NM-7">
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="dIaZUhYWe7wx_FGZW1NM-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-7" target="dIaZUhYWe7wx_FGZW1NM-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <mxPoint x="182" y="536" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-8" target="dIaZUhYWe7wx_FGZW1NM-9">
