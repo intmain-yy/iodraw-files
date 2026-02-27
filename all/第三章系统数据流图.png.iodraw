@@ -8,7 +8,7 @@
           <mxGeometry x="420" y="180" width="460" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-2" value="云端全局协调器" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="345" width="323" height="275" as="geometry" />
+          <mxGeometry x="20" y="220" width="323" height="275" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-3" value="开始处理当前帧" style="rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="20" width="137" height="34" as="geometry" />
@@ -20,13 +20,13 @@
           <mxGeometry x="325" y="120" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-6" value="发送重评估请求" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="88" y="369.5" width="187" height="60" as="geometry" />
+          <mxGeometry x="88" y="244.5" width="187" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-8" value="重新计算新切分点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="460" width="253" height="49" as="geometry" />
+          <mxGeometry x="55" y="335" width="253" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-9" value="下发新策略指令" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="95" y="540" width="173" height="49" as="geometry" />
+          <mxGeometry x="95" y="415" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-11" value="处理完当前队列中剩余帧" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="160" height="49" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-19" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-6" target="dIaZUhYWe7wx_FGZW1NM-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="182" y="536" as="sourcePoint" />
+            <mxPoint x="182" y="411" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dIaZUhYWe7wx_FGZW1NM-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="dIaZUhYWe7wx_FGZW1NM-8" target="dIaZUhYWe7wx_FGZW1NM-9">
