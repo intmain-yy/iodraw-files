@@ -56,7 +56,7 @@
           <mxGeometry x="390" y="710" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-18" value="任务 N" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="690" y="680" width="78" height="49" as="geometry" />
+          <mxGeometry x="621" y="690.5" width="78" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-19" value="分配 θ1*" style="curved=1;startArrow=none;endArrow=block;exitX=0.17;exitY=1;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-6">
           <mxGeometry relative="1" as="geometry">
