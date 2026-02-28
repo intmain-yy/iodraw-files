@@ -25,19 +25,19 @@
         <mxCell id="quM5ncQTuj3ipbFNMixD-7" value="池化层 v3" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="273" y="509" width="130" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-8" value="虚拟节点 v3&#39;" style="whiteSpace=wrap;strokeWidth=2;dashed=1;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-8" value="虚拟节点 v3&#39;" style="whiteSpace=wrap;strokeWidth=2;dashed=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="315" y="631" width="187" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-9" value="分支层 v4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-9" value="分支层 v4" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="405" y="753" width="130" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-10" value="分支层 v5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-10" value="分支层 v5" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="585" y="753" width="129" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-11" value="输出层 v6" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-11" value="输出层 v6" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="701" y="875" width="131" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-12" value="汇点 t&#xa;代表云端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-12" value="汇点 t&#xa;代表云端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="239" y="1047" width="81" height="81" as="geometry" />
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-13" value="cap=t1^c" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-5">
