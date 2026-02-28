@@ -50,7 +50,7 @@
           <mxGeometry x="481" y="567" width="158" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-16" value="任务 1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="227" y="445" width="76" height="49" as="geometry" />
+          <mxGeometry x="110" y="410" width="76" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-17" value="任务 2" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="395" y="445" width="76" height="49" as="geometry" />
@@ -173,11 +173,6 @@
             <Array as="points">
               <mxPoint x="1249" y="541" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NbK0l5eIgQaNMz2pk6Py-34">
-          <mxGeometry x="0.4097" y="65" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-35" value="状态上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.4;entryX=0.41;entryY=1;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-14" target="NbK0l5eIgQaNMz2pk6Py-4">
