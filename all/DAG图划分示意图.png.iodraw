@@ -40,7 +40,7 @@
         <mxCell id="quM5ncQTuj3ipbFNMixD-12" value="汇点 t&#xa;代表云端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="239" y="1047" width="93" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-13" value="cap=t1^c" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;fontSize=18;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-5">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-13" value="cap=t1^c" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;fontSize=18;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-5">
           <mxGeometry x="0.1208" y="18" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="121" y="167" />
