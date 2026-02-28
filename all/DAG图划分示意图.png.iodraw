@@ -11,10 +11,10 @@
           <mxGeometry x="20" y="240" width="852" height="709" as="geometry" />
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-3" value="边缘端计算代价" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="390" y="20" width="310" height="147" as="geometry" />
+          <mxGeometry x="391" y="40" width="310" height="147" as="geometry" />
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-4" value="源点 s&#xa;代表边缘端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="510" y="60" width="100" height="100" as="geometry" />
+          <mxGeometry x="511" y="80" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-5" value="输入层 v1" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="56" y="265" width="130" height="49" as="geometry" />
