@@ -106,7 +106,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-26" value="比例 1-s2*" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-17" target="NbK0l5eIgQaNMz2pk6Py-14">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-26" value="比例 1-s2*" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-17" target="NbK0l5eIgQaNMz2pk6Py-14">
           <mxGeometry x="-0.3148" y="28" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="353" y="631" />
@@ -114,7 +114,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-27" value="比例 1-sN*" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-18" target="NbK0l5eIgQaNMz2pk6Py-15">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-27" value="比例 1-sN*" style="curved=1;startArrow=none;endArrow=block;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-18" target="NbK0l5eIgQaNMz2pk6Py-15">
           <mxGeometry x="0.3126" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="590" />
