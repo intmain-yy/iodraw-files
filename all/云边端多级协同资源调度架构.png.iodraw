@@ -8,10 +8,10 @@
           <mxGeometry x="250" y="350" width="757" height="319" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-2" value="网络传输层 (Network)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1010" width="402" height="239" as="geometry" />
+          <mxGeometry x="330" y="950" width="402" height="299" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-3" value="云端服务器 (Cloud)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1027" y="430" width="740" height="386" as="geometry" />
+          <mxGeometry x="1027" y="310" width="740" height="506" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1416" y="455" width="174" height="49" as="geometry" />
