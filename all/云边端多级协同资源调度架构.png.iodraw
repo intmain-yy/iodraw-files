@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-1" value="边缘节点集群 (Edge Swarm)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-1" value="边缘节点集群 (Edge Swarm)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;strokeColor=default;align=center;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="176" y="440" width="664" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-2" value="网络传输层 (Network)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=25;" vertex="1" parent="1">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-2" value="网络传输层 (Network)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
           <mxGeometry x="670" y="30" width="625" height="299" as="geometry" />
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-3" value="云端服务器 (Cloud)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-3" value="云端服务器 (Cloud)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;strokeColor=default;align=center;fontFamily=Helvetica;fontColor=default;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1087" y="450" width="973" height="390" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
