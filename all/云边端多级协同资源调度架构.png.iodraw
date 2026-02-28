@@ -11,7 +11,7 @@
           <mxGeometry x="846" y="30" width="450" height="290" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-3" value="云端服务器 (Cloud)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="380" width="713" height="350" as="geometry" />
+          <mxGeometry x="1030" y="380" width="723" height="350" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1090" y="617" width="174" height="90" as="geometry" />
@@ -124,11 +124,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-28" value="卸载比例 s1*" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.47;rounded=0;exitDx=0;exitDy=0;fontSize=20;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-16" target="NbK0l5eIgQaNMz2pk6Py-10">
-          <mxGeometry x="-0.1553" y="-28" relative="1" as="geometry">
+          <mxGeometry x="0.0695" y="-42" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="250" />
             </Array>
-            <mxPoint y="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-10" target="NbK0l5eIgQaNMz2pk6Py-6">
