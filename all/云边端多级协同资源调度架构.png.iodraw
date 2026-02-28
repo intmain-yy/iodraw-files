@@ -14,7 +14,7 @@
           <mxGeometry x="1087" y="450" width="973" height="390" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="495.5" width="174" height="90" as="geometry" />
+          <mxGeometry x="1170" y="653.5" width="174" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-5" value="云端计算资源池 θ_MAX" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1600" y="743.5" width="225" height="49" as="geometry" />
@@ -187,7 +187,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-36" value="状态上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-15" target="NbK0l5eIgQaNMz2pk6Py-4">
           <mxGeometry x="-0.2931" y="25" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1040" y="820" />
+              <mxPoint x="950" y="860" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
