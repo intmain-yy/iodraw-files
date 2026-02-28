@@ -43,10 +43,10 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-13" value="无人车 1&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="167" width="158" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-14" value="无人车 2&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-14" value="无人车 2&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="263" y="167" width="158" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-15" value="无人车 N&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-15" value="无人车 N&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="471" y="167" width="158" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-16" value="任务 1" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
