@@ -28,10 +28,10 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-8" value="节点N 云端子任务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1862" y="613.5" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-9" value="总传输带宽资源池 φ_total" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-9" value="总传输带宽资源池 φ_total" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="845" y="86" width="248" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-10" value="链路 1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-10" value="链路 1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="848" y="211" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-11" value="链路 2" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
