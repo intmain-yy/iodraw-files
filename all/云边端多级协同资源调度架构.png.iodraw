@@ -59,10 +59,11 @@
           <mxGeometry x="621" y="690.5" width="78" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-19" value="分配 θ1*" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.5364" y="-34" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1460" y="1070" />
+              <mxPoint x="1560" y="980" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-20" value="分配 θ2*" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.3;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-7">
