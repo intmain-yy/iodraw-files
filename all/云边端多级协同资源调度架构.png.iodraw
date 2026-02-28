@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-36" value="状态上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;fontSize=20;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-15" target="NbK0l5eIgQaNMz2pk6Py-4">
-          <mxGeometry x="-0.2931" y="25" relative="1" as="geometry">
+          <mxGeometry x="0.1522" y="47" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="950" y="860" />
             </Array>
@@ -209,11 +209,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-39" value="下发 s*, θ*, φ*" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.25;exitY=0;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-4" target="NbK0l5eIgQaNMz2pk6Py-15">
-          <mxGeometry x="0.0877" y="28" relative="1" as="geometry">
+          <mxGeometry x="0.067" y="19" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="990" y="590" />
             </Array>
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
