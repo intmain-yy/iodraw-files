@@ -118,10 +118,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-27" value="比例 1-sN*" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-18" target="NbK0l5eIgQaNMz2pk6Py-15">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-27" value="比例 1-sN*" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.71;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-18" target="NbK0l5eIgQaNMz2pk6Py-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="428" y="831" />
+              <mxPoint x="570" y="750" />
             </Array>
           </mxGeometry>
         </mxCell>
