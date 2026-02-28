@@ -14,7 +14,7 @@
           <mxGeometry x="1087" y="610" width="740" height="506" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="670" width="174" height="49" as="geometry" />
+          <mxGeometry x="1210" y="670" width="174" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-5" value="云端计算资源池 θ_MAX" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1250" y="886" width="225" height="49" as="geometry" />
