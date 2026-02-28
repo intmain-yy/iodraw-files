@@ -41,13 +41,13 @@
           <mxGeometry x="1110" y="203" width="71" height="71" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-13" value="无人车 1&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="640" width="158" height="67" as="geometry" />
+          <mxGeometry x="357" y="560" width="158" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-14" value="无人车 2&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="578" y="640" width="158" height="67" as="geometry" />
+          <mxGeometry x="565" y="560" width="158" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-15" value="无人车 N&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="786" y="640" width="158" height="67" as="geometry" />
+          <mxGeometry x="773" y="560" width="158" height="67" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-16" value="任务 1" style="rounded=1;arcSize=20;strokeWidth=2;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="386" y="450" width="76" height="49" as="geometry" />
@@ -153,7 +153,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-32" value="卸载比例 sN*" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.47;rounded=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-18" target="NbK0l5eIgQaNMz2pk6Py-12">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-32" value="卸载比例 sN*" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0;entryY=0.47;rounded=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-18" target="NbK0l5eIgQaNMz2pk6Py-12">
           <mxGeometry x="-0.1144" y="-43" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="880" y="320" />
