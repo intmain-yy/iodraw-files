@@ -20,7 +20,7 @@
           <mxGeometry x="1320" y="600" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-6" value="节点1 云端子任务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="470" width="186" height="49" as="geometry" />
+          <mxGeometry x="1061" y="460" width="186" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-7" value="节点2 云端子任务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1346" y="470" width="186" height="49" as="geometry" />
