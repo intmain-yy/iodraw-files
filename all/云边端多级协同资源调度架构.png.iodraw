@@ -14,7 +14,7 @@
           <mxGeometry x="1020" y="380" width="973" height="390" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="600" width="174" height="90" as="geometry" />
+          <mxGeometry x="1100" y="640" width="174" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-5" value="云端计算资源池 θ_MAX" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1533" y="673.5" width="225" height="49" as="geometry" />
@@ -200,7 +200,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-38" value="下发 s*, θ*, φ*" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-4" target="NbK0l5eIgQaNMz2pk6Py-14">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-38" value="下发 s*, θ*, φ*" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=0;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-4" target="NbK0l5eIgQaNMz2pk6Py-14">
           <mxGeometry x="0.0943" y="56" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="890" y="500" />
