@@ -83,10 +83,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-22" value="分配 φ1*" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-9" target="NbK0l5eIgQaNMz2pk6Py-10">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0074" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1669" y="131" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-23" value="分配 φ2*" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.53;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-9" target="NbK0l5eIgQaNMz2pk6Py-11">
