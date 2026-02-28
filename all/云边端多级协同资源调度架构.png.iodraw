@@ -38,7 +38,7 @@
           <mxGeometry x="834" y="211" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-12" value="链路 N" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="945" y="210" width="63" height="63" as="geometry" />
+          <mxGeometry x="1000" y="209" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-13" value="无人车 1&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="211" y="667" width="158" height="67" as="geometry" />
@@ -134,7 +134,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-10" target="NbK0l5eIgQaNMz2pk6Py-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1090" y="440" />
+              <mxPoint x="1150" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
