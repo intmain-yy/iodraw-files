@@ -4,6 +4,185 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="quM5ncQTuj3ipbFNMixD-1" value="云端计算代价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1022" width="750" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-2" value="神经网络 DAG 模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="240" width="852" height="709" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-3" value="边缘端计算代价" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="81" y="20" width="764" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-4" value="源点 s&#xa;代表边缘端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="508" y="45" width="97" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-5" value="输入层 v1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="56" y="265" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-6" value="卷积层 v2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="173" y="387" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-7" value="池化层 v3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="273" y="509" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-8" value="虚拟节点 v3&#39;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="631" width="187" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-9" value="分支层 v4" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="405" y="753" width="130" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-10" value="分支层 v5" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="585" y="753" width="129" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-11" value="输出层 v6" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="701" y="875" width="131" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-12" value="汇点 t&#xa;代表云端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="239" y="1047" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-13" value="cap=t1^c" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="121" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-14" value="cap=t2^c" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=1;entryY=0.05;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="167" />
+              <mxPoint x="418" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-15" value="cap=t3^c" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.99;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="495" y="167" />
+              <mxPoint x="495" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-16" value="cap=t4^c" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.86;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="587" y="167" />
+              <mxPoint x="587" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-17" value="cap=t5^c" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.74;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="726" y="167" />
+              <mxPoint x="726" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-18" value="cap=t6^c" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.61;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="803" y="167" />
+              <mxPoint x="803" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-19" value="cap=t1^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0;entryY=0.32;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-5" target="quM5ncQTuj3ipbFNMixD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="97" y="351" />
+              <mxPoint x="97" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-20" value="cap=t2^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-6" target="quM5ncQTuj3ipbFNMixD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="175" y="473" />
+              <mxPoint x="175" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-21" value="cap=t3^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-7" target="quM5ncQTuj3ipbFNMixD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="252" y="595" />
+              <mxPoint x="252" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-22" value="cap=t4^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.12;exitY=1;entryX=1;entryY=0.01;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-9" target="quM5ncQTuj3ipbFNMixD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="347" y="839" />
+              <mxPoint x="347" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-23" value="cap=t5^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=1;entryY=0.39;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-10" target="quM5ncQTuj3ipbFNMixD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="839" />
+              <mxPoint x="590" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-24" value="cap=t6^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.43;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-11" target="quM5ncQTuj3ipbFNMixD-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="766" y="1022" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-25" value="cap=t1^t" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=1;entryX=0.3;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-5" target="quM5ncQTuj3ipbFNMixD-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="174" y="351" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-26" value="cap=t2^t" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-6" target="quM5ncQTuj3ipbFNMixD-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="292" y="473" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-27" value="cap=t3^t (真实传输代价)" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-7" target="quM5ncQTuj3ipbFNMixD-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="409" y="595" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-28" value="cap=+∞" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.11;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-8" target="quM5ncQTuj3ipbFNMixD-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-29" value="cap=+∞" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.03;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-8" target="quM5ncQTuj3ipbFNMixD-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="499" y="717" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-30" value="cap=t4^t" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-9" target="quM5ncQTuj3ipbFNMixD-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="536" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="quM5ncQTuj3ipbFNMixD-31" value="cap=t5^t" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-10" target="quM5ncQTuj3ipbFNMixD-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="725" y="839" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
