@@ -8,7 +8,7 @@
           <mxGeometry x="176" y="440" width="757" height="319" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-2" value="网络传输层 (Network)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="790" y="90" width="402" height="299" as="geometry" />
+          <mxGeometry x="545" y="30" width="402" height="299" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-3" value="云端服务器 (Cloud)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1087" y="610" width="973" height="506" as="geometry" />
@@ -29,16 +29,16 @@
           <mxGeometry x="1852" y="880" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-9" value="总传输带宽资源池 φ_total" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="869" y="175" width="248" height="49" as="geometry" />
+          <mxGeometry x="624" y="115" width="248" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-10" value="链路 1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="872" y="300" width="61" height="61" as="geometry" />
+          <mxGeometry x="627" y="240" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-11" value="链路 2" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="983" y="300" width="61" height="61" as="geometry" />
+          <mxGeometry x="738" y="240" width="61" height="61" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-12" value="链路 N" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1094" y="299" width="63" height="63" as="geometry" />
+          <mxGeometry x="849" y="239" width="63" height="63" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-13" value="无人车 1&#xa;本地计算资源" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="211" y="667" width="158" height="67" as="geometry" />
@@ -81,7 +81,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-22" value="分配 φ1*" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.35;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-9" target="NbK0l5eIgQaNMz2pk6Py-10">
           <mxGeometry x="-0.0074" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="902" y="261" />
+              <mxPoint x="657" y="201" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -94,7 +94,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-24" value="分配 φN*" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.71;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-9" target="NbK0l5eIgQaNMz2pk6Py-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1126" y="261" />
+              <mxPoint x="881" y="201" />
             </Array>
           </mxGeometry>
         </mxCell>
