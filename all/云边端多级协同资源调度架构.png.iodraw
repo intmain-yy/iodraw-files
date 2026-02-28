@@ -103,10 +103,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-25" value="比例 1-s1*" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.35;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-16" target="NbK0l5eIgQaNMz2pk6Py-13">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2503" y="13" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="110" y="820" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-26" value="比例 1-s2*" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.71;entryX=0.06;entryY=0;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-17" target="NbK0l5eIgQaNMz2pk6Py-14">
@@ -123,7 +124,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-28" value="卸载比例 s1*" style="curved=1;startArrow=none;endArrow=block;exitX=1.01;exitY=0.73;entryX=0;entryY=0.47;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-16" target="NbK0l5eIgQaNMz2pk6Py-10">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-28" value="卸载比例 s1*" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.47;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-16" target="NbK0l5eIgQaNMz2pk6Py-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="754" y="841" />
