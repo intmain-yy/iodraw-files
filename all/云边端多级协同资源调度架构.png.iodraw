@@ -11,7 +11,7 @@
           <mxGeometry x="846" y="30" width="450" height="290" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-3" value="云端服务器 (Cloud)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;align=center;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="1003" y="380" width="750" height="350" as="geometry" />
+          <mxGeometry x="1040" y="380" width="713" height="350" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1090" y="617" width="174" height="90" as="geometry" />
