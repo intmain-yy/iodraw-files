@@ -11,22 +11,22 @@
           <mxGeometry x="545" y="30" width="625" height="299" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-3" value="云端服务器 (Cloud)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1087" y="610" width="973" height="390" as="geometry" />
+          <mxGeometry x="1087" y="450" width="973" height="390" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-4" value="全局资源协调器" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1169" y="655.5" width="174" height="90" as="geometry" />
+          <mxGeometry x="1169" y="495.5" width="174" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-5" value="云端计算资源池 θ_MAX" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="903.5" width="225" height="49" as="geometry" />
+          <mxGeometry x="1600" y="743.5" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-6" value="节点1 云端子任务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1390" y="773.5" width="186" height="49" as="geometry" />
+          <mxGeometry x="1390" y="613.5" width="186" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-7" value="节点2 云端子任务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1626" y="773.5" width="186" height="49" as="geometry" />
+          <mxGeometry x="1626" y="613.5" width="186" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-8" value="节点N 云端子任务" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="1862" y="773.5" width="188" height="49" as="geometry" />
+          <mxGeometry x="1862" y="613.5" width="188" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-9" value="总传输带宽资源池 φ_total" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="720" y="86" width="248" height="49" as="geometry" />
@@ -61,7 +61,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-19" value="分配 θ1*" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=0;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-6">
           <mxGeometry x="0.2353" y="-7" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1570" y="873.5" />
+              <mxPoint x="1570" y="713.5" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -74,7 +74,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-21" value="分配 θN*" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=0;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1860" y="873.5" />
+              <mxPoint x="1860" y="713.5" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -177,15 +177,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-35" value="状态上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-14" target="NbK0l5eIgQaNMz2pk6Py-4">
-          <mxGeometry x="0.3336" y="89" relative="1" as="geometry">
+          <mxGeometry x="0.2566" y="94" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="900" y="1050" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-36" value="状态上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-15" target="NbK0l5eIgQaNMz2pk6Py-4">
-          <mxGeometry x="-0.2597" y="3" relative="1" as="geometry">
+          <mxGeometry x="-0.2931" y="25" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="920" />
             </Array>
