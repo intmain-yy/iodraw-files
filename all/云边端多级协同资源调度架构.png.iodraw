@@ -195,7 +195,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-37" value="下发 s*, θ*, φ*" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;entryX=0.5;entryY=0;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-4" target="NbK0l5eIgQaNMz2pk6Py-13">
           <mxGeometry x="0.3917" y="44" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="430" />
+              <mxPoint x="930" y="410" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
