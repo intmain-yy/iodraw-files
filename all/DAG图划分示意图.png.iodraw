@@ -10,7 +10,7 @@
         <mxCell id="quM5ncQTuj3ipbFNMixD-2" value="神经网络 DAG 模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="20" y="240" width="852" height="709" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-3" value="边缘端计算代价" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-3" value="边缘端计算代价" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="420" height="147" as="geometry" />
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-4" value="源点 s&#xa;代表边缘端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-23" value="cap=t5^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=1;entryY=0.39;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-10" target="quM5ncQTuj3ipbFNMixD-12">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-23" value="cap=t5^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=1;entryY=0.39;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-10" target="quM5ncQTuj3ipbFNMixD-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="839" />
@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-24" value="cap=t6^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.43;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-11" target="quM5ncQTuj3ipbFNMixD-12">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-24" value="cap=t6^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=1;entryY=0.43;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-11" target="quM5ncQTuj3ipbFNMixD-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="766" y="1022" />
