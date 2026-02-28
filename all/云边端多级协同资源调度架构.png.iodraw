@@ -176,9 +176,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-34" value="状态上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.4;entryX=0.75;entryY=1;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-13" target="NbK0l5eIgQaNMz2pk6Py-4">
-          <mxGeometry x="0.1292" y="134" relative="1" as="geometry">
+          <mxGeometry x="0.2162" y="127" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="1200" />
+              <mxPoint x="910" y="1130" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
