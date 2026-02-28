@@ -7,7 +7,7 @@
         <mxCell id="quM5ncQTuj3ipbFNMixD-1" value="云端计算代价" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="40" y="1022" width="750" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-2" value="神经网络 DAG 模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-2" value="神经网络 DAG 模型" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="20" y="240" width="852" height="709" as="geometry" />
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-3" value="边缘端计算代价" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
@@ -49,11 +49,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-14" value="cap=t2^c" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.77;entryX=1;entryY=0.05;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2832" y="12" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="418" y="167" />
               <mxPoint x="418" y="351" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-15" value="cap=t3^c" style="curved=1;startArrow=none;endArrow=block;exitX=0.08;exitY=1;entryX=0.99;entryY=0;rounded=0;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-4" target="quM5ncQTuj3ipbFNMixD-7">
