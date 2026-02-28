@@ -90,7 +90,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-19" value="cap=t1^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0;entryY=0.32;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-5" target="quM5ncQTuj3ipbFNMixD-12">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-19" value="cap=t1^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.43;exitY=1;entryX=0;entryY=0.32;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-5" target="quM5ncQTuj3ipbFNMixD-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="97" y="351" />
@@ -98,7 +98,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-20" value="cap=t2^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0;entryY=0.19;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-6" target="quM5ncQTuj3ipbFNMixD-12">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-20" value="cap=t2^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.31;exitY=1;entryX=0;entryY=0.19;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-6" target="quM5ncQTuj3ipbFNMixD-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="175" y="473" />
@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-21" value="cap=t3^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.29;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-7" target="quM5ncQTuj3ipbFNMixD-12">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-21" value="cap=t3^e" style="curved=1;startArrow=none;endArrow=block;exitX=0.24;exitY=1;entryX=0.29;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-7" target="quM5ncQTuj3ipbFNMixD-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="252" y="595" />
@@ -152,21 +152,21 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-27" value="cap=t3^t (真实传输代价)" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-7" target="quM5ncQTuj3ipbFNMixD-8">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-27" value="cap=t3^t (真实传输代价)" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-7" target="quM5ncQTuj3ipbFNMixD-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="409" y="595" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-28" value="cap=+∞" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.11;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-8" target="quM5ncQTuj3ipbFNMixD-9">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-28" value="cap=+∞" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1;entryX=0.11;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-8" target="quM5ncQTuj3ipbFNMixD-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="343" y="717" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-29" value="cap=+∞" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.03;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-8" target="quM5ncQTuj3ipbFNMixD-10">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-29" value="cap=+∞" style="curved=1;startArrow=none;endArrow=block;exitX=0.7;exitY=1;entryX=0.03;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-8" target="quM5ncQTuj3ipbFNMixD-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="499" y="717" />
@@ -180,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-31" value="cap=t5^t" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.37;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-10" target="quM5ncQTuj3ipbFNMixD-11">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-31" value="cap=t5^t" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.37;entryY=0;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;labelBackgroundColor=#E1F5FE;" edge="1" parent="1" source="quM5ncQTuj3ipbFNMixD-10" target="quM5ncQTuj3ipbFNMixD-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="725" y="839" />
