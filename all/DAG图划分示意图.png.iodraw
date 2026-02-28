@@ -16,7 +16,7 @@
         <mxCell id="quM5ncQTuj3ipbFNMixD-4" value="源点 s&#xa;代表边缘端" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="510" y="60" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="quM5ncQTuj3ipbFNMixD-5" value="输入层 v1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="quM5ncQTuj3ipbFNMixD-5" value="输入层 v1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="56" y="265" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="quM5ncQTuj3ipbFNMixD-6" value="卷积层 v2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
