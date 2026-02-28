@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-36" value="状态上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.25;entryY=1;rounded=0;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-15" target="NbK0l5eIgQaNMz2pk6Py-4">
-          <mxGeometry x="-0.2604" y="3" relative="1" as="geometry">
+          <mxGeometry x="-0.2597" y="3" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1030" y="920" />
             </Array>
@@ -209,10 +209,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-39" value="下发 s*, θ*, φ*" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-4" target="NbK0l5eIgQaNMz2pk6Py-15">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0069" y="17" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="980" y="660" />
             </Array>
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
