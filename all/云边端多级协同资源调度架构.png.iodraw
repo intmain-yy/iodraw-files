@@ -74,7 +74,7 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-21" value="分配 θN*" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.3;entryY=-0.01;rounded=0;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1854" y="807" />
+              <mxPoint x="1870" y="960" />
               <mxPoint x="1854" y="843" />
             </Array>
           </mxGeometry>
