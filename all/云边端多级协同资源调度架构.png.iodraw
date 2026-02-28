@@ -66,7 +66,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NbK0l5eIgQaNMz2pk6Py-20" value="分配 θ2*" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.412;entryY=0.956;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-7">
+        <mxCell id="NbK0l5eIgQaNMz2pk6Py-20" value="分配 θ2*" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0;entryX=0.459;entryY=0.956;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-5" target="NbK0l5eIgQaNMz2pk6Py-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
