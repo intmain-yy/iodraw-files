@@ -195,15 +195,15 @@
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-37" value="下发 s*, θ*, φ*" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;entryX=0.5;entryY=0;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-4" target="NbK0l5eIgQaNMz2pk6Py-13">
           <mxGeometry x="-0.1709" y="49" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1010" y="490" />
+              <mxPoint x="730" y="430" />
             </Array>
             <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-38" value="下发 s*, θ*, φ*" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-4" target="NbK0l5eIgQaNMz2pk6Py-14">
-          <mxGeometry x="-0.0415" y="55" relative="1" as="geometry">
+          <mxGeometry x="0.0943" y="56" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="950" y="550" />
+              <mxPoint x="890" y="500" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
