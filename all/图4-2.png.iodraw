@@ -7,8 +7,8 @@
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--1" value="扩展主备容错有向图 G&#39;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="472" y="370" width="1110" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--15" value="原有向流图 G" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;" vertex="1" parent="1">
-          <mxGeometry x="800" y="180" width="590" height="150" as="geometry" />
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--15" value="原有向流图 G" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="800" y="180" width="610" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--16" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="816" y="231" width="65" height="65" as="geometry" />
