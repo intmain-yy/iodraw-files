@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--1" value="扩展主备容错有向图 G&#39;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--1" value="扩展主备容错有向图 G&#39;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="370" y="380" width="1666" height="235" as="geometry" />
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--2" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="uGmGj6xWB5ZgUXwn2J1--1">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--2" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="uGmGj6xWB5ZgUXwn2J1--1">
           <mxGeometry x="46" y="92" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--3" value="主节点 v1_pri" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="uGmGj6xWB5ZgUXwn2J1--1">
