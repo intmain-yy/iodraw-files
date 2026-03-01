@@ -32,7 +32,7 @@
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-36" value="高频UDP心跳探针 (正常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="329" />
+              <mxPoint x="250" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="20" y="349" width="197" height="68" as="geometry" />
+          <mxGeometry x="20" y="349" width="170" height="41" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="211" y="756" width="324" height="49" as="geometry" />
