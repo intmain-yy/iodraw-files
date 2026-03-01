@@ -35,7 +35,7 @@
           <mxGeometry x="588" y="333" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-31" value="分布式容错最小割划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="564" y="410" width="221" height="49" as="geometry" />
+          <mxGeometry x="610" y="410" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-32" value="节点存活概率测算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="513" y="135" width="123" height="49" as="geometry" />
@@ -92,9 +92,7 @@
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-34" target="QC4sx8SGwG3JWSMuHKiq-33">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="209" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
