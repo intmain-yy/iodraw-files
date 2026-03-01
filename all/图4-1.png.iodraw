@@ -26,10 +26,10 @@
           <mxGeometry x="705.5" y="600" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-28" value="故障快速确诊跃迁" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="513.5" y="691" width="120" height="60" as="geometry" />
+          <mxGeometry x="513.5" y="692" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="714" y="695.5" width="161" height="49" as="geometry" />
+          <mxGeometry x="714" y="697.5" width="161" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-30" value="协同切分调度器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="333" width="110" height="49" as="geometry" />
