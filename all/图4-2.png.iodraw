@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--2" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="560" y="490" width="65" height="65" as="geometry" />
+          <mxGeometry x="620" y="480" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--7" value="云端汇聚" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1254" y="421" width="80" height="80" as="geometry" />
