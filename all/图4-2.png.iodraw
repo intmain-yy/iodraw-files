@@ -41,7 +41,7 @@
           <mxGeometry x="560" y="490" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--7" value="云端汇聚" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="430" width="80" height="80" as="geometry" />
+          <mxGeometry x="1250" y="405.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--8" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--2" target="uGmGj6xWB5ZgUXwn2J1--3">
           <mxGeometry relative="1" as="geometry">
@@ -83,7 +83,7 @@
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--12" value="E(Cloud)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=-0.01;entryY=0.27;rounded=0;fontSize=18;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--5" target="uGmGj6xWB5ZgUXwn2J1--7">
           <mxGeometry x="0.0005" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1400" y="450" />
+              <mxPoint x="1280" y="440" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
