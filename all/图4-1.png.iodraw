@@ -11,10 +11,10 @@
           <mxGeometry x="460" y="308" width="450" height="198" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-23" value="执行与热迁移恢复层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="410" y="506" width="500" height="264" as="geometry" />
+          <mxGeometry x="460" y="506" width="450" height="264" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-24" value="主推理路径分发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="463" y="531" width="173" height="49" as="geometry" />
+          <mxGeometry x="463" y="531" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-25" value="主节点特征推流" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="478" y="600" width="143" height="49" as="geometry" />
