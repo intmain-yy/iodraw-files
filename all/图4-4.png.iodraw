@@ -4,6 +4,88 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-31" value="边缘主节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="43" y="100" width="150" height="842" as="geometry" />
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-32" value="边缘备份节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="298" y="100" width="150" height="842" as="geometry" />
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-33" value="云端协同节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="578" y="100" width="150" height="842" as="geometry" />
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-34" value="高频UDP心跳探针 (正常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="213" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-35" value="经主路径传输TCP深层特征流" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="394" y="271" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-36" value="高频UDP心跳探针 (正常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-37" value="第1次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="449" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-38" value="第2次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="501" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-39" value="第3次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="254" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-40" value="确证主节点故障，触发接管状态跃迁" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="424" y="654" />
+              <mxPoint x="424" y="684" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-41" value="发起连接重构报文与网络握手" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="522" y="736" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-42" value="恢复推导并输出计算特征序列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="522" y="837" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="20" y="349" width="197" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-44" value="累积到达时间阈值 (&quot;$N_{miss} \times \Delta t_{hb}$&quot;)" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="168" y="573" width="410" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="211" y="756" width="324" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
