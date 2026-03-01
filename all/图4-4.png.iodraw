@@ -4,23 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-31" value="边缘主节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-31" value="边缘主节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="43" y="100" width="150" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-32" value="边缘备份节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-32" value="边缘备份节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="298" y="100" width="150" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-33" value="云端协同节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-33" value="云端协同节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="578" y="100" width="150" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-34" value="高频UDP心跳探针 (正常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-34" value="高频UDP心跳探针 (正常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="254" y="213" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-35" value="经主路径传输TCP深层特征流" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-35" value="经主路径传输TCP深层特征流" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="394" y="250" />
@@ -29,35 +29,35 @@
             <mxPoint x="652.5" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-36" value="高频UDP心跳探针 (正常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-36" value="高频UDP心跳探针 (正常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="250" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-37" value="第1次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-37" value="第1次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-38" value="第2次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-38" value="第2次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-39" value="第3次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-39" value="第3次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="254" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-40" value="确证主节点故障，触发接管状态跃迁" style="curved=1;endArrow=block;rounded=0;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-32">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-40" value="确证主节点故障，触发接管状态跃迁" style="curved=1;endArrow=block;rounded=0;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="410" y="550" />
@@ -65,33 +65,33 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-41" value="发起连接重构报文与网络握手" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-41" value="发起连接重构报文与网络握手" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-42" value="恢复推理并输出计算特征序列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=13;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-42" value="恢复推理并输出计算特征序列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="720" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="33" y="320" width="170" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="250.5" y="640" width="249" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-57" value="" style="group;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;fillColor=#647687;" vertex="1" connectable="0" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-57" value="" style="group;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#647687;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290" y="470" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-44" value="" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-57">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-44" value="" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-57">
           <mxGeometry y="1" width="170" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-56" value="&lt;span style=&quot;font-family: Helvetica; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;累积到达时间阈值$$N_{miss} \times \Delta t_{hb}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=13;fontColor=#ffffff;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-57">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-56" value="&lt;span style=&quot;font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;累积到达时间阈值$$N_{miss} \times \Delta t_{hb}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-57">
           <mxGeometry x="41.46341463414634" width="87.07317073170732" height="50" as="geometry" />
         </mxCell>
       </root>
