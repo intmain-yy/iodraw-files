@@ -8,7 +8,7 @@
           <mxGeometry x="43" y="100" width="150" height="842" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-32" value="边缘备份节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="298" y="100" width="150" height="842" as="geometry" />
+          <mxGeometry x="298" y="100" width="150" height="810" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-33" value="云端协同节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="578" y="100" width="150" height="842" as="geometry" />
