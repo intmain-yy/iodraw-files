@@ -57,8 +57,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-37" value="发生连接超时/宕机" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=#D4E1F5;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-25" target="QC4sx8SGwG3JWSMuHKiq-28">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0233" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;labelBackgroundColor=#D4E1F5;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
@@ -96,7 +97,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=#D4E1F5;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
           <mxGeometry x="-0.3437" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
