@@ -54,53 +54,59 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-10" value="相机/端侧传感器&#xa;(Data Source)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="85" y="560" width="182" height="67" as="geometry" />
+          <mxGeometry x="655" y="560" width="182" height="67" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-11" value="边缘主节点&#xa;(Primary Node)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="20" y="700" width="138" height="67" as="geometry" />
+          <mxGeometry x="590" y="700" width="138" height="67" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-12" value="边缘备份节点&#xa;(Backup Node)" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="193" y="839" width="134" height="67" as="geometry" />
+          <mxGeometry x="763" y="839" width="134" height="67" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-13" value="云端/汇聚节点&#xa;(Cloud/Aggregator)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="99" y="979" width="154" height="154" as="geometry" />
+          <mxGeometry x="669" y="979" width="154" height="154" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-14" value="主通信与推理路径" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-10" target="QC4sx8SGwG3JWSMuHKiq-11">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="89" y="663" />
+              <mxPoint x="659" y="663" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-15" value="冗余/备份通信路径" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.84;exitY=0.99;entryX=0.67;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-10" target="QC4sx8SGwG3JWSMuHKiq-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="307" y="663" />
-              <mxPoint x="307" y="803" />
+              <mxPoint x="877" y="663" />
+              <mxPoint x="877" y="803" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-16" value="主通信与推理路径" style="curved=1;startArrow=none;endArrow=block;exitX=0.33;exitY=0.99;entryX=0;entryY=0.08;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-11" target="QC4sx8SGwG3JWSMuHKiq-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="42" y="803" />
-              <mxPoint x="42" y="942" />
+              <mxPoint x="612" y="803" />
+              <mxPoint x="612" y="942" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-17" value="冗余/备份通信路径" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.87;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-12" target="QC4sx8SGwG3JWSMuHKiq-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="942" />
+              <mxPoint x="830" y="942" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-18" value="心跳与局域组播同步" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.79;exitY=0.99;entryX=0.19;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-11" target="QC4sx8SGwG3JWSMuHKiq-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="173" y="803" />
+              <mxPoint x="743" y="803" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
