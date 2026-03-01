@@ -85,11 +85,14 @@
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="225.25" y="640" width="299.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-44" value="" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-58" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="110" y="520" width="170" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-56" value="&lt;span style=&quot;font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;累积到达时间阈值$$N_{miss} \times \Delta t_{hb}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="119.99999999999997" y="520" width="138.54" height="50" as="geometry" />
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-44" value="" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-58">
+          <mxGeometry width="170" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-56" value="&lt;span style=&quot;font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;累积到达时间阈值$$N_{miss} \times \Delta t_{hb}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-58">
+          <mxGeometry x="9.999999999999972" width="138.54" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
