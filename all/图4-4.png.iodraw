@@ -77,20 +77,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="20" y="349" width="197" height="68" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
           <mxGeometry x="211" y="756" width="324" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-57" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="300" y="572" width="200" height="50" as="geometry" />
+          <mxGeometry x="290" y="572" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-44" value="" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-57">
-          <mxGeometry y="1" width="200" height="49" as="geometry" />
+          <mxGeometry y="1" width="170" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-56" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;累积到达时间阈值$$N_{miss} \times \Delta t_{hb}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;" vertex="1" parent="6LvkAFo9Xyz7dMzWHXKS-57">
-          <mxGeometry x="48.78048780487805" width="102.43902439024392" height="50" as="geometry" />
+          <mxGeometry x="41.46341463414634" width="87.07317073170732" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
