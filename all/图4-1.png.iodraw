@@ -23,13 +23,13 @@
           <mxGeometry x="686" y="531" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-27" value="备份节点冷/热备维系" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="689" y="630" width="183" height="49" as="geometry" />
+          <mxGeometry x="689" y="600" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-28" value="故障快速确诊跃迁" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="491" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="677" y="710" width="208" height="49" as="geometry" />
+          <mxGeometry x="689" y="690" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-30" value="协同切分调度器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="588" y="333" width="173" height="49" as="geometry" />
