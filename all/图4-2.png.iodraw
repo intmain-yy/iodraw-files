@@ -55,7 +55,7 @@
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--7" value="云端汇聚" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1480" y="462" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--8" value="E(L1)  p_{f_1}" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.36;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--2" target="uGmGj6xWB5ZgUXwn2J1--3">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--8" value="E(L1) $$p_{f_1}$$" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.36;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--2" target="uGmGj6xWB5ZgUXwn2J1--3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="450" />
