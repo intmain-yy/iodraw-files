@@ -37,7 +37,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--2" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--2" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="480" y="500" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--4" value="" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--14" value="失效阻断/接管跃迁" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.87;entryX=0;entryY=0.19;rounded=0;fontSize=12;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--3" target="uGmGj6xWB5ZgUXwn2J1--4">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--14" value="失效阻断/接管跃迁" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.87;entryX=0;entryY=0.19;rounded=0;fontSize=18;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--3" target="uGmGj6xWB5ZgUXwn2J1--4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="874" y="511" />
