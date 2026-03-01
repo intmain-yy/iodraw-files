@@ -60,15 +60,15 @@
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-40" value="确证主节点故障，触发接管状态跃迁" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="550" />
-              <mxPoint x="430" y="580" />
+              <mxPoint x="410" y="550" />
+              <mxPoint x="410" y="580" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-41" value="发起连接重构报文与网络握手" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="522" y="736" />
+              <mxPoint x="510" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
