@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--32" value="&amp;nbsp;$$E(L1) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--8">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--32" value="&amp;nbsp;$$E(L1) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--8">
           <mxGeometry x="0.1592" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -125,7 +125,7 @@
           <mxGeometry x="1261.5" y="531.5" width="111" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$安全平行边C_{bck}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="666" y="531.5" width="150" height="40" as="geometry" />
+          <mxGeometry x="658" y="527" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
