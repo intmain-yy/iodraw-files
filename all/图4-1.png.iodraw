@@ -101,8 +101,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-46" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;轻量级感知探测层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="130" width="20" height="182" as="geometry" />
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-46" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;轻量级感知探测层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="20" height="162" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;分配调度与网络切分层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="304" width="20" height="206" as="geometry" />
