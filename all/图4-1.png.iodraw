@@ -11,25 +11,25 @@
           <mxGeometry x="20" y="218" width="540" height="198" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-23" value="执行与热迁移恢复层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="29" y="539" width="501" height="571" as="geometry" />
+          <mxGeometry x="20" y="416" width="501" height="571" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-24" value="主推理路径分发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82" y="564" width="173" height="49" as="geometry" />
+          <mxGeometry x="73" y="441" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-25" value="主节点特征推流" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="97" y="663" width="143" height="49" as="geometry" />
+          <mxGeometry x="88" y="540" width="143" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-26" value="备份预热策略指派" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="305" y="564" width="190" height="49" as="geometry" />
+          <mxGeometry x="296" y="441" width="190" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-27" value="备份节点冷/热备维系" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="308" y="663" width="183" height="49" as="geometry" />
+          <mxGeometry x="299" y="540" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-28" value="故障快速确诊跃迁" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="79" y="785" width="178" height="178" as="geometry" />
+          <mxGeometry x="70" y="662" width="178" height="178" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="64" y="1036" width="208" height="49" as="geometry" />
+          <mxGeometry x="55" y="913" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-30" value="协同切分调度器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="198" y="243" width="173" height="49" as="geometry" />
@@ -100,8 +100,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.3437" relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
