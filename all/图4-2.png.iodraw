@@ -22,17 +22,17 @@
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--19" value="云端汇聚" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1290" y="223.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--20" value="E(L1)" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--16" target="uGmGj6xWB5ZgUXwn2J1--17">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--20" value="E(L1)" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=0;entryY=0.49;rounded=0;fontSize=18;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--16" target="uGmGj6xWB5ZgUXwn2J1--17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--21" value="E(L2)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--17" target="uGmGj6xWB5ZgUXwn2J1--18">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--21" value="E(L2)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;fontSize=18;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--17" target="uGmGj6xWB5ZgUXwn2J1--18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--22" value="E(Cloud)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.01;entryY=0.5;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--18" target="uGmGj6xWB5ZgUXwn2J1--19">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--22" value="E(Cloud)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.01;entryY=0.5;rounded=0;fontSize=18;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--18" target="uGmGj6xWB5ZgUXwn2J1--19">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
