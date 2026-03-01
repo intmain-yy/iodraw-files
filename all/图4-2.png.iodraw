@@ -58,7 +58,7 @@
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--32" value="&amp;nbsp;$$E(L1) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--8">
           <mxGeometry x="0.1592" y="-14" relative="1" as="geometry">
-            <mxPoint x="-14" y="-15" as="offset" />
+            <mxPoint x="-4" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--9" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.99;exitY=0.78;entryX=0;entryY=0.64;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--2" target="uGmGj6xWB5ZgUXwn2J1--4">
