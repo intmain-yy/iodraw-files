@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--1" value="扩展主备容错有向图 G&#39;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="472" y="370" width="1110" height="235" as="geometry" />
+          <mxGeometry x="472" y="370" width="968" height="235" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--15" value="原有向流图 G" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="730" y="180" width="640" height="150" as="geometry" />
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--67" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 18px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;$$安全平行边C_{bck}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="698.5" y="527" width="150" height="40" as="geometry" />
+          <mxGeometry x="700.5" y="520" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--69" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="710" y="413" width="127" height="49" as="geometry" />
