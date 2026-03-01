@@ -89,10 +89,10 @@
           <mxGeometry x="290" y="470" width="170" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-44" value="" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="290" y="480" width="170" height="50" as="geometry" />
+          <mxGeometry x="290" y="490" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-56" value="&lt;span style=&quot;font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;累积到达时间阈值$$N_{miss} \times \Delta t_{hb}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="331.4634146341463" y="470" width="87.07317073170732" height="50" as="geometry" />
+          <mxGeometry x="160.0034146341463" y="520" width="87.07317073170732" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
