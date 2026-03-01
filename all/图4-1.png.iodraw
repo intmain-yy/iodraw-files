@@ -26,7 +26,7 @@
           <mxGeometry x="689" y="630" width="183" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-28" value="故障快速确诊跃迁" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="752" width="178" height="178" as="geometry" />
+          <mxGeometry x="460" y="752" width="120" height="88" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="445" y="1003" width="208" height="49" as="geometry" />
