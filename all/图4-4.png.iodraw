@@ -83,7 +83,7 @@
           <mxGeometry x="33" y="320" width="170" height="41" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#647687;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="250.5" y="640" width="249" height="49" as="geometry" />
+          <mxGeometry x="250.5" y="640" width="299.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-57" value="" style="group;strokeColor=#314354;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=#ffffff;fillColor=#647687;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="290" y="470" width="170" height="50" as="geometry" />
