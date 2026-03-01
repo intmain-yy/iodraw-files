@@ -77,7 +77,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-43" value="节点宕机或链路拥塞" style="fillColor=#f5f5f5;strokeColor=#666666;gradientColor=#b3b3b3;" vertex="1" parent="1">
           <mxGeometry x="20" y="349" width="197" height="68" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
