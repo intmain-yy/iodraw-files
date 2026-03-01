@@ -26,7 +26,7 @@
           <mxGeometry x="705.5" y="600" width="151" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-28" value="故障快速确诊跃迁" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="513.5" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="513.5" y="691" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="714" y="695.5" width="161" height="49" as="geometry" />
@@ -62,9 +62,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
-          <mxGeometry x="-0.3416" relative="1" as="geometry">
+          <mxGeometry x="-0.0932" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint as="offset" />
+            <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-30" target="QC4sx8SGwG3JWSMuHKiq-31">
