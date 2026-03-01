@@ -11,7 +11,7 @@
           <mxGeometry x="410" y="308" width="540" height="198" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-23" value="执行与热迁移恢复层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="410" y="506" width="540" height="394" as="geometry" />
+          <mxGeometry x="410" y="506" width="540" height="264" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-24" value="主推理路径分发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="463" y="531" width="173" height="49" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="513" y="135" width="123" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-33" value="UDP网络探针与心跳保活" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="557.5" y="220" width="234" height="49" as="geometry" />
+          <mxGeometry x="557.5" y="220" width="172.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-34" value="底层链路丢包率检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="715.5" y="135" width="130" height="49" as="geometry" />
