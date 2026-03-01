@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--15" value="原有向流图 G" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="770" y="180" width="792" height="150" as="geometry" />
+          <mxGeometry x="730" y="180" width="792" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--16" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="uGmGj6xWB5ZgUXwn2J1--15">
           <mxGeometry x="46" y="51" width="65" height="65" as="geometry" />
