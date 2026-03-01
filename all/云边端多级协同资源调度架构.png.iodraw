@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NbK0l5eIgQaNMz2pk6Py-25" value="比例 1-s1*" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="1" source="NbK0l5eIgQaNMz2pk6Py-16" target="NbK0l5eIgQaNMz2pk6Py-13">
-          <mxGeometry x="-0.0866" y="9" relative="1" as="geometry">
+          <mxGeometry x="0.125" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="320" y="520" />
             </Array>
