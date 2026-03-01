@@ -17,7 +17,7 @@
           <mxGeometry x="940" y="238.5" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--18" value="层计算 v2" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="239" width="100" height="49" as="geometry" />
+          <mxGeometry x="1127" y="238.5" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--19" value="云端汇聚" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="1320" y="223.5" width="80" height="80" as="geometry" />
