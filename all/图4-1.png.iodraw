@@ -61,7 +61,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=0.908;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
