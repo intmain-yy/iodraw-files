@@ -62,7 +62,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;labelBackgroundColor=#D4E1F5;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
           <mxGeometry x="-0.0932" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1" as="offset" />
