@@ -102,9 +102,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--24" value="$$p_f$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="140" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
