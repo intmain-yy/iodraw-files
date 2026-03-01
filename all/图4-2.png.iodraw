@@ -62,6 +62,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--32" value="&amp;nbsp;$$E(L1) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--8">
+          <mxGeometry x="0.1592" y="-14" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--9" value="安全平行边 C_bck" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.99;exitY=0.78;entryX=0;entryY=0.64;rounded=0;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--2" target="uGmGj6xWB5ZgUXwn2J1--4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
