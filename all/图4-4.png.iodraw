@@ -86,9 +86,6 @@
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-45" value="后备计算图预热 (Warmup)与缓存张量对齐" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
           <mxGeometry x="211" y="756" width="324" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-55" value="累积到达时间阈值$$N_{miss} \times \Delta t_{hb}$$" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="860" y="390" width="210" height="40" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
