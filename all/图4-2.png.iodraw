@@ -8,19 +8,19 @@
           <mxGeometry x="580" y="370" width="860" height="235" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--15" value="原有向流图 G" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="730" y="180" width="640" height="140" as="geometry" />
+          <mxGeometry x="720" y="230" width="640" height="120" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--16" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="743" y="230.5" width="65" height="65" as="geometry" />
+          <mxGeometry x="733" y="260.5" width="65" height="65" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--17" value="层计算 v1" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="890" y="239" width="100" height="49" as="geometry" />
+          <mxGeometry x="880" y="269" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--18" value="层计算 v2" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="1069" y="238.5" width="100" height="49" as="geometry" />
+          <mxGeometry x="1059" y="268.5" width="100" height="49" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--19" value="云端汇聚" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=18;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="223.5" width="80" height="80" as="geometry" />
+          <mxGeometry x="1260" y="253.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--20" value="E(L1)" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.49;entryX=0;entryY=0.49;rounded=0;fontSize=18;" edge="1" parent="1" source="uGmGj6xWB5ZgUXwn2J1--16" target="uGmGj6xWB5ZgUXwn2J1--17">
           <mxGeometry relative="1" as="geometry">
