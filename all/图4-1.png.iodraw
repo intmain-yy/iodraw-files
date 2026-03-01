@@ -29,7 +29,7 @@
           <mxGeometry x="491" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="447" y="820" width="208" height="49" as="geometry" />
+          <mxGeometry x="447" y="810" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-30" value="协同切分调度器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="588" y="333" width="173" height="49" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="564" y="410" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-32" value="节点存活概率测算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="457" y="135" width="188" height="49" as="geometry" />
+          <mxGeometry x="457" y="135" width="123" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-33" value="UDP网络探针与心跳保活" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="220" width="234" height="49" as="geometry" />
