@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-21" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;horizontal=1;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-21" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;horizontal=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="450" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-22" value="分配调度与网络切分层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-22" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="460" y="308" width="450" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-23" value="执行与热迁移恢复层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-23" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="460" y="506" width="450" height="264" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-24" value="主推理路径分发" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
