@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--27" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;$$E(L1) \quad&amp;nbsp; p_{f_1}$$&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="640" y="310" width="100" height="40" as="geometry" />
+          <mxGeometry x="640" y="310" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
