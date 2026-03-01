@@ -38,13 +38,13 @@
           <mxGeometry x="564" y="410" width="221" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-32" value="节点存活概率测算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="457" y="135" width="123" height="49" as="geometry" />
+          <mxGeometry x="513" y="135" width="123" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-33" value="UDP网络探针与心跳保活" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="557.5" y="220" width="234" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-34" value="底层链路丢包率检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="695" y="135" width="205" height="49" as="geometry" />
+          <mxGeometry x="770" y="135" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-24" target="QC4sx8SGwG3JWSMuHKiq-25">
           <mxGeometry relative="1" as="geometry">
