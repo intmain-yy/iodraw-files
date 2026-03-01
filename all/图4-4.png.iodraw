@@ -46,14 +46,14 @@
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-38" value="第2次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="501" />
+              <mxPoint x="260" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-39" value="第3次心跳包超时未达" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-31" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="254" y="553" />
+              <mxPoint x="254" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
