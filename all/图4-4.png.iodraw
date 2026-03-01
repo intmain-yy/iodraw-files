@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-42" value="恢复推导并输出计算特征序列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-42" value="恢复推理并输出计算特征序列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="510" y="720" />
