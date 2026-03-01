@@ -7,7 +7,7 @@
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-21" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;horizontal=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="460" y="110" width="450" height="198" as="geometry" />
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-22" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-22" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="460" y="308" width="450" height="198" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-23" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
@@ -95,7 +95,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
           <mxGeometry x="-0.3437" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
