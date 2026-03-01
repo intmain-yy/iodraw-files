@@ -19,7 +19,7 @@
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-25" value="主节点特征推流" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="502" y="600" width="143" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-26" value="备份预热策略指派" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-26" value="备份预热策略指派" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="727.5" y="531" width="134" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-27" value="备份节点冷/热备维系" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
@@ -31,10 +31,10 @@
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="714" y="697.5" width="161" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-30" value="协同切分调度器" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-30" value="协同切分调度器" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="620" y="333" width="110" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-31" value="分布式容错最小割划分" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-31" value="分布式容错最小割划分" style="whiteSpace=wrap;strokeWidth=2;strokeColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;shadow=1;glass=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="410" width="130" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-32" value="节点存活概率测算" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;fontColor=#333333;strokeColor=none;labelBorderColor=none;textShadow=0;shadow=1;glass=1;" vertex="1" parent="1">
