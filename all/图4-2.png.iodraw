@@ -8,7 +8,7 @@
           <mxGeometry x="472" y="370" width="1110" height="235" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--15" value="原有向流图 G" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;container=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="730" y="180" width="680" height="150" as="geometry" />
+          <mxGeometry x="730" y="180" width="640" height="150" as="geometry" />
         </mxCell>
         <mxCell id="uGmGj6xWB5ZgUXwn2J1--16" value="源节点" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#eeeeee;strokeColor=#36393d;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="743" y="230.5" width="65" height="65" as="geometry" />
@@ -56,7 +56,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--32" value="&amp;nbsp;$$E(L1) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--8">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--32" value="&amp;nbsp;$$E(L1) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;labelBackgroundColor=none;" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--8">
           <mxGeometry x="0.1592" y="-14" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
