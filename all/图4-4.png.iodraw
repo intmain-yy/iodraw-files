@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-31" value="边缘主节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="43" y="100" width="150" height="660" as="geometry" />
+          <mxGeometry x="43" y="100" width="150" height="640" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-32" value="边缘备份节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="298" y="100" width="150" height="660" as="geometry" />
+          <mxGeometry x="298" y="100" width="150" height="640" as="geometry" />
         </mxCell>
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-33" value="云端协同节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#eeeeee;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="578" y="100" width="150" height="660" as="geometry" />
@@ -75,7 +75,7 @@
         <mxCell id="6LvkAFo9Xyz7dMzWHXKS-42" value="恢复推理并输出计算特征序列" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=15;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="510" y="730" />
+              <mxPoint x="510" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
