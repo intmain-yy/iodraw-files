@@ -112,12 +112,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--39" value="$$主节点 v1_pri$$" style="rounded=1;arcSize=20;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="520" y="131" width="150" height="69" as="geometry" />
-        </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--40" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
