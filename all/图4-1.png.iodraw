@@ -8,7 +8,7 @@
           <mxGeometry x="460" y="110" width="450" height="198" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-22" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="460" y="308" width="450" height="172" as="geometry" />
+          <mxGeometry x="460" y="308" width="450" height="198" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-23" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="460" y="506" width="450" height="264" as="geometry" />
@@ -37,7 +37,7 @@
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-31" value="分布式容错最小割划分" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="610" y="410" width="130" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-32" value="节点存活概率测算" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-32" value="节点存活概率测算" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="550" y="135" width="123" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-33" value="UDP网络探针与心跳保活" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
