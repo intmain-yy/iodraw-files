@@ -97,7 +97,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;shadow=0;textShadow=1;labelBorderColor=none;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-44" value="汇聚连通性图表" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=default;shadow=0;textShadow=0;labelBorderColor=none;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-33" target="QC4sx8SGwG3JWSMuHKiq-30">
           <mxGeometry x="-0.3437" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
