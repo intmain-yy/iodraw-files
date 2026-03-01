@@ -29,7 +29,7 @@
           <mxGeometry x="491" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-29" value="状态接力与降级补偿推理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="447" y="810" width="208" height="49" as="geometry" />
+          <mxGeometry x="677" y="710" width="208" height="49" as="geometry" />
         </mxCell>
         <mxCell id="QC4sx8SGwG3JWSMuHKiq-30" value="协同切分调度器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="588" y="333" width="173" height="49" as="geometry" />
@@ -61,7 +61,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
+        <mxCell id="QC4sx8SGwG3JWSMuHKiq-38" value="迁移信令" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="QC4sx8SGwG3JWSMuHKiq-28" target="QC4sx8SGwG3JWSMuHKiq-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
