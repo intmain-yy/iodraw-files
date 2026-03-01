@@ -57,11 +57,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-40" value="确证主节点故障，触发接管状态跃迁" style="curved=1;endArrow=block;rounded=0;exitX=0.507;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-32">
+        <mxCell id="6LvkAFo9Xyz7dMzWHXKS-40" value="确证主节点故障，触发接管状态跃迁" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="6LvkAFo9Xyz7dMzWHXKS-32" target="6LvkAFo9Xyz7dMzWHXKS-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="424" y="654" />
-              <mxPoint x="450" y="620" />
+              <mxPoint x="440" y="560" />
+              <mxPoint x="450" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
