@@ -75,7 +75,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uGmGj6xWB5ZgUXwn2J1--33" value="&amp;nbsp;$$E(L2) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--10">
+        <mxCell id="uGmGj6xWB5ZgUXwn2J1--33" value="&amp;nbsp;$$E(L2) \quad&amp;nbsp; p_{f_1}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="uGmGj6xWB5ZgUXwn2J1--10">
           <mxGeometry x="0.1347" y="1" relative="1" as="geometry">
             <mxPoint x="-7" y="-4" as="offset" />
           </mxGeometry>
