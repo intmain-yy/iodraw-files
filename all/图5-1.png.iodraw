@@ -142,8 +142,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" target="J9tHDdO6NOtmfCn0Xb15-3">
-          <mxGeometry x="-0.5534" y="-1" relative="1" as="geometry">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.185;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-4" target="J9tHDdO6NOtmfCn0Xb15-3">
+          <mxGeometry x="-0.5531" y="-1" relative="1" as="geometry">
             <mxPoint x="386" y="220" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
