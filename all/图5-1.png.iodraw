@@ -38,7 +38,7 @@
           <mxGeometry x="485.5" y="100" width="177" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾故障编排板" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="609" y="165" width="177" height="34" as="geometry" />
+          <mxGeometry x="662.5" y="165" width="177" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-13" value="多源传感器阵列: 可见光+红外" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="292" y="333" width="178" height="49" as="geometry" />
