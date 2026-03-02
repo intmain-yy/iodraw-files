@@ -8,7 +8,7 @@
           <mxGeometry x="230" y="267" width="690" height="473" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备份节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="628" y="520" width="260" height="200" as="geometry" />
+          <mxGeometry x="605.5" y="516.69" width="260" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;glass=0;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="308" width="330" height="252" as="geometry" />
@@ -50,13 +50,13 @@
           <mxGeometry x="395.75" y="492" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="655" y="556" width="206" height="49" as="geometry" />
+          <mxGeometry x="632.5" y="552.69" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="655" y="605" width="206" height="49" as="geometry" />
+          <mxGeometry x="632.5" y="601.69" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="655" y="654" width="206" height="49" as="geometry" />
+          <mxGeometry x="632.5" y="650.69" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.23;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-13" target="J9tHDdO6NOtmfCn0Xb15-14">
           <mxGeometry relative="1" as="geometry">
