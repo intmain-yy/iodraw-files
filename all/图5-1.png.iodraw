@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-1" value="边缘无人集群感知计算层 Edge Perception Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="261" width="748" height="569" as="geometry" />
+          <mxGeometry x="20" y="261" width="690" height="569" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="415" y="560" width="260" height="240" as="geometry" />
