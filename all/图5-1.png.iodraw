@@ -49,10 +49,10 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-15" value="流式序列化推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="395.75" y="492" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="556" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="655" y="605" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
