@@ -13,7 +13,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="70" y="286" width="420" height="264" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-4" value="协同调度与监控层 Dispatch &amp; Strategy Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-4" value="协同调度与监控层 Dispatch &amp; Strategy Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="175" y="20" width="500" height="168" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="中心云端节点层 Cloud Node Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
