@@ -105,6 +105,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#143642;fillColor=#FAE5C7;" vertex="1" connectable="0" parent="J9tHDdO6NOtmfCn0Xb15-31">
+          <mxGeometry x="-0.1883" y="10" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;entryX=0.176;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;strokeWidth=1;labelBackgroundColor=none;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-4" target="J9tHDdO6NOtmfCn0Xb15-3">
           <mxGeometry x="-0.5531" y="-1" relative="1" as="geometry">
             <Array as="points">
