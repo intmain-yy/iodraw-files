@@ -23,7 +23,7 @@
           <mxGeometry x="1300" y="300" width="150" height="960" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-5" value="图切分调度引擎" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1019" y="300" width="150" height="960" as="geometry" />
+          <mxGeometry x="910" y="300" width="150" height="960" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-4" value="热备份节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="300" width="150" height="960" as="geometry" />
@@ -172,7 +172,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-32" value="11" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-31">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-300" y="-7" as="offset" />
+            <mxPoint x="-360" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-33" value="并行提取本地浅层网络（至切分层）" style="fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;" vertex="1" parent="1">
