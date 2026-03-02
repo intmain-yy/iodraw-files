@@ -32,10 +32,10 @@
           <mxGeometry x="300.5" y="1107" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="220" y="110" width="193" height="34" as="geometry" />
+          <mxGeometry x="200" y="110" width="193" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="318" y="45" width="177" height="34" as="geometry" />
+          <mxGeometry x="321.5" y="45" width="177" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾故障编排板" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="445" y="110" width="177" height="34" as="geometry" />
