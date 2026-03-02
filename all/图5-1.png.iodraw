@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-1" value="边缘无人集群感知计算层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="230" y="267" width="690" height="483" as="geometry" />
+          <mxGeometry x="230" y="267" width="690" height="533" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="625" y="582" width="260" height="198" as="geometry" />
@@ -82,7 +82,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送截断大张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.34;exitY=0.99;entryX=0.06;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="827" />
+              <mxPoint x="320" y="670" />
             </Array>
           </mxGeometry>
         </mxCell>
