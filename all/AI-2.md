@@ -1,64 +1,30 @@
 ```mermaid
-graph TD
-    %% 定义 FT 层的样式
-    classDef ftNode fill:#F4C7A3,stroke:#A18476,stroke-width:1px;
+sequenceDiagram
+    autonumber
+    participant S_Sensor as 多模态传感器阵列
+    participant E_Main as 边缘执行主节点
+    participant Monitor as 热备侧探针池
+    participant Scheduler as 图切分调度引擎
+    participant C_Cloud as 分布式云端节点
+
+    Scheduler->>E_Main: 下发负载感知的模型切分映射图点 (Dag Node)
+    Scheduler->>Monitor: 共享备份容灾元数据与模型缓存
+    Scheduler->>C_Cloud: 挂载剩余深层网络结构接收态
     
-    %% 主层级结构
-    subgraph "DISTRIBUTED EDGE-CLOUD PERCEPTION SYSTEM WITH FAULT TOLERANCE (DFD Layer 1)"
+    loop 循环视频流联合感知
+        S_Sensor->>E_Main: 同步透传 可见光 + 红外感知张量
+        note over E_Main: 并行提取本地浅层网络（至切断层）
+        E_Main->>Monitor: 旁路发包: 携带网络指纹周期性维持心跳
+        E_Main->>C_Cloud: 串行化推流: 切层张量网络负载分发 (TCP Tensors)
+        note over C_Cloud: 激活云端高维特征拼装网络 (Concat)
+        C_Cloud->>C_Cloud: 执行后置融合推理出列
         
-        %% 边缘集群
-        subgraph "EDGE DRONE/VEHICLE CLUSTER (EDGE NODE)"
-            
-            %% 外部实体和进程
-            [Visible Camera] --> |Visible Image Sequence| P1(P1: Visual Frame Queue Extraction)
-            [Infrared Detector] --> |Infrared Image Sequence| P2(Process: Infrared Frame Queue Extraction)
-            
-            %% 连接到联合编码
-            P1 --> |Extracted Visual Frames| P3
-            P2 --> |Extracted Infrared Frames| P3(Process: Joint Visual/Infrared Shallow DNN Encoding)
-            
-            %% 注意事项 (作为文本节点插入)
-            note1[整合 note1: Joint perception performed here]
-            note1 -.-> P3
-            
-            %% 连接到切分裁决器
-            P3 --> |Encoded Feature Representation| P4(Process: System Splitting Point Arbiter)
-            
-            %% 输出流
-            P4 --> |Optimal Splitting Point Data| [D4_label]
-            P4 --> |Optimal Split Feature| [D5_label]
-        end
-        
-        %% 网络和容错层
-        subgraph "NETWORK & FAULT TOLERANCE (FT) LAYER"
-            
-            %% 主要传输进程
-            P4 --> |"Optimal Split Feature Data (TCP Stream)"| P5(P5: Network Flow Transmission)
-            
-            %% 容错逻辑
-            P5 --> |Continuous High-Frequency UDP Heartbeats| P6(P6: Fault Probe & Backup Node Monitor)
-            P6 --> |Primary Failure Trigger| P7(P7: Hot Standby Node Activation & Relay)
-            
-            %% 应用样式
-            class P6,P7 ftNode;
-            
-            %% 备份路径
-            P7 --> |"Reconstructed Data Stream (H_backup)"| P8
-            P7 -.-> |"Backup Node Signal"| P6 %% 添加反向监视流
-        end
-        
-        %% 云端节点
-        subgraph "CENTER CLOUD SERVER (CLOUD NODE)"
-            
-            %% 传输流
-            P5 --> |TCP Feature Stream| P8
-            
-            %% 后端处理
-            P8(P8: Backend Deep Neural Network Layer) --> |Backend Deep Features| P9(P9: Multimodal High-Dimensional Feature Assembly & Joint Calculation)
-            
-            %% 最终结果输出
-            P9 --> |Final Perception Result| [FinalResult]
-            [FinalResult] --> [Output Final Classification/Regression Perception Result]
+        alt 发生强链路跌落/硬件宕机事件
+            E_Main--xMonitor: 心跳保活阻断 (丢包触线)
+            Monitor->>Monitor: 确诊断点，温备线程越迁为主工作流
+            Monitor->>C_Cloud: TCP通道强行劫持/接力重建请求
+            Monitor->>C_Cloud: 张量预热后推流，替代原节点续延任务
         end
     end
+
 ```
