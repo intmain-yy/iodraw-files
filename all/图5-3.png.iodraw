@@ -20,7 +20,7 @@
           <mxGeometry x="387" y="928" width="949" height="293" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-8" value="发生节点宕机事件" style="text;strokeColor=#56517e;fillColor=#d0cee2;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-7">
-          <mxGeometry x="30" width="919" height="30" as="geometry" />
+          <mxGeometry x="60" width="889" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-5" value="图切分调度引擎" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1019" y="300" width="150" height="1026" as="geometry" />
