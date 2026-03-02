@@ -151,7 +151,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-30" value="10" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-29">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-295" y="-7" as="offset" />
+            <mxPoint x="-296" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-31" value="张量预热后推流，替代原节点续延任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-6">
@@ -163,7 +163,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-32" value="11" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-31">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-295" y="-7" as="offset" />
+            <mxPoint x="-296" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-33" value="并行提取本地浅层网络（至切断层）" style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=19;" vertex="1" parent="1">
