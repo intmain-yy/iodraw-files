@@ -79,6 +79,9 @@
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-52" value="进程：红外帧图像队列提取" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-53" target="zOpF3xat3lPP_-Pxq9Cr-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-53" value="进程：视觉/红外联合浅层DNN编码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="500" y="150" width="140" height="60" as="geometry" />
         </mxCell>
@@ -98,7 +101,7 @@
           <mxGeometry x="830" y="160" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-68" value="整合node1：在此执行联合感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="110" width="110" height="30" as="geometry" />
+          <mxGeometry x="500" y="110" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
