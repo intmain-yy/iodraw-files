@@ -17,7 +17,7 @@
           <mxGeometry x="280" y="50" width="630" height="168" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="云端节点层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="466.5" y="867" width="300" height="317" as="geometry" />
+          <mxGeometry x="466.5" y="867" width="300" height="283" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-6" value="云端通信接收中间件" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="510.5" y="902" width="209.5" height="49" as="geometry" />
@@ -28,7 +28,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征联汇聚合算子" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="510.5" y="1000" width="209.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-9" value="" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;glass=0;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-9" value="推理结果任务输出" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="511.5" y="1090" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
@@ -40,7 +40,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾故障编排板" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="669.5" y="165" width="177" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-13" value="多源传感器阵列: 可见光+红外" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-13" value="帧图像序列: 可见光+红外" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="200" height="42" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-14" value="浅层特征感知计算池" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
@@ -140,9 +140,6 @@
             <mxPoint x="710" y="128" as="sourcePoint" />
             <mxPoint x="709.9981889763778" y="163" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-45" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;推理结果任务输出&lt;/span&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1075" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
