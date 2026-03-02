@@ -73,7 +73,7 @@
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-44" target="zOpF3xat3lPP_-Pxq9Cr-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-77" value="主节点失效触发" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-76">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-77" value="主节点失效触发接管握手" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-76">
           <mxGeometry x="-0.1351" y="-4" relative="1" as="geometry">
             <mxPoint x="5" y="-17" as="offset" />
           </mxGeometry>
