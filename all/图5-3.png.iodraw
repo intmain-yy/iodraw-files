@@ -129,7 +129,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-26" value="8" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-25">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-185" y="-7" as="offset" />
+            <mxPoint x="-192" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-27" value="确诊断点，温备线程越迁为主工作流" style="curved=1;endArrow=block;rounded=0;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-4">
