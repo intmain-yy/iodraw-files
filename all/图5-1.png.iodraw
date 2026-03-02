@@ -110,11 +110,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-28" value="实时下发网络模型图切分深度断点" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-10" target="J9tHDdO6NOtmfCn0Xb15-14">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.2913" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="394" y="188" />
+              <mxPoint x="394" y="220" />
               <mxPoint x="390" y="320" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送截断大张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.34;exitY=0.99;entryX=0.06;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6">
