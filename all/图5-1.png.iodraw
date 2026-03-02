@@ -71,9 +71,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-28" value="实时下发网络模型图切分点" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-10" target="J9tHDdO6NOtmfCn0Xb15-14">
-          <mxGeometry x="-0.4942" y="-9" relative="1" as="geometry">
+          <mxGeometry x="-0.5374" y="-22" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="604" y="237" />
+              <mxPoint x="570" y="260" />
               <mxPoint x="600" y="337" />
             </Array>
             <mxPoint as="offset" />
