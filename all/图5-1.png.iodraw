@@ -155,8 +155,8 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1010" y="460" as="sourcePoint" />
-            <mxPoint x="1009.9981889763778" y="503" as="targetPoint" />
+            <mxPoint x="440" y="112.5" as="sourcePoint" />
+            <mxPoint x="439.99818897637783" y="155.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-40" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;统筹与故障倒换指令下发&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J9tHDdO6NOtmfCn0Xb15-39">
