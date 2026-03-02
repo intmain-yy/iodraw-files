@@ -44,10 +44,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-13" value="共享备份容灾元数据与模型缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-4">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0036" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="909" y="459" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-14" value="2" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-13">
