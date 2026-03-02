@@ -109,7 +109,6 @@
         <mxCell id="dyy7h7P7rHvHzDxIGnID-23" value="执行后置融合推理出列" style="curved=1;endArrow=block;rounded=0;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-6" target="dyy7h7P7rHvHzDxIGnID-6">
           <mxGeometry x="-0.0107" y="20" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1376" y="878" />
               <mxPoint x="1470" y="900" />
               <mxPoint x="1376" y="930" />
             </Array>
@@ -120,9 +119,6 @@
           <mxGeometry width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-104" y="-29" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dyy7h7P7rHvHzDxIGnID-23" source="dyy7h7P7rHvHzDxIGnID-24" target="dyy7h7P7rHvHzDxIGnID-24">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-25" value="心跳保活阻断 (丢包触线)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=19;endSize=12;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4">
           <mxGeometry relative="1" as="geometry">
