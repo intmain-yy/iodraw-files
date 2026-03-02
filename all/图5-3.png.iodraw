@@ -121,7 +121,7 @@
             <mxPoint x="-103" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-25" value="心跳保活阻断 (丢包触线)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=19;endSize=12;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-25" value="心跳保活阻断 (丢包触线)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=19;endSize=12;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="583" y="1009" />
@@ -133,7 +133,7 @@
             <mxPoint x="-192" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-27" value="确诊断点，温备线程越迁为主工作流" style="curved=1;endArrow=block;rounded=0;fontSize=19;" edge="1" parent="1" target="dyy7h7P7rHvHzDxIGnID-4">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-27" value="确诊断点，温备线程越迁为主工作流" style="curved=1;endArrow=block;rounded=0;fontSize=19;labelBackgroundColor=none;" edge="1" parent="1" target="dyy7h7P7rHvHzDxIGnID-4">
           <mxGeometry x="-0.2229" y="38" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="830" y="1080" />
