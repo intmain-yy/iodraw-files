@@ -75,7 +75,7 @@
           <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-53" value="进程：视觉/红外联合浅层DNN编码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="470" y="150" width="130" height="60" as="geometry" />
+          <mxGeometry x="500" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-54" value="进程：系统切分点裁决器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="650" y="150" width="120" height="60" as="geometry" />
