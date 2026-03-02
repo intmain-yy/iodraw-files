@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-66" value="提取的视觉帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-64">
           <mxGeometry x="-0.5846" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="17" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-37" value="P1：视觉帧图像队列提取" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
@@ -69,6 +69,11 @@
               <mxPoint x="470" y="220" />
               <mxPoint x="470" y="180" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-67" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-65">
+          <mxGeometry x="-0.3375" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-52" value="进程：红外帧图像队列提取" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
