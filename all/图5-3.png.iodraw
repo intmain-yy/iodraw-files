@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-19" value="旁路发包: 携带网络指纹周期性维持心跳" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4">
-          <mxGeometry x="-0.0021" relative="1" as="geometry">
+          <mxGeometry x="0.1258" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="710" />
             </Array>
@@ -131,7 +131,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-26" value="8" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-25">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-235" y="-7" as="offset" />
+            <mxPoint x="-174" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-27" value="确诊断点，温备线程越迁为主工作流" style="curved=1;endArrow=block;rounded=0;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" target="dyy7h7P7rHvHzDxIGnID-4">
