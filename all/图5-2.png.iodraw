@@ -19,7 +19,7 @@
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-38" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
           <mxGeometry x="720" y="310" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-39" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-39" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#b0e3e6;strokeColor=#0e8088;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.wireless_modem;" vertex="1" parent="1">
           <mxGeometry x="260" y="270" width="130" height="130" as="geometry" />
         </mxCell>
       </root>
