@@ -110,8 +110,8 @@
         <mxCell id="dyy7h7P7rHvHzDxIGnID-23" value="执行后置融合推理" style="curved=1;endArrow=block;rounded=0;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-6" target="dyy7h7P7rHvHzDxIGnID-6">
           <mxGeometry x="-0.8925" y="22" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1350" y="870" />
-              <mxPoint x="1350" y="910" />
+              <mxPoint x="1350" y="860" />
+              <mxPoint x="1330" y="910" />
             </Array>
             <mxPoint x="1380" y="870" as="sourcePoint" />
             <mxPoint x="1380" y="900" as="targetPoint" />
