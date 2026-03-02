@@ -110,7 +110,6 @@
           <mxGeometry x="-0.8401" y="30" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1420" y="880" />
-              <mxPoint x="1376" y="900" />
             </Array>
             <mxPoint x="1380" y="860" as="sourcePoint" />
             <mxPoint as="offset" />
