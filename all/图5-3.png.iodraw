@@ -26,10 +26,10 @@
           <mxGeometry x="1019" y="300" width="150" height="1026" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-4" value="热备份节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300" width="150" height="1026" as="geometry" />
+          <mxGeometry x="720" y="300" width="150" height="960" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-3" value="边缘执行主节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="350" y="300" width="150" height="1026" as="geometry" />
+          <mxGeometry x="350" y="300" width="150" height="970" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-11" value="下发负载感知的模型切分映射图点 (Dag Node)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-3">
           <mxGeometry relative="1" as="geometry">
