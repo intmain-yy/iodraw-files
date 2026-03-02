@@ -120,7 +120,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-53" value="视觉/红外联合浅层DNN编码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="500" y="150" width="140" height="60" as="geometry" />
+          <mxGeometry x="480" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-54" target="zOpF3xat3lPP_-Pxq9Cr-58">
           <mxGeometry relative="1" as="geometry" />
@@ -135,7 +135,7 @@
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-73" value="最优切分点数据（TCP数据流）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-72">
           <mxGeometry x="-0.4418" y="1" relative="1" as="geometry">
-            <mxPoint x="76" y="-11" as="offset" />
+            <mxPoint x="46" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-54" value="系统切分点裁决器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
