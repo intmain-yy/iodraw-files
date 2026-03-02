@@ -8,7 +8,7 @@
           <mxGeometry x="230" y="267" width="690" height="533" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="628" y="341" width="260" height="198" as="geometry" />
+          <mxGeometry x="628" y="320" width="260" height="219" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="308" width="360" height="264" as="geometry" />
