@@ -46,16 +46,16 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-14" value="浅层特征感知计算池" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="376.5" y="415.5" width="180.5" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-15" value="流式序列化推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-15" value="流式序列化推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="395.75" y="492" width="142" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="655" y="556" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="655" y="605" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="655" y="654" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.23;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-13" target="J9tHDdO6NOtmfCn0Xb15-14">
