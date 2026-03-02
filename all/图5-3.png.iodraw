@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-2" value="多模态传感器阵列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-2" value="多模态传感器阵列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="160" height="1026" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-3" value="边缘执行主节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;" vertex="1" parent="1">
@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-14" value="2" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-13">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="136" y="-17" as="offset" />
+            <mxPoint x="138" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-15" value="挂载剩余深层网络结构接收态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-6">
