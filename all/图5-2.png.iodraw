@@ -119,7 +119,7 @@
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-70" value="编码特征表示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-69">
           <mxGeometry x="-0.1" relative="1" as="geometry">
-            <mxPoint x="-3" y="-10" as="offset" />
+            <mxPoint x="-1" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-53" value="视觉/红外联合浅层DNN编码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
@@ -164,8 +164,8 @@
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-57" value="输出最终推理任务感知结果" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="870" y="580" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="最优切分点集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="900" y="165" width="110" height="30" as="geometry" />
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="最优切分点数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="900" y="165" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-68" value="在此执行联合感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="505" y="120" width="130" height="30" as="geometry" />
