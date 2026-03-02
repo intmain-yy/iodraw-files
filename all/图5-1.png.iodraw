@@ -35,7 +35,7 @@
           <mxGeometry x="364" y="165" width="193" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="460" y="100" width="310" height="34" as="geometry" />
+          <mxGeometry x="456.5" y="90" width="310" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾故障编排板" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="669.5" y="165" width="177" height="34" as="geometry" />
@@ -71,13 +71,6 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-8" target="J9tHDdO6NOtmfCn0Xb15-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=15;exitDx=0;exitDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-11" target="J9tHDdO6NOtmfCn0Xb15-10">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="461" y="130" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-11" target="J9tHDdO6NOtmfCn0Xb15-12">
