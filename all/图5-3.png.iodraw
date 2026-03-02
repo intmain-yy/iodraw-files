@@ -133,12 +133,13 @@
             <mxPoint x="-192" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-27" value="确诊断点，温备线程越迁为主工作流" style="curved=1;endArrow=block;rounded=0;fontSize=19;exitX=0.515;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-4">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-27" value="确诊断点，温备线程越迁为主工作流" style="curved=1;endArrow=block;rounded=0;fontSize=19;" edge="1" parent="1" target="dyy7h7P7rHvHzDxIGnID-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="1060" />
+              <mxPoint x="860" y="1090" />
               <mxPoint x="801" y="1120" />
             </Array>
+            <mxPoint x="797" y="1070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-28" value="9" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-27">
