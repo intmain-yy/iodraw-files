@@ -166,8 +166,8 @@
             <mxPoint x="-296" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-33" value="并行提取本地浅层网络（至切断层）" style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="230" y="632" width="307" height="49" as="geometry" />
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-33" value="并行提取本地浅层网络（至切分层）" style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="220" y="632" width="317" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-34" value="激活云端高维特征拼装网络 (Concat)" style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1185" y="797" width="280" height="49" as="geometry" />
