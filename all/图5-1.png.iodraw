@@ -8,7 +8,7 @@
           <mxGeometry x="230" y="267" width="690" height="473" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备份节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="605.5" y="516.69" width="260" height="200" as="geometry" />
+          <mxGeometry x="628" y="520" width="260" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;glass=0;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="308" width="330" height="252" as="geometry" />
@@ -50,13 +50,13 @@
           <mxGeometry x="395.75" y="492" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="632.5" y="552.69" width="206" height="49" as="geometry" />
+          <mxGeometry x="655" y="556" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="632.5" y="601.69" width="206" height="49" as="geometry" />
+          <mxGeometry x="655" y="605" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="632.5" y="650.69" width="206" height="49" as="geometry" />
+          <mxGeometry x="655" y="654" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.23;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-13" target="J9tHDdO6NOtmfCn0Xb15-14">
           <mxGeometry relative="1" as="geometry">
@@ -98,7 +98,7 @@
             <mxPoint x="53" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-31" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-18" target="J9tHDdO6NOtmfCn0Xb15-6">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-31" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-18" target="J9tHDdO6NOtmfCn0Xb15-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="730" />
@@ -107,7 +107,7 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-56" value="热备接力 推送预存后置张量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#000000;fillColor=#FAE5C7;labelBackgroundColor=none;fontSize=15;" vertex="1" connectable="0" parent="J9tHDdO6NOtmfCn0Xb15-31">
           <mxGeometry x="-0.2251" y="5" relative="1" as="geometry">
-            <mxPoint x="35" as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;entryX=0.176;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;strokeWidth=1;labelBackgroundColor=none;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-4" target="J9tHDdO6NOtmfCn0Xb15-3">
