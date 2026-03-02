@@ -34,7 +34,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="364" y="165" width="193" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;rounded=0;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;rounded=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="402" y="90" width="365.25" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾故障编排板" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;" vertex="1" parent="1">
