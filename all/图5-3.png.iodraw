@@ -180,7 +180,7 @@
           <mxGeometry x="200" y="620" width="330" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-34" value="激活云端高维特征融合网络 (Concat)" style="fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="770" width="340" height="49" as="geometry" />
+          <mxGeometry x="1030" y="770" width="340" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
