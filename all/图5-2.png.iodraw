@@ -167,7 +167,7 @@
           <mxGeometry x="810" y="530" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="最优切分点数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="860" y="165" width="140" height="30" as="geometry" />
+          <mxGeometry x="840" y="165" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-68" value="在此执行联合感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="470" y="120" width="130" height="30" as="geometry" />
