@@ -20,7 +20,7 @@
           <mxGeometry x="60" width="1120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-6" value="云端计算节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="300" width="150" height="960" as="geometry" />
+          <mxGeometry x="1200" y="300" width="150" height="960" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-5" value="图切分调度引擎" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="300" width="150" height="960" as="geometry" />
@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-14" value="2" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-13">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="200" y="-9" as="offset" />
+            <mxPoint x="145" y="-9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-15" value="挂载剩余深层网络结构接收态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-6">
@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-16" value="3" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-15">
           <mxGeometry width="24" height="24" relative="1" as="geometry">
-            <mxPoint x="-151" y="-17" as="offset" />
+            <mxPoint x="-206" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-17" value="同步透传 可见光 + 红外感知张量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-2" target="dyy7h7P7rHvHzDxIGnID-3">
