@@ -55,12 +55,6 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="655" y="715" width="206" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="616.5" y="1090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.23;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-13" target="J9tHDdO6NOtmfCn0Xb15-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -140,7 +134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-45" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;推理结果任务输出&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1075" width="140" height="80" as="geometry" />
+          <mxGeometry x="546.5" y="1100" width="140" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
