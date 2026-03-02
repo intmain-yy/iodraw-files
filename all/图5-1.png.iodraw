@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-1" value="边缘无人集群感知计算层 Edge Perception Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="20" y="261" width="748" height="712" as="geometry" />
+          <mxGeometry x="20" y="261" width="748" height="629" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="415" y="630" width="260" height="240" as="geometry" />
@@ -17,19 +17,19 @@
           <mxGeometry x="160" y="20" width="500" height="168" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="中心云端节点层 Cloud Node Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1023" width="300" height="307" as="geometry" />
+          <mxGeometry x="260" y="920" width="300" height="307" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-6" value="云端通信接收中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1048" width="205" height="49" as="geometry" />
+          <mxGeometry x="304" y="945" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-7" value="深层算子计算图引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1120" width="206" height="49" as="geometry" />
+          <mxGeometry x="304" y="1017" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征联汇聚合算子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="288" y="1196.5" width="237" height="49" as="geometry" />
+          <mxGeometry x="288" y="1093.5" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-9" value="推理结果任务输出头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1270" width="205" height="49" as="geometry" />
+          <mxGeometry x="304" y="1167" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="186" y="129" width="193" height="34" as="geometry" />
