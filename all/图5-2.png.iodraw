@@ -19,9 +19,9 @@
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-33" target="zOpF3xat3lPP_-Pxq9Cr-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-60" value="视觉图像序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-59">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-60" value="视觉图像序列" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBackgroundColor=none;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-59">
           <mxGeometry x="-0.2182" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-33" value="可见光摄像头" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
@@ -43,7 +43,7 @@
           <mxGeometry x="30" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-52" value="进程：红外帧图像队列提取" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="260" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-53" value="进程：视觉/红外联合浅层DNN编码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="450" y="150" width="150" height="60" as="geometry" />
