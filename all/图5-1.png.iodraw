@@ -28,9 +28,6 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征联汇聚合算子" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="564.75" y="860" width="180" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-9" value="推理结果任务输出" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;rounded=1;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="549.75" y="946" width="210" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="364" y="175" width="193" height="34" as="geometry" />
         </mxCell>
@@ -57,11 +54,6 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="655" y="715" width="206" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-8" target="J9tHDdO6NOtmfCn0Xb15-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.23;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-13" target="J9tHDdO6NOtmfCn0Xb15-14">
           <mxGeometry relative="1" as="geometry">
@@ -140,8 +132,8 @@
             <mxPoint x="709.9981889763778" y="173" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-46" value="任务输出" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1100" width="80" height="80" as="geometry" />
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-46" value="任务输出" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="810" y="860" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
