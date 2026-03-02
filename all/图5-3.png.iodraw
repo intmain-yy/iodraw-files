@@ -150,10 +150,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-29" value="TCP通道强行劫持/接力重建请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-6">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0006" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1046" y="1149" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-30" value="10" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-29">
@@ -161,7 +162,7 @@
             <mxPoint x="-300" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-31" value="张量预热后推流，替代原节点续延任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-6">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-31" value="张量预热后推流，替代原节点续延推理任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-6">
           <mxGeometry x="-0.0006" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1046" y="1201" />
