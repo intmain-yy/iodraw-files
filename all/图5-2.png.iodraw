@@ -38,7 +38,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-66" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-64">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-66" value="提取的视觉帧" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-64">
           <mxGeometry x="-0.5846" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
