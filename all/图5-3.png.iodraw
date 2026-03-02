@@ -40,7 +40,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-12" value="1" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-11">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="314" y="-7" as="offset" />
+            <mxPoint x="325" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-13" value="共享备份容灾元数据与模型缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-4">
@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-16" value="3" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-15">
           <mxGeometry width="24" height="24" relative="1" as="geometry">
-            <mxPoint x="-151" y="-17" as="offset" />
+            <mxPoint x="-127" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-17" value="同步透传 可见光 + 红外感知张量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-2" target="dyy7h7P7rHvHzDxIGnID-3">
