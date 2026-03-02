@@ -135,7 +135,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-27" value="确诊断点，温备线程越迁为主工作流" style="curved=1;endArrow=block;rounded=0;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-4">
-          <mxGeometry x="-0.5595" y="30" relative="1" as="geometry">
+          <mxGeometry x="-0.556" y="20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="1060" />
               <mxPoint x="730" y="1110" />
