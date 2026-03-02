@@ -23,7 +23,7 @@
           <mxGeometry x="510.5" y="902" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-7" value="深层算子计算图引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="510.5" y="974" width="206" height="49" as="geometry" />
+          <mxGeometry x="510" y="951" width="205.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征联汇聚合算子" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="494.5" y="1050.5" width="237" height="49" as="geometry" />
