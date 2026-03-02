@@ -10,7 +10,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="302" y="651" width="410" height="297" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="286" width="482" height="315" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-4" value="协同调度与监控层 Dispatch &amp; Strategy Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
