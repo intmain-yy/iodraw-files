@@ -14,7 +14,7 @@
           <mxGeometry x="280" y="308" width="420" height="264" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-4" value="协同调度与监控层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="290" y="50" width="580" height="168" as="geometry" />
+          <mxGeometry x="280" y="50" width="590" height="168" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="云端节点层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="466.5" y="867" width="300" height="317" as="geometry" />
@@ -142,7 +142,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;exitX=0.204;exitY=0.982;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-4" target="J9tHDdO6NOtmfCn0Xb15-3">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;exitX=0.184;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-4" target="J9tHDdO6NOtmfCn0Xb15-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="490" y="217" as="sourcePoint" />
