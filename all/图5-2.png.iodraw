@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-45" value="分布式边缘-云容错感知系统" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-10" y="30" width="1030" height="680" as="geometry" />
+          <mxGeometry y="10" width="1030" height="680" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-48" value="云端服务器（云节点）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=20;fontColor=default;fontStyle=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="20" y="620" width="870" height="200" as="geometry" />
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-49" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.frame;dx=10;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-20" y="330" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=10;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-49" target="zOpF3xat3lPP_-Pxq9Cr-49">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
