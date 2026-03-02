@@ -4,6 +4,152 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-1" value="边缘无人集群感知计算层 Edge Perception Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="261" width="748" height="712" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="302" y="651" width="410" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="286" width="482" height="315" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-4" value="协同调度与监控层 Dispatch &amp; Strategy Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="85" y="20" width="672" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="中心云端节点层 Cloud Node Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="126" y="1023" width="476" height="396" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-6" value="云端通信接收中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1048" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-7" value="深层算子计算图引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1147" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征联汇聚合算子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="288" y="1246" width="237" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-9" value="推理结果任务输出头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="304" y="1345" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="186" y="129" width="193" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="318" y="45" width="177" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾故障编排板" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="545" y="129" width="177" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-13" value="多源传感器阵列: 可见光+红外" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="82" y="311" width="178" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-14" value="浅层特征感知计算池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="179" y="428" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-15" value="流式序列化推流器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="188" y="527" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="412" y="676" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="412" y="775" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="412" y="874" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-6" target="J9tHDdO6NOtmfCn0Xb15-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-7" target="J9tHDdO6NOtmfCn0Xb15-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-8" target="J9tHDdO6NOtmfCn0Xb15-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.22;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-11" target="J9tHDdO6NOtmfCn0Xb15-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="282" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-11" target="J9tHDdO6NOtmfCn0Xb15-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="633" y="104" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.23;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-13" target="J9tHDdO6NOtmfCn0Xb15-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="171" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-14" target="J9tHDdO6NOtmfCn0Xb15-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-16" target="J9tHDdO6NOtmfCn0Xb15-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-17" target="J9tHDdO6NOtmfCn0Xb15-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-28" value="实时下发网络模型图切分深度断点" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-10" target="J9tHDdO6NOtmfCn0Xb15-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="394" y="188" />
+              <mxPoint x="394" y="403" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送截断大张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.34;exitY=0.99;entryX=0.06;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="223" y="601" />
+              <mxPoint x="223" y="1023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-30" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.78;exitY=0.99;entryX=0.2;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="391" y="601" />
+              <mxPoint x="391" y="651" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-31" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=0.99;entryX=0.76;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-18" target="J9tHDdO6NOtmfCn0Xb15-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="515" y="1023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-4" target="J9tHDdO6NOtmfCn0Xb15-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-33" value="统筹与故障倒换指令下发" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-12" target="J9tHDdO6NOtmfCn0Xb15-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
