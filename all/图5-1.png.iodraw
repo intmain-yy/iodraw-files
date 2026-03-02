@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="261" width="748" height="629" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="415" y="630" width="260" height="240" as="geometry" />
+          <mxGeometry x="415" y="560" width="260" height="240" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="40" y="286" width="482" height="264" as="geometry" />
@@ -50,13 +50,13 @@
           <mxGeometry x="188" y="470" width="189" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="445" y="655" width="206" height="49" as="geometry" />
+          <mxGeometry x="445" y="585" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-17" value="温备模型显存映射区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="445" y="730" width="206" height="49" as="geometry" />
+          <mxGeometry x="445" y="660" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-18" value="容灾接管特征推流器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="445" y="807" width="206" height="49" as="geometry" />
+          <mxGeometry x="445" y="737" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-6" target="J9tHDdO6NOtmfCn0Xb15-7">
           <mxGeometry relative="1" as="geometry">
