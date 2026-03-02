@@ -107,7 +107,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-23" value="执行后置融合推理出列" style="curved=1;endArrow=block;rounded=0;fontSize=19;labelBackgroundColor=none;entryX=0.533;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dyy7h7P7rHvHzDxIGnID-6">
-          <mxGeometry x="-0.8401" y="30" relative="1" as="geometry">
+          <mxGeometry x="-0.8925" y="22" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1430" y="870" />
             </Array>
@@ -175,7 +175,7 @@
           <mxGeometry x="220" y="620" width="317" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-34" value="激活云端高维特征拼装网络 (Concat)" style="fillColor=#eeeeee;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="778" width="325" height="49" as="geometry" />
+          <mxGeometry x="1140" y="770" width="325" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
