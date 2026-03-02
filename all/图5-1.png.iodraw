@@ -41,7 +41,7 @@
           <mxGeometry x="456.5" y="129" width="177" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-13" value="多源传感器阵列: 可见光+红外" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="82" y="311" width="178" height="67" as="geometry" />
+          <mxGeometry x="82" y="311" width="178" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-14" value="浅层特征感知计算池" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="179" y="428" width="206" height="49" as="geometry" />
