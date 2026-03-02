@@ -64,8 +64,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-16" value="3" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-15">
-          <mxGeometry width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="-147.5" y="-7" as="offset" />
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="-151" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-17" value="同步透传 可见光 + 红外感知张量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-2" target="dyy7h7P7rHvHzDxIGnID-3">
@@ -76,8 +76,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-18" value="4" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-17">
-          <mxGeometry width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="-159" y="-7" as="offset" />
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="-159" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-19" value="旁路发包: 携带网络指纹周期性维持心跳" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4">
