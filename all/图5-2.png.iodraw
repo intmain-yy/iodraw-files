@@ -14,7 +14,7 @@
           <mxGeometry x="10" y="300" width="1050" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-46" value="边缘无人车集群（边缘节点）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=20;fontStyle=1;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="10" y="70" width="1050" height="200" as="geometry" />
+          <mxGeometry x="10" y="70" width="1010" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-33" target="zOpF3xat3lPP_-Pxq9Cr-37">
           <mxGeometry relative="1" as="geometry" />
@@ -133,7 +133,7 @@
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-73" value="最优切分点数据（TCP数据流）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=15;fontColor=default;labelBackgroundColor=none;fillColor=none;gradientColor=none;" vertex="1" connectable="0" parent="zOpF3xat3lPP_-Pxq9Cr-72">
           <mxGeometry x="-0.4418" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-14" as="offset" />
+            <mxPoint x="12" y="-44" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-54" value="系统切分点裁决器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
