@@ -152,12 +152,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-33" value="统筹与故障倒换指令下发" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-12" target="J9tHDdO6NOtmfCn0Xb15-2">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-33" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-12" target="J9tHDdO6NOtmfCn0Xb15-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="J9tHDdO6NOtmfCn0Xb15-2">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-35" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-12" target="J9tHDdO6NOtmfCn0Xb15-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="780" y="201" as="sourcePoint" />
             <mxPoint x="780" y="461" as="targetPoint" />
