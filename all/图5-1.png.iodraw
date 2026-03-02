@@ -11,7 +11,7 @@
           <mxGeometry x="628" y="520" width="260" height="200" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-3" value="边缘工作主节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="308" width="360" height="252" as="geometry" />
+          <mxGeometry x="260" y="308" width="330" height="252" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-4" value="协同调度与监控层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="60" width="690" height="168" as="geometry" />
