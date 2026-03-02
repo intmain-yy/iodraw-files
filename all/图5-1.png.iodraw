@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-1" value="边缘无人集群感知计算层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="230" y="267" width="690" height="533" as="geometry" />
+          <mxGeometry x="230" y="267" width="690" height="473" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-2" value="边缘热备工作节点" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=18;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="628" y="520" width="260" height="200" as="geometry" />
@@ -95,7 +95,7 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-34" value="高频UDP心跳信息&amp;nbsp; 状态保活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="J9tHDdO6NOtmfCn0Xb15-30">
           <mxGeometry x="-0.4994" y="6" relative="1" as="geometry">
-            <mxPoint x="38" y="7" as="offset" />
+            <mxPoint x="53" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-31" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-18" target="J9tHDdO6NOtmfCn0Xb15-6">
