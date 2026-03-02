@@ -26,10 +26,10 @@
           <mxGeometry x="304" y="1120" width="206" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征联汇聚合算子" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="288" y="1246" width="237" height="49" as="geometry" />
+          <mxGeometry x="288" y="1196.5" width="237" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-9" value="推理结果任务输出头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="304" y="1345" width="205" height="49" as="geometry" />
+          <mxGeometry x="304" y="1270" width="205" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="186" y="129" width="193" height="34" as="geometry" />
