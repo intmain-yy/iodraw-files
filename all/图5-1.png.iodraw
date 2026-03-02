@@ -105,7 +105,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-56" value="热备接力 推送预存后置张量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#000000;fillColor=#FAE5C7;" vertex="1" connectable="0" parent="J9tHDdO6NOtmfCn0Xb15-31">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-56" value="热备接力 推送预存后置张量" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#0F8B8D;fontColor=#000000;fillColor=#FAE5C7;labelBackgroundColor=none;" vertex="1" connectable="0" parent="J9tHDdO6NOtmfCn0Xb15-31">
           <mxGeometry x="-0.2251" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
