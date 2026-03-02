@@ -11,7 +11,7 @@
           <mxGeometry x="10" y="520" width="1050" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-47" value="网络传输与容错抗毁层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;strokeColor=#36393d;align=center;fontFamily=Helvetica;fontSize=20;fontStyle=1;fillColor=#eeeeee;" vertex="1" parent="1">
-          <mxGeometry x="10" y="300" width="1050" height="200" as="geometry" />
+          <mxGeometry x="10" y="300" width="1010" height="200" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-46" value="边缘无人车集群（边缘节点）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=20;fontStyle=1;fillColor=#eeeeee;" vertex="1" parent="1">
           <mxGeometry x="10" y="70" width="1010" height="200" as="geometry" />
@@ -162,7 +162,7 @@
           <mxGeometry x="570" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-57" value="输出最终推理任务感知结果" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="870" y="580" width="140" height="60" as="geometry" />
+          <mxGeometry x="810" y="580" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="最优切分点数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="860" y="165" width="140" height="30" as="geometry" />
