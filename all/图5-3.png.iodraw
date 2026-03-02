@@ -19,7 +19,7 @@
         <mxCell id="dyy7h7P7rHvHzDxIGnID-6" value="分布式云端节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;" vertex="1" parent="1">
           <mxGeometry x="1300" y="300" width="150" height="1026" as="geometry" />
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#0e8088;height=20;width=30;fontSize=19;fillColor=#b0e3e6;" vertex="1" parent="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#23445d;height=20;width=30;fontSize=19;fillColor=#bac8d3;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="387" y="928" width="949" height="293" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-8" value="[发生强链路跌落/硬件宕机事件]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-7">
