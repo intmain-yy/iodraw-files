@@ -117,7 +117,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-24" value="7" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-23">
           <mxGeometry width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-105" y="-20" as="offset" />
+            <mxPoint x="-53" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-25" value="心跳保活阻断 (丢包触线)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=19;endSize=12;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4">
