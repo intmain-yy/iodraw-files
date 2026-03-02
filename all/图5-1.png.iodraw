@@ -122,7 +122,7 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-38" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;统筹与故障倒换指令下发&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="J9tHDdO6NOtmfCn0Xb15-35">
           <mxGeometry x="-0.3107" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" y="3" as="offset" />
+            <mxPoint x="1" y="-66" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
