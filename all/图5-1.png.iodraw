@@ -14,7 +14,7 @@
           <mxGeometry x="260" y="308" width="330" height="252" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-4" value="协同调度与监控层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="230" y="60" width="690" height="168" as="geometry" />
+          <mxGeometry x="230" y="50" width="690" height="168" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="云端节点协同计算层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="230" y="740" width="690" height="130" as="geometry" />
@@ -32,13 +32,13 @@
           <mxGeometry x="589.25" y="790" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="364" y="175" width="193" height="34" as="geometry" />
+          <mxGeometry x="364" y="165" width="193" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="402" y="100" width="365.25" height="34" as="geometry" />
+          <mxGeometry x="402" y="90" width="365.25" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾故障编排板" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="669.5" y="175" width="177" height="34" as="geometry" />
+          <mxGeometry x="669.5" y="165" width="177" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-13" value="帧图像序列: 可见光+红外" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="200" height="42" as="geometry" />
@@ -127,14 +127,14 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="137" as="sourcePoint" />
-            <mxPoint x="480" y="173" as="targetPoint" />
+            <mxPoint x="480" y="127" as="sourcePoint" />
+            <mxPoint x="480" y="163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.201;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="705" y="138" as="sourcePoint" />
-            <mxPoint x="705.0770000000002" y="172.986" as="targetPoint" />
+            <mxPoint x="705" y="128" as="sourcePoint" />
+            <mxPoint x="705.0770000000002" y="162.986" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-46" value="任务输出" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
