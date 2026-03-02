@@ -17,13 +17,16 @@
           <mxGeometry x="230" y="60" width="690" height="168" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="云端节点协同计算层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="230" y="810" width="690" height="210" as="geometry" />
+          <mxGeometry x="230" y="810" width="690" height="130" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-6" value="云端通信接收中间件" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="260" y="860" width="154.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-7" value="深层算子计算图引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="414.75" y="860" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-8" target="J9tHDdO6NOtmfCn0Xb15-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征联汇聚合算子" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="564.75" y="860" width="180" height="49" as="geometry" />
@@ -133,7 +136,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-46" value="任务输出" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;strokeColor=default;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fontColor=default;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="810" y="860" width="80" height="80" as="geometry" />
+          <mxGeometry x="800" y="844.5" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
