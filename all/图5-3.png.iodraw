@@ -108,14 +108,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-23" value="执行后置融合推理" style="curved=1;endArrow=block;rounded=0;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-6" target="dyy7h7P7rHvHzDxIGnID-6">
-          <mxGeometry x="-0.3108" y="28" relative="1" as="geometry">
+          <mxGeometry x="-0.3977" y="20" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1330" y="870" />
               <mxPoint x="1330" y="910" />
             </Array>
             <mxPoint x="1380" y="870" as="sourcePoint" />
             <mxPoint x="1380" y="900" as="targetPoint" />
-            <mxPoint x="-8" y="-20" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-24" value="7" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-23">
@@ -180,7 +180,7 @@
           <mxGeometry x="200" y="620" width="330" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-34" value="激活云端高维特征融合网络 (Concat)" style="fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="770" width="325" height="49" as="geometry" />
+          <mxGeometry x="1085" y="770" width="325" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
