@@ -138,6 +138,7 @@
             <Array as="points">
               <mxPoint x="860" y="1090" />
               <mxPoint x="801" y="1120" />
+              <mxPoint x="797" y="1100" />
             </Array>
             <mxPoint x="797" y="1070" as="sourcePoint" />
             <mxPoint as="offset" />
