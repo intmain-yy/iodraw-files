@@ -113,8 +113,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-24" value="7" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-23">
-          <mxGeometry width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="-57" y="-22" as="offset" />
+          <mxGeometry width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-61" y="-22" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-25" value="心跳保活阻断 (丢包触线)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4">
@@ -125,7 +125,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-26" value="8" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-25">
-          <mxGeometry width="14" height="14" relative="1" as="geometry">
+          <mxGeometry width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-183.5" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
