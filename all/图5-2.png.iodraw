@@ -161,10 +161,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-56" value="多模态高维特征融合计算" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="465" y="470" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-57" value="输出最终推理任务感知结果" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="705" y="470" width="140" height="60" as="geometry" />
+          <mxGeometry x="740" y="470" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="最优切分点数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="840" y="165" width="90" height="30" as="geometry" />
