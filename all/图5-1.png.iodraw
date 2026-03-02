@@ -17,7 +17,7 @@
           <mxGeometry x="160" y="20" width="500" height="168" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-5" value="中心云端节点层 Cloud Node Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="126" y="1023" width="476" height="396" as="geometry" />
+          <mxGeometry x="260" y="1023" width="342" height="307" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-6" value="云端通信接收中间件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="304" y="1048" width="205" height="49" as="geometry" />
