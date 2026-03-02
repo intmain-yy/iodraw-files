@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
   <diagram id="ZnDgKxV7Qj7aFyRTDPOz" name="第 1 页">
-    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+    <mxGraphModel dx="1678" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送截断大张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6">
-          <mxGeometry x="-0.1312" y="22" relative="1" as="geometry">
+          <mxGeometry x="-0.0935" y="14" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="680" />
             </Array>
@@ -140,12 +140,6 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-46" value="任务输出" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;glass=0;strokeColor=#36393d;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=15;fillColor=#f9f7ed;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="791" y="795.25" width="74.5" height="74.5" as="geometry" />
-        </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-52" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="959" y="170" width="210" height="260" as="geometry" />
-        </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-53" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry y="324.5" width="170" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
