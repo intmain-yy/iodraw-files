@@ -8,7 +8,7 @@
           <mxGeometry x="50" y="531" width="1425" height="700" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-10" value="[循环帧图像流联合感知]" style="text;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-9">
-          <mxGeometry x="40.97771387491014" width="1384.0222861250897" height="20" as="geometry" />
+          <mxGeometry x="50" width="1375" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-2" value="多模态传感器阵列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="300" width="160" height="1026" as="geometry" />
