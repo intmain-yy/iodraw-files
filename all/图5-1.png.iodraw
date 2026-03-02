@@ -78,13 +78,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送中间张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1">
-          <mxGeometry x="0.0003" y="11" relative="1" as="geometry">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送中间张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;labelBackgroundColor=none;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6">
+          <mxGeometry x="-0.0374" y="19" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="351" y="680" />
+              <mxPoint x="350" y="680" />
             </Array>
-            <mxPoint x="444.5663265306125" y="541" as="sourcePoint" />
-            <mxPoint x="362.875" y="808" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
