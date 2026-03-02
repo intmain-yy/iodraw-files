@@ -52,8 +52,8 @@
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-57" value="输出最终推理任务感知结果" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="690" y="590" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="830" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="最优切分点集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="160" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
