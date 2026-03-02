@@ -120,8 +120,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送截断大张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.34;exitY=0.99;entryX=0.06;entryY=-0.01;rounded=0;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="223" y="601" />
-              <mxPoint x="260" y="880" />
+              <mxPoint x="260" y="810" />
             </Array>
           </mxGeometry>
         </mxCell>
