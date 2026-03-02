@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-17" value="同步透传 可见光 + 红外感知张量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-2" target="dyy7h7P7rHvHzDxIGnID-3">
-          <mxGeometry x="0.2301" y="10" relative="1" as="geometry">
+          <mxGeometry x="0.3939" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="600" />
             </Array>
