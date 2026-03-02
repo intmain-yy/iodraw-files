@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-15" value="挂载剩余深层网络结构接收态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-6">
-          <mxGeometry x="0.0049" y="11" relative="1" as="geometry">
+          <mxGeometry x="0.0049" y="1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1194" y="511" />
             </Array>
