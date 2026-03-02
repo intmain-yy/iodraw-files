@@ -100,8 +100,8 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-22" value="6" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-21">
-          <mxGeometry width="14" height="14" relative="1" as="geometry">
-            <mxPoint x="-471" y="-7" as="offset" />
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="-475" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-23" value="执行后置融合推理出列" style="curved=1;endArrow=block;rounded=0;fontSize=19;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-6" target="dyy7h7P7rHvHzDxIGnID-6">
