@@ -16,7 +16,7 @@
         <mxCell id="dyy7h7P7rHvHzDxIGnID-6" value="分布式云端节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;strokeColor=#56517e;align=center;verticalAlign=middle;fontFamily=Helvetica;fontColor=default;fillColor=#d0cee2;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1300" y="300" width="150" height="1026" as="geometry" />
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#23445d;height=32;width=63;fontSize=19;fillColor=#bac8d3;swimlaneFillColor=#CDDDEF;" vertex="1" parent="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#36393d;height=32;width=63;fontSize=19;fillColor=#cce5ff;swimlaneFillColor=#CDDDEF;" vertex="1" parent="1">
           <mxGeometry x="387" y="928" width="949" height="293" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-8" value="发生节点宕机事件" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-7">
@@ -175,7 +175,7 @@
         <mxCell id="dyy7h7P7rHvHzDxIGnID-33" value="并行提取本地浅层网络（至切分层）" style="fillColor=#eeeeee;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="220" y="632" width="317" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-34" value="激活云端高维特征拼装网络 (Concat)" style="fillColor=#ffff88;strokeColor=#9E916F;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-34" value="激活云端高维特征拼装网络 (Concat)" style="fillColor=#eeeeee;strokeColor=#36393d;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1140" y="802" width="325" height="49" as="geometry" />
         </mxCell>
       </root>
