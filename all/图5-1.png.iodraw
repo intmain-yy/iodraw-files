@@ -85,7 +85,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-28" value="实时下发网络模型图切分点" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;fontSize=15;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-10" target="J9tHDdO6NOtmfCn0Xb15-14">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-28" value="实时下发网络模型图切分点" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;fontSize=15;strokeWidth=2;" edge="1" parent="1" source="J9tHDdO6NOtmfCn0Xb15-10" target="J9tHDdO6NOtmfCn0Xb15-14">
           <mxGeometry x="0.4652" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="604" y="237" />
@@ -141,14 +141,14 @@
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="130" as="sourcePoint" />
-            <mxPoint x="491.99818897637783" y="165" as="targetPoint" />
+            <mxPoint x="490" y="128" as="sourcePoint" />
+            <mxPoint x="491.99818897637783" y="163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="710" y="130" as="sourcePoint" />
-            <mxPoint x="709.9981889763778" y="165" as="targetPoint" />
+            <mxPoint x="710" y="128" as="sourcePoint" />
+            <mxPoint x="709.9981889763778" y="163" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
