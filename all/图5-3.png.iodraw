@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-17" value="同步透传 可见光 + 红外感知张量" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-2" target="dyy7h7P7rHvHzDxIGnID-3">
-          <mxGeometry x="0.3939" y="10" relative="1" as="geometry">
+          <mxGeometry x="0.312" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="260" y="600" />
             </Array>
@@ -91,7 +91,7 @@
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-20" value="5" style="ellipse;aspect=fixed;fillColor=#000000;align=center;fontColor=#FFFFFF;fontSize=20;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-19">
           <mxGeometry width="24" height="24" relative="1" as="geometry">
-            <mxPoint x="-196" y="-17" as="offset" />
+            <mxPoint x="-237" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-21" value="流水线推送: 切层张量网络负载分发 (TCP Tensors)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" edge="1" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-6">
