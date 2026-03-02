@@ -7,7 +7,7 @@
         <mxCell id="dyy7h7P7rHvHzDxIGnID-9" value="loop" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;height=29;width=50;fontSize=19;swimlaneFillColor=#E3E1D7;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="50" y="531" width="1425" height="700" as="geometry" />
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-10" value="[循环帧图像流联合感知]" style="text;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-9">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-10" value="循环帧图像流联合感知" style="text;strokeColor=#36393d;fillColor=#eeeeee;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=19;" vertex="1" parent="dyy7h7P7rHvHzDxIGnID-9">
           <mxGeometry x="50" width="1375" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-2" value="多模态传感器阵列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=19;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=2;" vertex="1" parent="1">
