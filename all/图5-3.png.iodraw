@@ -106,10 +106,10 @@
             <mxPoint x="-483" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-23" value="执行后置融合推理出列" style="curved=1;endArrow=block;rounded=0;fontSize=19;labelBackgroundColor=none;" edge="1" parent="1" target="dyy7h7P7rHvHzDxIGnID-6">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-23" value="执行后置融合推理出列" style="curved=1;endArrow=block;rounded=0;fontSize=19;labelBackgroundColor=none;entryX=0.533;entryY=0.585;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="dyy7h7P7rHvHzDxIGnID-6">
           <mxGeometry x="-0.8401" y="30" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1420" y="880" />
+              <mxPoint x="1430" y="870" />
             </Array>
             <mxPoint x="1380" y="860" as="sourcePoint" />
             <mxPoint as="offset" />
