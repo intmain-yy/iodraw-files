@@ -11,16 +11,16 @@
           <mxGeometry x="326" y="20" width="264" height="253" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-3" value="多模态输入端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="20" y="29" width="256" height="236" as="geometry" />
+          <mxGeometry x="20" y="29" width="230" height="236" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-4" value="可见光图像张量 RGB" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="45" y="64" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-5" value="红外热成像张量 IR" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="52" y="180" width="192" height="49" as="geometry" />
+          <mxGeometry x="52" y="180" width="158" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-6" value="视觉卷积层集群 Conv Layers" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="351" y="55" width="214" height="67" as="geometry" />
+          <mxGeometry x="351" y="62.5" width="214" height="52" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-7" value="红外卷积层集群 Conv Layers" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="351" y="172" width="214" height="67" as="geometry" />
