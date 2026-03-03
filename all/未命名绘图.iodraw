@@ -53,7 +53,7 @@
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-18" value="提取视觉特征提取 $$X_{vis}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fontSize=15;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vdQhd4hHZjR--cxEJD3H-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-7" as="offset" />
+            <mxPoint x="-7" y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-14" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.87;rounded=0;fontSize=15;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-7" target="vdQhd4hHZjR--cxEJD3H-8">
@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-22" value="提取红外特征提取 $$X_{ir}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBackgroundColor=none;" vertex="1" connectable="0" parent="vdQhd4hHZjR--cxEJD3H-14">
           <mxGeometry x="-0.1616" y="6" relative="1" as="geometry">
-            <mxPoint y="3" as="offset" />
+            <mxPoint y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=15;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-8" target="vdQhd4hHZjR--cxEJD3H-9">
