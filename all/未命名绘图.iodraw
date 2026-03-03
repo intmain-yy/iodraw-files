@@ -47,14 +47,14 @@
         <mxCell id="vdQhd4hHZjR--cxEJD3H-13" value="提取视觉特征提取 $X_{vis}$" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-6" target="vdQhd4hHZjR--cxEJD3H-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="842" y="88" />
+              <mxPoint x="690" y="88" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-14" value="提取红外特征提取 $X_{ir}$" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.87;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-7" target="vdQhd4hHZjR--cxEJD3H-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="842" y="205" />
+              <mxPoint x="680" y="210" />
             </Array>
           </mxGeometry>
         </mxCell>
