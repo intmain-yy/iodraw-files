@@ -29,7 +29,7 @@
           <mxGeometry x="730" y="94" width="97" height="97" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-9" value="交叉注意力降维网络" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="858" y="118" width="127" height="49" as="geometry" />
+          <mxGeometry x="858" y="118" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-10" value="全连接分类网络" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1028" y="118" width="122" height="49" as="geometry" />
