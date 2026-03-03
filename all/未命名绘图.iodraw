@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vdQhd4hHZjR--cxEJD3H-1" value="融合与分类头" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="710" y="20" width="478" height="234" as="geometry" />
+          <mxGeometry x="710" y="29" width="478" height="234" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-2" value="双通道特征提取网络" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="290" y="29" width="264" height="241" as="geometry" />
