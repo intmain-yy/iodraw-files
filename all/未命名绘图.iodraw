@@ -65,7 +65,7 @@
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-22" value="提取红外特征提取 $$X_{ir}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vdQhd4hHZjR--cxEJD3H-14">
           <mxGeometry x="-0.1616" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-8" target="vdQhd4hHZjR--cxEJD3H-9">
