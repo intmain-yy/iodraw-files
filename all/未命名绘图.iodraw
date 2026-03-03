@@ -51,8 +51,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vdQhd4hHZjR--cxEJD3H-18" value="提取视觉特征提取 $$X_{vis}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vdQhd4hHZjR--cxEJD3H-13">
-          <mxGeometry x="-0.232" relative="1" as="geometry">
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-18" value="提取视觉特征提取 $$X_{vis}$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=1;points=[];movable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="vdQhd4hHZjR--cxEJD3H-13">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
