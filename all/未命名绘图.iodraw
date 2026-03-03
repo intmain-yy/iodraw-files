@@ -14,7 +14,7 @@
           <mxGeometry x="20" y="29" width="256" height="236" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-4" value="可见光图像张量 RGB" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="45" y="64" width="206" height="49" as="geometry" />
+          <mxGeometry x="45" y="64" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-5" value="红外热成像张量 IR" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="52" y="180" width="192" height="49" as="geometry" />
