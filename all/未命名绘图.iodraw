@@ -26,7 +26,7 @@
           <mxGeometry x="351" y="172" width="214" height="67" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-8" value="Concatenate&#xa;特征拼接层" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="867" y="94" width="106" height="106" as="geometry" />
+          <mxGeometry x="870" y="107" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-9" value="交叉注意力降维网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1023" y="122" width="127" height="49" as="geometry" />
