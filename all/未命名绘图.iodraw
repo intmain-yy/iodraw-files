@@ -32,7 +32,7 @@
           <mxGeometry x="1023" y="122" width="127" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-10" value="全连接分类网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1278" y="122" width="174" height="49" as="geometry" />
+          <mxGeometry x="1180" y="122" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-4" target="vdQhd4hHZjR--cxEJD3H-6">
           <mxGeometry relative="1" as="geometry">
