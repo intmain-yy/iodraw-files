@@ -1,0 +1,74 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="24.7.17">
+  <diagram name="第 1 页" id="MGeLrnNGbo7SkLvEGRCs">
+    <mxGraphModel dx="1426" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-1" value="融合与分类头" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="842" y="24" width="635" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-2" value="双通道特征提取网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="326" y="20" width="264" height="253" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-3" value="多模态输入端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="29" width="256" height="236" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-4" value="可见光图像张量 RGB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="45" y="64" width="206" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-5" value="红外热成像张量 IR" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="52" y="180" width="192" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-6" value="视觉卷积层集群 Conv Layers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="351" y="55" width="214" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-7" value="红外卷积层集群 Conv Layers" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="351" y="172" width="214" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-8" value="Concatenate&#xa;特征拼接层" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="867" y="94" width="106" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-9" value="交叉注意力降维网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1023" y="122" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-10" value="全连接分类网络" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1278" y="122" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-4" target="vdQhd4hHZjR--cxEJD3H-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-5" target="vdQhd4hHZjR--cxEJD3H-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-13" value="提取视觉特征提取 $X_{vis}$" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-6" target="vdQhd4hHZjR--cxEJD3H-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="842" y="88" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-14" value="提取红外特征提取 $X_{ir}$" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.87;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-7" target="vdQhd4hHZjR--cxEJD3H-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="842" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-8" target="vdQhd4hHZjR--cxEJD3H-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-9" target="vdQhd4hHZjR--cxEJD3H-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
