@@ -44,7 +44,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vdQhd4hHZjR--cxEJD3H-13" value="提取视觉特征提取 $X_{vis}$" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-6" target="vdQhd4hHZjR--cxEJD3H-8">
+        <mxCell id="vdQhd4hHZjR--cxEJD3H-13" value="提取视觉特征提取 $$X_{vis}$$" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-6" target="vdQhd4hHZjR--cxEJD3H-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="690" y="88" />
