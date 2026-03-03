@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vdQhd4hHZjR--cxEJD3H-1" value="融合与分类头" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="710" y="29" width="478" height="234" as="geometry" />
+          <mxGeometry x="691" y="30" width="478" height="234" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-2" value="双通道特征提取网络" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="290" y="29" width="264" height="241" as="geometry" />
@@ -26,13 +26,13 @@
           <mxGeometry x="315" y="180" width="214" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-8" value="Concatenate&#xa;特征拼接层" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="730" y="94" width="97" height="97" as="geometry" />
+          <mxGeometry x="711" y="95" width="97" height="97" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-9" value="交叉注意力降维网络" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="858" y="118" width="142" height="49" as="geometry" />
+          <mxGeometry x="839" y="119" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-10" value="全连接分类网络" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1028" y="118" width="122" height="49" as="geometry" />
+          <mxGeometry x="1009" y="119" width="122" height="49" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=15;" edge="1" parent="1" source="vdQhd4hHZjR--cxEJD3H-4" target="vdQhd4hHZjR--cxEJD3H-6">
           <mxGeometry relative="1" as="geometry">
