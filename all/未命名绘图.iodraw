@@ -8,7 +8,7 @@
           <mxGeometry x="760" y="20" width="478" height="234" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-2" value="双通道特征提取网络" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="290" y="20" width="264" height="253" as="geometry" />
+          <mxGeometry x="290" y="29" width="264" height="240" as="geometry" />
         </mxCell>
         <mxCell id="vdQhd4hHZjR--cxEJD3H-3" value="多模态输入端" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="20" y="29" width="230" height="236" as="geometry" />
