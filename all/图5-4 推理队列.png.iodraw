@@ -35,19 +35,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-32" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="190" y="150" width="85" height="240" as="geometry" />
+          <mxGeometry x="190" y="150" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据存储队列&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="XwEN2z90a5CYAlplho1n-32">
-          <mxGeometry width="85" height="240" as="geometry" />
+          <mxGeometry x="-5.59" width="100" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-12" value="N1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XwEN2z90a5CYAlplho1n-32">
-          <mxGeometry x="25" y="30" width="30" height="30" as="geometry" />
+          <mxGeometry x="29.411764705882355" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-13" value="N2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XwEN2z90a5CYAlplho1n-32">
-          <mxGeometry x="25" y="100" width="30" height="30" as="geometry" />
+          <mxGeometry x="29.411764705882355" y="100" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-14" value="N3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="XwEN2z90a5CYAlplho1n-32">
-          <mxGeometry x="25" y="170" width="30" height="30" as="geometry" />
+          <mxGeometry x="29.411764705882355" y="170" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="320" y="150" width="90" height="240" as="geometry" />
