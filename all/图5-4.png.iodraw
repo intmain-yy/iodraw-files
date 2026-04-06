@@ -22,7 +22,7 @@
         <mxCell id="XwEN2z90a5CYAlplho1n-6" value="待推理队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="660" y="150" width="110" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="XwEN2z90a5CYAlplho1n-7" value="数据接收队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="XwEN2z90a5CYAlplho1n-7" value="数据存储队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="800" y="150" width="110" height="240" as="geometry" />
         </mxCell>
       </root>
