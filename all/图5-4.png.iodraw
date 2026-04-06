@@ -10,8 +10,11 @@
         <mxCell id="XwEN2z90a5CYAlplho1n-2" value="待推理队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="250" y="150" width="110" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="XwEN2z90a5CYAlplho1n-3" value="待推理队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="110" height="240" as="geometry" />
+        <mxCell id="XwEN2z90a5CYAlplho1n-3" value="数据存储队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="390" y="150" width="110" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="XwEN2z90a5CYAlplho1n-4" value="待推理队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="529.5" y="150" width="110" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
