@@ -110,7 +110,7 @@
           <mxGeometry x="40" y="160" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-37" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="820" y="150" width="90" height="240" as="geometry" />
+          <mxGeometry x="770" y="150" width="90" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-7" value="数据存储队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="XwEN2z90a5CYAlplho1n-37">
           <mxGeometry width="90" height="240" as="geometry" />
