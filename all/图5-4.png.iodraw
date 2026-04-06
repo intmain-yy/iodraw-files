@@ -19,8 +19,8 @@
         <mxCell id="XwEN2z90a5CYAlplho1n-5" value="数据接收队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="110" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="XwEN2z90a5CYAlplho1n-6" value="数据接收队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="530" y="160" width="110" height="240" as="geometry" />
+        <mxCell id="XwEN2z90a5CYAlplho1n-6" value="待推理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="660" y="150" width="110" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
