@@ -59,22 +59,22 @@
           <mxGeometry x="680" y="200" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-20" value="R6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="700" y="240" width="30" height="30" as="geometry" />
+          <mxGeometry x="720" y="240" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-21" value="R7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="680" y="300" width="30" height="30" as="geometry" />
+          <mxGeometry x="670" y="285" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-22" value="R8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="700" y="340" width="30" height="30" as="geometry" />
+          <mxGeometry x="710" y="330" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-23" value="N5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="840" y="210" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-24" value="N6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="830" y="280" width="30" height="30" as="geometry" />
+          <mxGeometry x="840" y="260" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-25" value="N7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="830" y="340" width="30" height="30" as="geometry" />
+          <mxGeometry x="840" y="315" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-26" value="R4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="30" height="30" as="geometry" />
