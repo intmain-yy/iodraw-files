@@ -11,7 +11,7 @@
           <mxGeometry x="40" y="120" width="400" height="300" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-2" value="待推理队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="90" height="240" as="geometry" />
+          <mxGeometry x="70" y="150" width="80" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-5" value="数据接收队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="90" height="240" as="geometry" />
