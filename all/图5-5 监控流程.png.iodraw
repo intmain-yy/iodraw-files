@@ -16,8 +16,11 @@
         <mxCell id="epMaAyep5RrObt0MU6xD-6" value="定时测量网络带宽" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="350" width="160" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="epMaAyep5RrObt0MU6xD-7" value="是否发生链路中断" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="epMaAyep5RrObt0MU6xD-7" value="是否发生&lt;div&gt;链路中断&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="617.5" y="470" width="105" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="epMaAyep5RrObt0MU6xD-8" value="定时测量网络带宽" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="160" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
