@@ -37,10 +37,10 @@
         <mxCell id="XwEN2z90a5CYAlplho1n-11" value="R3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="91" y="290" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XwEN2z90a5CYAlplho1n-12" value="N1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XwEN2z90a5CYAlplho1n-12" value="N1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XwEN2z90a5CYAlplho1n-13" value="N2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XwEN2z90a5CYAlplho1n-13" value="N2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="230" y="250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-14" value="N3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -79,7 +79,7 @@
         <mxCell id="XwEN2z90a5CYAlplho1n-25" value="N7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="850" y="315" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XwEN2z90a5CYAlplho1n-26" value="R4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="XwEN2z90a5CYAlplho1n-26" value="R4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="90" y="345" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endWidth=18;endSize=8;width=8;" edge="1" parent="1" source="XwEN2z90a5CYAlplho1n-2" target="XwEN2z90a5CYAlplho1n-3">
