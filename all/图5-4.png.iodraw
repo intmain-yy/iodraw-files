@@ -8,7 +8,7 @@
           <mxGeometry x="495" y="120" width="440" height="300" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-1" value="边缘端" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;" vertex="1" parent="1">
-          <mxGeometry x="40" y="120" width="440" height="300" as="geometry" />
+          <mxGeometry x="40" y="120" width="420" height="300" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-2" value="待推理队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="90" height="240" as="geometry" />
@@ -92,6 +92,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="269" as="sourcePoint" />
             <mxPoint x="345" y="269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XwEN2z90a5CYAlplho1n-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endWidth=18;endSize=8;width=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="290" as="sourcePoint" />
+            <mxPoint x="225" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
