@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XwEN2z90a5CYAlplho1n-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="850" height="400" as="geometry" />
+          <mxGeometry x="40" y="80" width="950" height="400" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-2" value="待推理队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="60" y="150" width="110" height="240" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="660" y="150" width="110" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-7" value="数据接收队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="540" y="170" width="110" height="240" as="geometry" />
+          <mxGeometry x="800" y="150" width="110" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
