@@ -107,7 +107,7 @@
           <mxGeometry x="20" y="195" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-35" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="150" width="90" height="240" as="geometry" />
+          <mxGeometry x="510" y="150" width="90" height="240" as="geometry" />
         </mxCell>
         <mxCell id="XwEN2z90a5CYAlplho1n-5" value="数据接收队列" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#eeeeee;strokeColor=#36393d;shadow=1;" vertex="1" parent="XwEN2z90a5CYAlplho1n-35">
           <mxGeometry width="90" height="240" as="geometry" />
