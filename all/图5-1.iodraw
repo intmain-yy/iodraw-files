@@ -123,7 +123,7 @@
             <mxPoint x="-65" y="-28" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-25" value="心跳保活阻断 (丢包触线)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=20;endSize=15;labelBackgroundColor=none;" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4" edge="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-25" value="心跳包信号中断 (链路丢包)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=cross;dashed=1;dashPattern=2 3;fontSize=20;endSize=15;labelBackgroundColor=none;" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="583" y="1009" />
@@ -180,7 +180,7 @@
           <mxGeometry x="200" y="620" width="330" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-34" value="云端特征融合网络 (Concat)" style="fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="770" width="340" height="49" as="geometry" />
+          <mxGeometry x="1080" y="770" width="290" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
