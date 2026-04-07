@@ -124,7 +124,7 @@
             <mxPoint x="-1" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-53" value="视觉/红外融合浅层DNN编码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-53" value="视觉/红外联合浅层DNN编码" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="470" y="150" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-54" target="zOpF3xat3lPP_-Pxq9Cr-58" edge="1">
@@ -174,7 +174,7 @@
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-58" value="最优切分点数据集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="840" y="165" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-68" value="在此执行融合感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-68" value="在此执行联合感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="470" y="120" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
