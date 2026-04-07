@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-23" value="5.弹出并序列化" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;fontSize=24;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-6" target="bsaImPFtkGP7xesvfBqz-7" edge="1">
-          <mxGeometry x="-0.3889" relative="1" as="geometry">
+          <mxGeometry x="-0.6666" y="-28" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint y="1" as="offset" />
           </mxGeometry>
