@@ -14,10 +14,10 @@
           <mxGeometry x="100" y="40" width="400" height="700" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-4" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=24;align=center;verticalAlign=top;fontFamily=宋体;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="233.63" y="98" width="109" height="49" as="geometry" />
+          <mxGeometry x="233.63" y="90" width="109" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-5" value="T_infer: 推理线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="174.7" y="195" width="226.87" height="34" as="geometry" />
+          <mxGeometry x="174.7" y="189" width="226.87" height="34" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-6" value="send_queue: 内存队列" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="206.26" y="382" width="163.75" height="88" as="geometry" />
