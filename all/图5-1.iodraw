@@ -43,7 +43,7 @@
             <mxPoint x="311" y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-13" value="共享备份容灾元数据与模型缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-4" edge="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-13" value="共享备份抗毁元数据与模型缓存" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;" parent="1" source="dyy7h7P7rHvHzDxIGnID-5" target="dyy7h7P7rHvHzDxIGnID-4" edge="1">
           <mxGeometry x="-0.0036" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="909" y="459" />
