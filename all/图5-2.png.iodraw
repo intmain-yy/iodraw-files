@@ -143,7 +143,7 @@
             <mxPoint x="46" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-54" value="系统切分点裁决器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-54" value="系统模型切分裁决器" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#cce5ff;strokeColor=#36393d;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="730" y="150" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-55" target="zOpF3xat3lPP_-Pxq9Cr-56" edge="1">
