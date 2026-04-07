@@ -20,7 +20,7 @@
           <mxGeometry x="810" y="614" width="650" height="240" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-35" value="多模态数据采集 RGB/IR" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1154" y="370" width="259" height="60" as="geometry" />
+          <mxGeometry x="1154" y="400" width="259" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-36" value="动态上下文感知模块" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="850" y="400" width="235" height="58" as="geometry" />
@@ -57,10 +57,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.66;entryY=0.01;rounded=0;strokeColor=#A8201A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" parent="1" source="E8ASV8FCEGFRi4fyUCNn-35" target="E8ASV8FCEGFRi4fyUCNn-37" edge="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.66;entryY=0.01;rounded=0;strokeColor=#A8201A;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;exitDx=0;exitDy=0;" parent="1" source="E8ASV8FCEGFRi4fyUCNn-35" target="E8ASV8FCEGFRi4fyUCNn-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1358" y="460" />
+              <mxPoint x="1358" y="530" />
             </Array>
           </mxGeometry>
         </mxCell>
