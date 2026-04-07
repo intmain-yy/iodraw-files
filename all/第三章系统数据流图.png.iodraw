@@ -163,7 +163,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lhh9Yo1dnfvLQCD01usq-2" value="TCP Socket" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="560" y="300" width="136" height="136" as="geometry" />
+          <mxGeometry x="550" y="290" width="150" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
