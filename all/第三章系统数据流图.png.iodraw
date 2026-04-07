@@ -100,7 +100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="bsaImPFtkGP7xesvfBqz-10" edge="1" source="bsaImPFtkGP7xesvfBqz-9">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" target="bsaImPFtkGP7xesvfBqz-10" edge="1" source="bsaImPFtkGP7xesvfBqz-9">
           <mxGeometry x="0.0436" y="-29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="170" />
@@ -139,7 +139,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-31" value="13. 结果流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=0;exitY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;fontSize=20;entryX=1;entryY=1;entryDx=0;entryDy=0;fillColor=#f9f7ed;" parent="1" source="bsaImPFtkGP7xesvfBqz-13" target="bsaImPFtkGP7xesvfBqz-9" edge="1">
           <mxGeometry x="0.0863" y="-25" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="670" y="600" />
+              <mxPoint x="680" y="570" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
