@@ -35,7 +35,7 @@
           <mxGeometry x="897" y="669.5" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-40" value="全双工无握手 TCP 协议栈" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#f9f7ed;dashed=1;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="540" y="533.5" width="157" height="157" as="geometry" />
+          <mxGeometry x="551.5" y="576.5" width="157" height="157" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-41" value="张量接收线程 T_recv" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#d5e8d4;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="135" y="614" width="234" height="49" as="geometry" />
