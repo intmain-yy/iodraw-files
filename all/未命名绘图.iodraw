@@ -50,7 +50,7 @@
           <mxGeometry x="376.5" y="415.5" width="180.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-15" value="流式序列化推流器" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="390" y="492" width="147.75" height="49" as="geometry" />
+          <mxGeometry x="392.87" y="492" width="147.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-16" value="旁路网络心跳监听器" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="655" y="556" width="206" height="49" as="geometry" />
@@ -96,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-34" value="高频UDP心跳信息&amp;nbsp; 状态保活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=15;labelBackgroundColor=none;" parent="J9tHDdO6NOtmfCn0Xb15-30" vertex="1" connectable="0">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-34" value="高频UDP心跳信息&amp;nbsp; 状态保活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="J9tHDdO6NOtmfCn0Xb15-30" vertex="1" connectable="0">
           <mxGeometry x="-0.4994" y="6" relative="1" as="geometry">
             <mxPoint x="53" y="-4" as="offset" />
           </mxGeometry>
