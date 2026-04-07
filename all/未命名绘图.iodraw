@@ -81,7 +81,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送中间张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6" edge="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-29" value="TCP稳态长连接 传送中间张量" style="curved=1;startArrow=none;endArrow=block;strokeWidth=1;exitX=0.34;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;labelBackgroundColor=none;" parent="1" source="J9tHDdO6NOtmfCn0Xb15-15" target="J9tHDdO6NOtmfCn0Xb15-6" edge="1">
           <mxGeometry x="0.0003" y="11" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="350" y="680" />
@@ -101,7 +101,7 @@
             <mxPoint x="53" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-31" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="J9tHDdO6NOtmfCn0Xb15-18" target="J9tHDdO6NOtmfCn0Xb15-6" edge="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-31" value="" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;fontSize=15;entryDx=0;entryDy=0;exitDx=0;exitDy=0;" parent="1" source="J9tHDdO6NOtmfCn0Xb15-18" target="J9tHDdO6NOtmfCn0Xb15-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="530" y="710" />
