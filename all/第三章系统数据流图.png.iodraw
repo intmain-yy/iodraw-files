@@ -89,7 +89,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.39;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;fontSize=20;fillColor=#f9f7ed;" parent="1" source="bsaImPFtkGP7xesvfBqz-7" edge="1">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=1;exitY=0.5;entryX=0;entryY=0.25;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;fontSize=20;fillColor=#f9f7ed;entryDx=0;entryDy=0;" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="Lhh9Yo1dnfvLQCD01usq-2" edge="1">
           <mxGeometry x="-0.3052" y="-29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="380" />
@@ -159,7 +159,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Lhh9Yo1dnfvLQCD01usq-2" value="TCP Socket" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="550" y="300" width="136" height="136" as="geometry" />
+          <mxGeometry x="560" y="300" width="136" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
