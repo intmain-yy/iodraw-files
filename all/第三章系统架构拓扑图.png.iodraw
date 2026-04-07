@@ -11,7 +11,7 @@
           <mxGeometry x="85" y="570" width="340" height="350" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-32" value="网络传输层 Wireless Ad-Hoc Network" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillStyle=auto;align=center;fontFamily=Helvetica;labelBackgroundColor=none;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="480" y="456" width="300" height="494" as="geometry" />
+          <mxGeometry x="480" y="250" width="300" height="700" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-33" value="边缘端节点 Edge Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;fillStyle=auto;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="792" y="250" width="686" height="700" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="1109" y="300" width="259" height="60" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-36" value="动态上下文感知模块" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="873" y="372" width="235" height="58" as="geometry" />
+          <mxGeometry x="830" y="322" width="235" height="58" as="geometry" />
         </mxCell>
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-37" value="Stage 0: 边缘前向推理线程 T_infer" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=24;fillColor=#cce5ff;labelBackgroundColor=none;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="1148" y="604" width="290" height="67" as="geometry" />
