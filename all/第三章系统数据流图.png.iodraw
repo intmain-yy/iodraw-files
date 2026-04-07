@@ -90,7 +90,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=0.75;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;fontSize=20;fillColor=#f9f7ed;entryDx=0;entryDy=0;" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="Lhh9Yo1dnfvLQCD01usq-2" edge="1">
-          <mxGeometry x="-0.3052" y="-29" relative="1" as="geometry">
+          <mxGeometry x="0.1171" y="-8" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="460" y="410" />
             </Array>
