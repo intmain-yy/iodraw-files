@@ -26,13 +26,13 @@
           <mxGeometry x="270" y="808" width="169.25" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-7" value="深层算子计算图引擎" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="439.25" y="808" width="150" height="49" as="geometry" />
+          <mxGeometry x="439.25" y="808" width="170.75" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J9tHDdO6NOtmfCn0Xb15-8" target="J9tHDdO6NOtmfCn0Xb15-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-8" value="多模态特征融合算子" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="595" y="808" width="180" height="49" as="geometry" />
+          <mxGeometry x="600" y="808" width="175" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分调度引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;shadow=1;labelBorderColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="330" y="165" width="240" height="34" as="geometry" />
