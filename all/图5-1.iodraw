@@ -95,7 +95,7 @@
             <mxPoint x="-176" y="-17" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-21" value="流水线推送: 切层张量网络负载分发 (TCP Tensors)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-6" edge="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-21" value="流水线推送: 切分层张量数据通过网络分发 (TCP Tensors)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" parent="1" source="dyy7h7P7rHvHzDxIGnID-3" target="dyy7h7P7rHvHzDxIGnID-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="870" y="750" />
