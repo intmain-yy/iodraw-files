@@ -150,7 +150,7 @@
             <mxPoint x="-65" y="-35" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyy7h7P7rHvHzDxIGnID-29" value="TCP通道强行劫持/接力重建请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-6" edge="1">
+        <mxCell id="dyy7h7P7rHvHzDxIGnID-29" value="TCP通道强行劫持/接力重建请求" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;endArrow=block;fontSize=20;labelBackgroundColor=none;" parent="1" source="dyy7h7P7rHvHzDxIGnID-4" target="dyy7h7P7rHvHzDxIGnID-6" edge="1">
           <mxGeometry x="-0.0006" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1046" y="1149" />
