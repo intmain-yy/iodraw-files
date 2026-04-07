@@ -110,8 +110,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-26" value="8. 反序列化" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;curved=1;" parent="1" source="bsaImPFtkGP7xesvfBqz-10" target="bsaImPFtkGP7xesvfBqz-17" edge="1">
-          <mxGeometry x="0.3333" relative="1" as="geometry">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-26" value="8.反序列化" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=20;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;curved=1;" parent="1" source="bsaImPFtkGP7xesvfBqz-10" target="bsaImPFtkGP7xesvfBqz-17" edge="1">
+          <mxGeometry x="-0.7193" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
