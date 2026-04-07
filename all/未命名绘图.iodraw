@@ -166,8 +166,8 @@
         <mxCell id="ItI6IC-Vc3akvwSYMjBn-14" value="前&lt;div&gt;端&lt;/div&gt;&lt;div&gt;页&lt;/div&gt;&lt;div&gt;面&lt;/div&gt;&lt;div&gt;展&lt;/div&gt;&lt;div&gt;示&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=10;gradientColor=none;shadow=1;direction=east;" vertex="1" parent="1">
           <mxGeometry x="930" y="50" width="70" height="990" as="geometry" />
         </mxCell>
-        <mxCell id="ItI6IC-Vc3akvwSYMjBn-16" value="底层技术框架" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;size=10;gradientColor=#b3b3b3;shadow=1;direction=east;verticalAlign=top;textShadow=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="920" width="688" height="130" as="geometry" />
+        <mxCell id="ItI6IC-Vc3akvwSYMjBn-16" value="云端节点协同计算层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;size=10;gradientColor=#b3b3b3;shadow=1;direction=east;verticalAlign=top;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="232" y="1100" width="688" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
