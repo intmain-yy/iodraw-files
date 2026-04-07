@@ -11,7 +11,7 @@
           <mxGeometry x="520" y="40" width="220" height="700" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-3" value="边缘端节点" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;verticalAlign=top;fontSize=24;align=center;fontFamily=宋体;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="100" y="40" width="400" height="700" as="geometry" />
+          <mxGeometry x="100" y="40" width="400" height="760" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-4" value="摄像头" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=24;align=center;verticalAlign=top;fontFamily=宋体;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="233.63" y="90" width="109" height="49" as="geometry" />
@@ -73,7 +73,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-21" value="3. 推入队列" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;fontSize=24;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-15" target="bsaImPFtkGP7xesvfBqz-6" edge="1">
-          <mxGeometry x="-0.2221" y="15" relative="1" as="geometry">
+          <mxGeometry x="-0.2149" y="1" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
