@@ -121,7 +121,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-55" value="全局带宽与算力视图" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.25;rounded=0;entryDx=0;entryDy=0;fontSize=24;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" parent="1" source="E8ASV8FCEGFRi4fyUCNn-44" target="E8ASV8FCEGFRi4fyUCNn-36" edge="1">
           <mxGeometry x="-0.0468" y="-10" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="690" y="270" />
+              <mxPoint x="690" y="310" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
