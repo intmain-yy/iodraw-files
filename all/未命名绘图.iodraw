@@ -167,7 +167,7 @@
           <mxGeometry x="730" y="960" width="177.54" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ItI6IC-Vc3akvwSYMjBn-9" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="1">
-          <mxGeometry x="703.12" y="1050" width="109.76" height="90" as="geometry" />
+          <mxGeometry x="669.5" y="1140" width="109.76" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
