@@ -32,7 +32,7 @@
           <mxGeometry x="827.5" y="90" width="222.5" height="42" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-11" value="compute_queue: 计算队列" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="844" y="300" width="189.5" height="90" as="geometry" />
+          <mxGeometry x="844" y="330" width="189.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-12" value="T_compute: 计算线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="810.25" y="488" width="257" height="44" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="120" y="300" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-17" value="H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="899.37" y="189" width="78.75" height="40" as="geometry" />
+          <mxGeometry x="899.37" y="210" width="78.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-18" value="最终结果 Y_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="851.25" y="610" width="175" height="40" as="geometry" />
