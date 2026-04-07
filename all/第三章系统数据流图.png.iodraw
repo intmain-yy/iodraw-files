@@ -100,7 +100,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="bsaImPFtkGP7xesvfBqz-10" edge="1" source="bsaImPFtkGP7xesvfBqz-9">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7. 字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" target="bsaImPFtkGP7xesvfBqz-10" edge="1" source="bsaImPFtkGP7xesvfBqz-9">
           <mxGeometry x="0.0436" y="-29" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="720" y="170" />
