@@ -11,7 +11,7 @@
           <mxGeometry x="47.719298245614034" width="1312.280701754386" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-2" value="多模态帧图像序列" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fontSize=20;fillColor=#d0cee2;strokeColor=#56517e;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="20" y="300" width="160" height="970" as="geometry" />
+          <mxGeometry x="20" y="300" width="170" height="970" as="geometry" />
         </mxCell>
         <mxCell id="dyy7h7P7rHvHzDxIGnID-7" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#23445d;height=32;width=63;fontSize=20;fillColor=#bac8d3;swimlaneFillColor=#B3B3B3;" parent="1" vertex="1">
           <mxGeometry x="230" y="928" width="1120" height="293" as="geometry" />
