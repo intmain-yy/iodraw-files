@@ -73,7 +73,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-28" value="实时下发网络模型图切分点" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;fontSize=15;strokeWidth=1;labelBackgroundColor=none;" parent="1" source="J9tHDdO6NOtmfCn0Xb15-10" target="J9tHDdO6NOtmfCn0Xb15-14" edge="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-28" value="实时下发网络模型图切分点" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.73;exitY=1;entryX=0.77;entryY=-0.01;rounded=0;fontSize=17;strokeWidth=1;labelBackgroundColor=none;" parent="1" source="J9tHDdO6NOtmfCn0Xb15-10" target="J9tHDdO6NOtmfCn0Xb15-14" edge="1">
           <mxGeometry x="-0.6828" y="2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="540" y="270" />
@@ -113,8 +113,8 @@
             <mxPoint x="16" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=16;entryX=0.176;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;strokeWidth=1;labelBackgroundColor=none;exitX=0.16;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ItI6IC-Vc3akvwSYMjBn-18" target="J9tHDdO6NOtmfCn0Xb15-3" edge="1">
-          <mxGeometry x="-0.6811" y="-10" relative="1" as="geometry">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-32" value="参数与资源拓扑上报" style="dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;rounded=0;fontSize=18;entryX=0.176;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;strokeWidth=1;labelBackgroundColor=none;exitX=0.16;exitY=1.006;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ItI6IC-Vc3akvwSYMjBn-18" target="J9tHDdO6NOtmfCn0Xb15-3" edge="1">
+          <mxGeometry x="-0.6878" y="-10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="340" y="270" />
               <mxPoint x="318" y="270" />
