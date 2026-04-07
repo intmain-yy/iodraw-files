@@ -35,13 +35,13 @@
           <mxGeometry x="589.25" y="808" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分调度引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;shadow=1;labelBorderColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="330" y="165" width="227" height="34" as="geometry" />
+          <mxGeometry x="330" y="165" width="240" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;shadow=1;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="402" y="90" width="365.25" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾抗毁故障编排" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="669.5" y="165" width="177" height="34" as="geometry" />
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾抗毁故障编排" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="669.5" y="165" width="190.5" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-13" value="帧图像序列: 可见光+红外" style="whiteSpace=wrap;strokeWidth=2;fontSize=15;glass=0;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="270" y="340" width="200" height="42" as="geometry" />
