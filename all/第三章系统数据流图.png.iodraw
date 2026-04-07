@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-25" value="7.字节流接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;exitX=0.5;exitY=0;exitDx=0;exitDy=0;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" target="bsaImPFtkGP7xesvfBqz-10" edge="1" source="Lhh9Yo1dnfvLQCD01usq-2">
-          <mxGeometry x="0.0436" y="-29" relative="1" as="geometry">
+          <mxGeometry x="-0.0541" y="-6" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="650" y="170" />
             </Array>
@@ -139,9 +139,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-31" value="13.结果流" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=0;exitY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;fontSize=20;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fillColor=#f9f7ed;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-13" target="Lhh9Yo1dnfvLQCD01usq-2" edge="1">
-          <mxGeometry x="0.0863" y="-25" relative="1" as="geometry">
+          <mxGeometry x="0.1341" y="-9" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="570" />
+              <mxPoint x="662" y="590" />
             </Array>
             <mxPoint as="offset" />
             <mxPoint x="663.9411254969646" y="381.9411254969648" as="targetPoint" />
