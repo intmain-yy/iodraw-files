@@ -58,13 +58,13 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-18" value="最终结果 Y_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="851.25" y="554" width="175" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-19" value="1. 捕获第 k 帧图像 X_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;fontSize=20;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-4" target="bsaImPFtkGP7xesvfBqz-5" edge="1">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-19" value="1.捕获第 k 帧图像 X_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;fontSize=20;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-4" target="bsaImPFtkGP7xesvfBqz-5" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bsaImPFtkGP7xesvfBqz-20" value="2. 执行前半部分模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-15" edge="1">
+        <mxCell id="bsaImPFtkGP7xesvfBqz-20" value="2.执行前半部分模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-15" edge="1">
           <mxGeometry x="0.0251" y="17" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="250" />
