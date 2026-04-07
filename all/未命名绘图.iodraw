@@ -96,7 +96,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-34" value="高频UDP心跳信息&amp;nbsp; 状态保活" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="J9tHDdO6NOtmfCn0Xb15-30" vertex="1" connectable="0">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-34" value="高频UDP心跳信息&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;labelBackgroundColor=none;" parent="J9tHDdO6NOtmfCn0Xb15-30" vertex="1" connectable="0">
           <mxGeometry x="-0.4994" y="6" relative="1" as="geometry">
             <mxPoint x="53" y="-4" as="offset" />
           </mxGeometry>
