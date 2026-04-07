@@ -92,7 +92,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-24" value="6. 字节流发送" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=0.75;exitY=0;entryX=0;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;fontSize=20;fillColor=#f9f7ed;entryDx=0;entryDy=0;" parent="1" source="bsaImPFtkGP7xesvfBqz-7" target="Lhh9Yo1dnfvLQCD01usq-2" edge="1">
           <mxGeometry x="0.1171" y="-8" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="460" y="410" />
+              <mxPoint x="450" y="400" />
             </Array>
             <mxPoint as="offset" />
             <mxPoint x="583.0447619950701" y="338.0397979989543" as="targetPoint" />
@@ -146,7 +146,7 @@
         <mxCell id="bsaImPFtkGP7xesvfBqz-32" value="14. 结果接收" style="curved=1;startArrow=none;endArrow=block;strokeWidth=2;exitX=0.25;exitY=1;entryX=1;entryY=0.5;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;exitDx=0;exitDy=0;" parent="1" source="Lhh9Yo1dnfvLQCD01usq-2" target="bsaImPFtkGP7xesvfBqz-8" edge="1">
           <mxGeometry x="-0.499" y="-5" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="580" y="550" />
+              <mxPoint x="560" y="580" />
             </Array>
             <mxPoint y="-1" as="offset" />
             <mxPoint x="603.374390581203" y="387.93841412819575" as="sourcePoint" />
