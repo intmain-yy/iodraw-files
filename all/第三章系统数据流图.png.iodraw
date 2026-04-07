@@ -44,7 +44,7 @@
           <mxGeometry x="810.25" y="430" width="257" height="44" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-13" value="T_send: 发送线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="822.75" y="630" width="232" height="46" as="geometry" />
+          <mxGeometry x="822.75" y="660" width="232" height="46" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-14" value="输出推理结果" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="201.63" y="670" width="173" height="49" as="geometry" />
@@ -59,7 +59,7 @@
           <mxGeometry x="899.37" y="189" width="78.75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-18" value="最终结果 Y_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="851.25" y="530" width="175" height="40" as="geometry" />
+          <mxGeometry x="851.25" y="554" width="175" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-19" value="1. 捕获第 k 帧图像 X_k" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;fontSize=20;fillColor=#f9f7ed;" parent="1" source="bsaImPFtkGP7xesvfBqz-4" target="bsaImPFtkGP7xesvfBqz-5" edge="1">
           <mxGeometry relative="1" as="geometry">
