@@ -37,7 +37,7 @@
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-10" value="分布式网络图切分调度引擎" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;labelBorderColor=none;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="350" y="165" width="207" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-11" value="动态带宽与资源探针" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=18;shadow=1;rounded=0;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="402" y="90" width="365.25" height="34" as="geometry" />
         </mxCell>
         <mxCell id="J9tHDdO6NOtmfCn0Xb15-12" value="心跳容灾抗毁故障编排" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fontSize=15;shadow=1;fillColor=#f9f7ed;strokeColor=#36393d;" parent="1" vertex="1">
@@ -129,7 +129,7 @@
             <mxPoint x="756.8681889763778" y="582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J9tHDdO6NOtmfCn0Xb15-38" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;统筹与故障切换指令下发&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=16;" parent="J9tHDdO6NOtmfCn0Xb15-35" vertex="1" connectable="0">
+        <mxCell id="J9tHDdO6NOtmfCn0Xb15-38" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;统筹与故障切换指令下发&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontSize=18;" parent="J9tHDdO6NOtmfCn0Xb15-35" vertex="1" connectable="0">
           <mxGeometry x="-0.3107" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="-79" as="offset" />
           </mxGeometry>
