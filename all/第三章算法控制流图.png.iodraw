@@ -95,8 +95,8 @@
             <mxPoint x="-22" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dIaZUhYWe7wx_FGZW1NM-27" value="控制通道" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#eeeeee;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="265" width="110" height="70" as="geometry" />
+        <mxCell id="dIaZUhYWe7wx_FGZW1NM-27" value="控制通道" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#eeeeee;rounded=1;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="320" y="272.5" width="120" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
