@@ -21,7 +21,7 @@
             <mxPoint x="7" y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-33" value="可见光摄像头" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="zOpF3xat3lPP_-Pxq9Cr-33" value="可见光图像数据" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zOpF3xat3lPP_-Pxq9Cr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zOpF3xat3lPP_-Pxq9Cr-35" target="zOpF3xat3lPP_-Pxq9Cr-44" edge="1">
