@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-20" value="2. 执行前半部分模型" style="curved=1;startArrow=none;endArrow=block;exitX=0.75;exitY=1;entryX=0.5;entryY=0;rounded=0;labelBackgroundColor=none;strokeColor=#36393d;fontColor=default;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;fillColor=#f9f7ed;strokeWidth=2;align=center;verticalAlign=top;fontFamily=宋体;" parent="1" source="bsaImPFtkGP7xesvfBqz-5" target="bsaImPFtkGP7xesvfBqz-15" edge="1">
-          <mxGeometry x="0.3517" relative="1" as="geometry">
+          <mxGeometry x="0.2737" y="10" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="390" y="250" />
             </Array>
