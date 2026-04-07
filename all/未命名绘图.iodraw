@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ItI6IC-Vc3akvwSYMjBn-18" value="协同调度与监控层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;size=10;shadow=1;direction=east;verticalAlign=top;textShadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;opacity=80;" vertex="1" parent="1">
+        <mxCell id="ItI6IC-Vc3akvwSYMjBn-18" value="协同调度与监控层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=21;size=10;shadow=1;direction=east;verticalAlign=top;textShadow=0;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="230" y="40" width="688" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ItI6IC-Vc3akvwSYMjBn-17" value="边缘无人集群感知计算层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;size=10;shadow=1;direction=east;verticalAlign=top;textShadow=0;fontColor=#333333;opacity=80;" vertex="1" parent="1">
+        <mxCell id="ItI6IC-Vc3akvwSYMjBn-17" value="边缘无人集群感知计算层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=22;fillColor=#f5f5f5;strokeColor=#666666;size=10;shadow=1;direction=east;verticalAlign=top;textShadow=0;fontColor=#333333;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="230" y="250" width="688" height="490" as="geometry" />
         </mxCell>
         <mxCell id="ItI6IC-Vc3akvwSYMjBn-16" value="云端节点协同计算层" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fillColor=#f5f5f5;strokeColor=#666666;size=10;shadow=1;direction=east;verticalAlign=top;textShadow=0;fontColor=#333333;opacity=80;" vertex="1" parent="1">
@@ -164,7 +164,7 @@
         <mxCell id="ItI6IC-Vc3akvwSYMjBn-14" value="前&lt;div style=&quot;font-size: 21px;&quot;&gt;端&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;页&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;面&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;展&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;示&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=21;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=10;gradientColor=none;shadow=1;direction=east;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="930" y="40" width="70" height="980" as="geometry" />
         </mxCell>
-        <mxCell id="ItI6IC-Vc3akvwSYMjBn-19" value="后&lt;div&gt;端&lt;/div&gt;&lt;div&gt;骨&lt;/div&gt;&lt;div&gt;架&lt;/div&gt;&lt;div&gt;流&lt;/div&gt;&lt;div&gt;程&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=20;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=10;gradientColor=none;shadow=1;direction=east;opacity=80;" vertex="1" parent="1">
+        <mxCell id="ItI6IC-Vc3akvwSYMjBn-19" value="后&lt;div style=&quot;font-size: 21px;&quot;&gt;端&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;骨&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;架&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;流&lt;/div&gt;&lt;div style=&quot;font-size: 21px;&quot;&gt;程&lt;/div&gt;" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fontSize=21;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;size=10;gradientColor=none;shadow=1;direction=east;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="150" y="40" width="70" height="980" as="geometry" />
         </mxCell>
       </root>
