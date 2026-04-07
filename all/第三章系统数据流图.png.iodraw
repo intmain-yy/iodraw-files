@@ -26,7 +26,7 @@
           <mxGeometry x="173.63" y="510" width="229" height="44" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-8" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="176.39" y="570" width="223.5" height="46" as="geometry" />
+          <mxGeometry x="176.39" y="600" width="223.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-10" value="T_recv: 接收线程" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="827.5" y="90" width="222.5" height="42" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="822.75" y="660" width="232" height="46" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-14" value="输出推理结果" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="201.63" y="670" width="173" height="49" as="geometry" />
+          <mxGeometry x="201.63" y="730" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="bsaImPFtkGP7xesvfBqz-15" value="中间特征张量 H_k" style="whiteSpace=wrap;strokeWidth=2;rounded=0;labelBackgroundColor=none;fillColor=#f9f7ed;strokeColor=#36393d;align=center;verticalAlign=top;fontFamily=宋体;fontSize=24;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="290" y="280" width="200" height="40" as="geometry" />
