@@ -80,7 +80,7 @@
         <mxCell id="E8ASV8FCEGFRi4fyUCNn-50" value="" style="curved=1;startArrow=none;endArrow=block;entryX=1;entryY=0.42;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;strokeWidth=3;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" parent="1" source="E8ASV8FCEGFRi4fyUCNn-36" target="E8ASV8FCEGFRi4fyUCNn-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="630" y="500" />
+              <mxPoint x="630" y="560" />
             </Array>
             <mxPoint x="1030" y="380" as="sourcePoint" />
           </mxGeometry>
@@ -117,7 +117,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E8ASV8FCEGFRi4fyUCNn-55" value="全局带宽与算力视图" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.25;rounded=0;entryDx=0;entryDy=0;fontSize=24;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" parent="1" source="E8ASV8FCEGFRi4fyUCNn-44" target="E8ASV8FCEGFRi4fyUCNn-36" edge="1">
+        <mxCell id="E8ASV8FCEGFRi4fyUCNn-55" value="全局带宽与算力视图" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;fontSize=24;strokeColor=#A8201A;labelBackgroundColor=none;fontColor=default;" parent="1" source="E8ASV8FCEGFRi4fyUCNn-44" target="E8ASV8FCEGFRi4fyUCNn-36" edge="1">
           <mxGeometry x="0.0267" y="-2" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="680" y="349" />
