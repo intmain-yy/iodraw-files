@@ -158,7 +158,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Lhh9Yo1dnfvLQCD01usq-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="Lhh9Yo1dnfvLQCD01usq-2" value="TCP Socket" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="585" y="554" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
